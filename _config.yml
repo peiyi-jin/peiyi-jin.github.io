@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bin Gao"
+title                    : "Peiyi Jin"
 title_separator          : "-"
-name                     : &name "Bin Gao"
+name                     : &name "Peiyi Jin"
 description              : &description "personal description"
-url                      : https://csbingao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://peiyi-jin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "csbingao/csbingao.github.io"
+repository               : "peiyi-jin/peiyi-jin.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
