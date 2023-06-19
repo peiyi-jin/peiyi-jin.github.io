@@ -35,12 +35,18 @@ Teaching
 
 Service
 ------
-1. 
+1. Investment Bank Department, Bank of Communications, China, 2018.07
+2. Sichuan Academy of Social Sciences, China, 2019.05
+3. Lawrence Berkeley National Laboratory, US, 2019.07
 
 Awards
 ======
-- 
+- Research Scholarship (NUS), 2020-2024
+- Studying Abroad Scholarship for Undergraduates (SWUFE), 2020
+- Studying Abroad Scholarship for Undergraduates (China Scholarship Council), 2018-2019
+- Semester Academic Scholarship (SWUFE), 2017-2018
+
 
 More info
 ======
-
+A fan of climbing, swimming, pets, and Sichuan food.
