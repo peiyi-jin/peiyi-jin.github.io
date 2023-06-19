@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm Bin Gao (高彬) from China. I'm a PhD Student of School of Computing (SoC) in National University of Singapore (NUS). I'm working with Prof. [Djordje Jevdjic](https://www.comp.nus.edu.sg/~jevdjic/), Prof. [Jialin Li](https://www.comp.nus.edu.sg/~lijl/), and Prof. [Antoine Kaufmann](https://people.mpi-sws.org/~antoinek/index.html). Before this, I received my bachelor degree and master degree from Huazhong University of Science and Technology (HUST), China in 2017 and 2020, respectively, where I worked with Prof. [Fangming Liu](https://fangmingliu.github.io/).  
+I'm Peiyi Jin (金沛宜 in Chinese). I'm a Ph.D. Student of the Department of Economics at National University of Singapore (NUS). I'm working with Prof. [Sumit Agarwal](https://www.ushakrisna.com/). Before this, I received my bachelor's degree from Southwestern University of Finance and Economics (SWUFE), China, 2020. I was an exchange student and RA at University of California, Berkeley (UCB), 2018-2019 and University of Jyväskylä, 2020.
 
 Research Interests
 ======
