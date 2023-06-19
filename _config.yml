@@ -6,20 +6,20 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 # Site Settings
 locale                   : "en-US"
-title                    : "Peiyi Jin"
+标题                    : "Peiyi Jin"
 title_separator          : "-"
-name                     : &name "Peiyi Jin"
-description              : &description "personal description"
+名字                     : &name "Peiyi Jin"
+描述              : &description "personal description"
 url                      : https://peiyi-jin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "peiyi-jin/peiyi-jin.github.io"
+仓库               : "peiyi-jin/peiyi-jin.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
-comments:
+评论:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            :
@@ -31,7 +31,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  分支                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -41,9 +41,9 @@ staticman:
   transforms:
     email                : "md5"
   generatedFields:
-    date:
-      type               : "date"
-      options:
+    日期:
+      类型               : "date"
+      选项:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
@@ -63,8 +63,8 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  类型                   : # Person or Organization (defaults to Person)
+  名字                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 # Analytics
 analytics:
@@ -73,17 +73,17 @@ analytics:
     tracking_id          : "G-84DJXPS2BW"
 
 # Site Author
-author:
-  name             : "Bin Gao"
+作者:
+  名字             : "Bin Gao"
   avatar           : "bin-gao.jpeg"
-  name             : "Peiyi Jin"
+  名字             : "Peiyi Jin"
   avatar           : "peiyi-jin.jpeg"
-  bio              : "Puppy King."
-  location         : "Singapore"
+  个人简介              : "Rocker with a free spirit"
+  位置         : "Singapore"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=OMzXwjEAAAAJ&hl=en&oi=sra"
-  email            : "bingao.cs@gmail.com"
+  # googlescholar    : "https://scholar.google.com/citations?user=OMzXwjEAAAAJ&hl=en&oi=sra"
+  email            : "pyjin924@gmail.com"
 #   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
 #   uri              : 
 #   bitbucket        :
@@ -92,13 +92,13 @@ author:
 #   flickr           :
 #   facebook         :
 #   foursquare       :
-  github           : "csbingao"
+  # github           : "csbingao"
 #   google_plus      :
 #   keybase          :
 #   instagram        : 
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
 #   lastfm           :
-  linkedin         : "csbingao"
+  linkedin         : "https://sg.linkedin.com/in/peiyi-jin-3218b717b"
 #   orcid            : "http://orcid.org/yourorcidurl"
 #   pinterest        :
 #   soundcloud       :
@@ -127,8 +127,8 @@ exclude:
   - Capfile
   - Gemfile
   - Gruntfile.js
-  - LICENSE
-  - README
+  - 许可证
+  - 自述文件
   - Rakefile
   - assets/js/_main.js
   - assets/js/plugins
@@ -162,7 +162,7 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 # Collections
-collections:
+集合:
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -180,18 +180,18 @@ defaults:
 #   _posts
   - scope:
       path: ""
-      type: posts
+      类型: posts
     values:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
-      share: true
+      评论: true
+      分享: true
       related: true
 #   _pages
   - scope:
       path: ""
-      type: pages
+      类型: pages
     values:
       layout: single
       author_profile: true
