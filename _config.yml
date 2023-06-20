@@ -74,25 +74,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bin Gao"
-  avatar           : "bin-gao.jpeg"
-  bio              : "Puppy King."
+  name             : "Peiyi Jin"
+  avatar           : "peiyi-jin.jpeg"
+  bio              : "Rocker with a free spirit"
   location         : "Singapore"
-  employer         :
-
-    
-          
-            
-    
-
-          
-          Expand Down
+  # employer         :
     
     
   
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=OMzXwjEAAAAJ&hl=en&oi=sra"
-  email            : "bingao.cs@gmail.com"
+  # googlescholar    : "https://scholar.google.com/citations?user=OMzXwjEAAAAJ&hl=en&oi=sra"
+  email            : "pyjin924@gmail.com"
 #   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
 #   uri              : 
 #   bitbucket        :
@@ -107,7 +99,7 @@ author:
 #   instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
 #   lastfm           :
-  linkedin         : "csbingao"
+  linkedin         : "peiyi-jin-3218b717b"
 #   orcid            : "http://orcid.org/yourorcidurl"
 #   pinterest        :
 #   soundcloud       :
