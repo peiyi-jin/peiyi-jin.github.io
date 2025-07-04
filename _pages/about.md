@@ -23,7 +23,7 @@ I. Blockchain
 
 [Tax Planning, Illiquidity, and Credit Risks: Evidence from DeFi Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764605) with Lisa De Simone, Daniel Rabetti
 
-<div style="margin-top:-10px;"></div>
+<div style="margin-top:-20px;"></div>
 
 <details>
 <p><strong>Abstract:</strong>  
@@ -35,11 +35,11 @@ International Monetary Fund (IMF) Workshop on Digital Money and Taxation (2025);
 
 [Crypto Capture of Foreign Aid](#) with Sumit Agarwal, Eswar Prasad, Daniel Rabetti, *(draft available upon request)*
 
-<div style="margin-top:-10px;"></div>
+<div style="margin-top:-20px;"></div>
 
 <details>
 <p><strong>Abstract:</strong>  
-This paper investigates whether cryptocurrencies have become a new conduit for laundering diverted foreign aid. Using World Bank disbursement data from 2018 to 2024, linked with forensically tagged on-chain Bitcoin transactions and off-chain exchange activity, we document systematic surges in crypto transactions for anonymous wallets after disbursements, especially on exchanges located in tax haven jurisdictions. A one-standard-deviation increase in lagged aid is associated with a 0.51 log-point rise in anonymous transactions on tax haven exchanges—approximately a 66% increase—concentrated in newly created wallets and fading within two quarters. Network analysis reveals a real-time laundering pattern: funds flow through regulated platforms, then through mixers and tax haven exchanges, mirroring the classic placement, layering, and integration stages. Off-chain data confirm spikes in transactions on suspect, lightly regulated platforms. To address endogeneity in aid allocation, we use an IV strategy based on historical aid shares interacted with governance quality. Overall, our findings suggest that cryptocurrencies are increasingly used for offshore banking in concealing aid diversion. Our study shows how blockchain forensics can trace hidden financial flows and offers new tools for anti-corruption and crypto regulation.
+This paper investigates whether cryptocurrencies have become a new conduit for laundering diverted foreign aid. Using World Bank disbursement data from 2018 to 2024, linked with forensically tagged on-chain Bitcoin transactions and off-chain exchange activity, we document systematic surges in crypto transactions for anonymous wallets after disbursements, especially on exchanges located in tax haven jurisdictions. A one-standard-deviation increase in lagged aid is associated with a 0.51 log-point rise in anonymous transactions on tax haven exchanges—approximately a 66% increase—concentrated in newly created wallets and fading within two quarters. Network analysis reveals a real-time laundering pattern: funds flow through regulated platforms, then through mixers and tax haven exchanges, mirroring the classic placement, layering, and integration stages. Off-chain data confirm spikes in transactions on suspect, lightly regulated platforms. To address endogeneity in aid allocation, we use an IV strategy based on historical aid shares interacted with governance quality. Overall, our findings suggest that cryptocurrencies are increasingly used for offshore banking in concealing aid diversion. Our study shows how blockchain forensics can trace hidden financial flows and offers new tools for anti-corruption and crypto regulation.</p>
 </details>
 
 
