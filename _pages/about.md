@@ -20,7 +20,7 @@ Research
 
 Job Market Paper
 ------
-[Consumption Not Less but Greener: Evidence from Residential Utility Digitalization](#) *draft available upon request.* Job market paper, solo
+[Consumption Not Less but Greener: Evidence from Residential Utility Digitalization](#), solo, *draft available upon request.*
 <div style="margin-top:-20px;"></div>
 <details>
 <p><strong>Abstract:</strong>  
