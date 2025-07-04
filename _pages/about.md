@@ -39,9 +39,8 @@ I. Blockchain
 </details>
 
 
-II. Digital Economy, Fintech, AI
+II. AI x Economics
 ------
-
 
 [Consumption Not Less but Greener: Evidence from Residential Utility Digitalization](#) *draft available upon request.* Job market paper, solo
 <details>
