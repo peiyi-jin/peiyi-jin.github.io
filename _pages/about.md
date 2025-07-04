@@ -91,11 +91,10 @@ Selected Work in Progress
 
 2. with Sumit Agarwal, Pulak Ghosh, Shohini Kundu, Nishant Vats, Xinbo Wang (NUS, PhD Student), "[Privacy and Financial Inclusion in Credit Markets: A Lenders’ Perspective](https://drive.google.com/file/d/1QY0Ba49V9RbYpTz1cms9vca-3N3dRO-u/view)" (Slides)  
 
-  <details>
+ <details class="details-inline">
   <summary><strong>Abstract</strong></summary>
   This paper investigates the impact of privacy regulations on financial inclusion by analyzing a Google policy change that barred an Indian FinTech lender from accessing borrowers’ phone contacts. Previously, the lender used contacts as social collateral to reduce defaults. After the policy, application acceptance declined by 25.14%, while loan applications rose by 3.5%. Despite increased demand, default rates remained stable as lenders tightened selection criteria. This shift reduced lender revenues and disproportionately affected low-income, younger, credit-inexperienced, and lower-status borrowers. The findings highlight that privacy regulations, though addressing privacy concerns, can significantly hinder financial inclusion and lender profitability.
   </details>
-
 
 
 Teaching
@@ -106,9 +105,7 @@ Teaching
 
 Academic Service
 ------
-Reviewer:
-- Review of Corporate Finance
-- Hawaii Accounting Research Conference
+Reviewer for Review of Corporate Finance, Hawaii Accounting Research Conference.
 
 
 Awards
