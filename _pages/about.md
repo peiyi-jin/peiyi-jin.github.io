@@ -26,6 +26,8 @@ This paper examines how real-time information feedback affects household consump
 
 Research
 ======
+
+
 I. Blockchain
 ------
 [Tax Planning, Illiquidity, and Credit Risks: Evidence from DeFi Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764605) with Lisa De Simone (UT Austin), Daniel Rabetti (NUS)
