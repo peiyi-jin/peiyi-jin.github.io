@@ -12,14 +12,14 @@ I'm Peiyi Jin (金沛宜). I'm a 5th year Ph.D. candidate in the Department of E
 **Research Interests:** Fintech, Digital Economy, and Household Finance.
 
 
-
 Research
 ======
+<div style="margin-top:-10px;"></div>
+
 I. Blockchain
 ------
-
 <details>
-<summary><strong>Tax Planning, Illiquidity, and Credit Risks: Evidence from DeFi Lending</strong></summary>
+<summary>Tax Planning, Illiquidity, and Credit Risks: Evidence from DeFi Lending</summary>
 
 1. [Tax Planning, Illiquidity, and Credit Risks: Evidence from DeFi Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764605) with Lisa De Simone, Daniel Rabetti
 
@@ -30,7 +30,7 @@ I. Blockchain
 </details>
 
 <details>
-<summary><strong>Crypto Capture of Foreign Aid</strong></summary>
+<summary>Crypto Capture of Foreign Aid</summary>
 
 2. [Crypto Capture of Foreign Aid](#) with Sumit Agarwal, Eswar Prasad, Daniel Rabetti, *(draft available upon request)*
 
