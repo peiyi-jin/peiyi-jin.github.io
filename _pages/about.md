@@ -13,7 +13,7 @@ I'm Peiyi Jin (金沛宜). I'm a 5th year Ph.D. candidate in the Department of E
 
 **Research Interests:** Fintech, Digital Economy, and Household Finance.
 
-<div style="margin-top:-10px;"></div>
+<div style="margin-top:-20px;"></div>
 
 Job Market Paper
 ------
@@ -116,10 +116,12 @@ Teaching
   <span style="float:right;">2017</span>
 </div>
 
+
+<div style="margin-top: 40px;"></div>
+
 Academic Service
 ======
 [Reviewer for Review of Corporate Finance](https://www.nowpublishers.com/rcf), [Hawaii Accounting Research Conference](https://manoa.hawaii.edu/harc/)
-
 
 Awards
 ======
