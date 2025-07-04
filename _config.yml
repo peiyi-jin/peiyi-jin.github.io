@@ -76,7 +76,7 @@ analytics:
 author:
   name             : "Peiyi Jin"
   avatar           : "peiyi-jin.jpeg"
-  bio              : "Rocker with a free spirit"
+  # bio              : "Rocker with a free spirit"
   location         : "Singapore"
   # employer         :
     
@@ -113,8 +113,8 @@ author:
 #   youtube          :
 #   wikipedia        :
 ssrn                 : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5339039"
-Google Scholar       : "https://scholar.google.com/citations?user=DzzqZesAAAAJ&hl=en&oi=ao"
-Tel                  : "+65 96865125"
+google_scholar       : "https://scholar.google.com/citations?user=DzzqZesAAAAJ&hl=en&oi=ao"
+tel                  : "+65 96865125"
 # Reading Files
 include:
   - .htaccess
