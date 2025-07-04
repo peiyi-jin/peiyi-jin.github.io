@@ -21,7 +21,7 @@ Research
 I. Blockchain
 ------
 
-1. [Tax Planning, Illiquidity, and Credit Risks: Evidence from DeFi Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764605) with Lisa De Simone, Daniel Rabetti
+[Tax Planning, Illiquidity, and Credit Risks: Evidence from DeFi Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764605) with Lisa De Simone, Daniel Rabetti
 
 <details>
 **Abstract:** This study examines the link between tax-planning-induced illiquidity and credit risks in lending markets. Exploiting an exogenous tax shock imposed on cryptocurrency gains and millions of transactions in Decentralized Finance (DeFi) lending, we document that tax-motivated borrowing strategies to defer capital gains taxes significantly reduce market liquidity. This effect is pronounced among individuals borrowing in stablecoins (a way to monetize returns), those with higher loan-to-value ratios (more risk-averse towards new regulations and typically with larger taxable gains), those with high returns in the underlying asset (representing larger taxable gains), and those holding locked-in assets for over a year (i.e., converting high short-term to lower long-term capital gains tax rates). Using instrumental variable analysis, we provide a plausibly causal relation between tax-planning-induced illiquidity and increased credit risks. A standard deviation increase in tax-induced illiquidity leads to a more than twofold increase in the value of defaulted loans. Our results remain robust across a battery of checks, including analyses of subsamples of highly tax-sensitive borrowers, and align with well-documented tax awareness periods. Overall, our insights are relevant to market participants, assist in estimating revenue losses for tax authorities, and inform emerging policies on the tax treatment of digital assets.
@@ -30,14 +30,10 @@ I. Blockchain
 </details>
 
 
-
-
+[Crypto Capture of Foreign Aid](#) with Sumit Agarwal, Eswar Prasad, Daniel Rabetti, *(draft available upon request)*
 
 <details>
-<summary>[Crypto Capture of Foreign Aid](#) with Sumit Agarwal, Eswar Prasad, Daniel Rabetti, *(draft available upon request)*</summary>
-
 **Abstract:** This paper investigates whether cryptocurrencies have become a new conduit for laundering diverted foreign aid. Using World Bank disbursement data from 2018 to 2024, linked with forensically tagged on-chain Bitcoin transactions and off-chain exchange activity, we document systematic surges in crypto transactions for anonymous wallets after disbursements, especially on exchanges located in tax haven jurisdictions. A one-standard-deviation increase in lagged aid is associated with a 0.51 log-point rise in anonymous transactions on tax haven exchanges—approximately a 66% increase—concentrated in newly created wallets and fading within two quarters. Network analysis reveals a real-time laundering pattern: funds flow through regulated platforms, then through mixers and tax haven exchanges, mirroring the classic placement, layering, and integration stages. Off-chain data confirm spikes in transactions on suspect, lightly regulated platforms. To address endogeneity in aid allocation, we use an IV strategy based on historical aid shares interacted with governance quality. Overall, our findings suggest that cryptocurrencies are increasingly used for offshore banking in concealing aid diversion. Our study shows how blockchain forensics can trace hidden financial flows and offers new tools for anti-corruption and crypto regulation.
-
 </details>
 
 
