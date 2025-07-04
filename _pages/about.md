@@ -135,12 +135,12 @@ Awards
 
 <div>
 <span style="color:#008cba;">Outstanding Undergraduate Exchange Student</span>, China Scholarship Council (CSC)
-<span style="float:right;">Aug 2018 – May 2019</span>
+<span style="float:right;">Aug 2018 – May 2019</span><br>
 </div>
 
 <div>
 <span style="color:#1e90ff;">Academic Scholarship</span>, SWUFE
-<span style="float:right;">Sep 2017 – Jun 2018</span>
+<span style="float:right;">Sep 2017 – Jun 2018</span><br>
 </div>
 
 
