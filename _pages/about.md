@@ -102,13 +102,13 @@ Teaching
 
 Academic Service
 ======
-Reviewer for Review of Corporate Finance, Hawaii Accounting Research Conference.
+[Reviewer for Review of Corporate Finance]{https://www.nowpublishers.com/rcf}, [Hawaii Accounting Research Conference]{https://manoa.hawaii.edu/harc/}
 
 Awards
 ======
 
-- **Research Funding**, Asian Institute of Digital Finance, NUS (SGD 160K) <span style="float:right;">Jun 2024 – Jun 2025</span>  
-  *Project: Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors*
+- **Research Funding**, Asian Institute of Digital Finance, NUS (SGD 160K) 
+  *Project: Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors* <span style="float:right;">Jun 2024 – Jun 2025</span>  
 
 - **Research Scholarship**, Department of Economics, NUS <span style="float:right;">Aug 2024 – Aug 2025</span>
 
