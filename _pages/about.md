@@ -14,7 +14,7 @@ I'm Peiyi Jin (金沛宜). I'm a 5th year Ph.D. candidate in the Department of E
 
 Research
 ======
-<div style="margin-top:-10px;"></div>
+<div style="margin-top:-30px;"></div>
 
 I. Blockchain
 ------
@@ -94,7 +94,7 @@ Reviewer for Review of Corporate Finance, Hawaii Accounting Research Conference.
 Awards
 ======
 - Research Funding, Asian Institute of Digital Finance, NUS (SGD 160K)  
-  *Project:* Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors (Jun 2024 – Jun 2025)
+  **Project:** Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors (Jun 2024 – Jun 2025)
 - Research Scholarship, Department of Economics, NUS (Aug 2024 – Aug 2025)
 - Research Scholarship, Ministry of Education (MOE), Singapore (Aug 2020 – Aug 2024)
 - Undergraduate Exchange Scholarship, SWUFE (Jan 2020 – May 2020)
