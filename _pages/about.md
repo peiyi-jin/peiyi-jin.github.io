@@ -29,6 +29,8 @@ This paper examines how real-time information feedback affects household consump
 
 </details>
 
+Research Field
+======
 I. Blockchain
 ------
 
