@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm Peiyi Jin (金沛宜). I'm a Ph.D. candidate in the Department of Economics at National University of Singapore (NUS). I'm working with Prof. [Sumit Agarwal](https://www.ushakrisna.com/). Before this, I received my bachelor's degree from Southwestern University of Finance and Economics (SWUFE), China, 2020. I was an exchange student and RA at University of California, Berkeley from 2018 to 2019.
+I'm Peiyi Jin (金沛宜). I'm a 5th year Ph.D. candidate in the Department of Economics at National University of Singapore (NUS). I'm working with Prof. [Sumit Agarwal](https://www.ushakrisna.com/). Before this, I received my bachelor's degree from Southwestern University of Finance and Economics (SWUFE), China, 2020. I was an exchange student and RA at University of California, Berkeley from 2018 to 2019.
 
 **Research Interests:** Fintech, Digital Economy, and Household Finance.
 
@@ -49,7 +49,7 @@ Working Papers
   </details>
 
 
-2. **Consumption Not Less but Greener: Evidence from Residential Utility Digitalization** *draft available upon request.* Job market paper, solo
+2. [Consumption Not Less but Greener: Evidence from Residential Utility Digitalization](#) *draft available upon request.* Job market paper, solo
   <details>
   <summary><strong>Abstract</strong></summary>
 
