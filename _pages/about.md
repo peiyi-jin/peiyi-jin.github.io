@@ -103,18 +103,37 @@ Academic Service
 Awards
 ======
 
-- **Research Funding**, Asian Institute of Digital Finance, NUS (SGD 160K) 
-  *Project: Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors* <span style="float:right;">Jun 2024 – Jun 2025</span>  
+<div>
+<strong>Research Funding</strong>, Asian Institute of Digital Finance, NUS (SGD 160K)
+<span style="float:right;">Jun 2024 – Jun 2025</span><br>
+<em>Project:</em> Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors
+</div>
 
-- **Research Scholarship**, Department of Economics, NUS <span style="float:right;">Aug 2024 – Aug 2025</span>
+<div>
+<strong>Research Scholarship</strong>, Department of Economics, NUS
+<span style="float:right;">Aug 2024 – Aug 2025</span>
+</div>
 
-- **Research Scholarship**, Ministry of Education (MOE), Singapore <span style="float:right;">Aug 2020 – Aug 2024</span>
+<div>
+<strong>Research Scholarship</strong>, Ministry of Education (MOE), Singapore
+<span style="float:right;">Aug 2020 – Aug 2024</span>
+</div>
 
-- **Undergraduate Exchange Scholarship**, SWUFE <span style="float:right;">Jan 2020 – May 2020</span>
+<div>
+<strong>Undergraduate Exchange Scholarship</strong>, SWUFE
+<span style="float:right;">Jan 2020 – May 2020</span>
+</div>
 
-- **Outstanding Undergraduate Exchange Student**, China Scholarship Council (CSC) <span style="float:right;">Aug 2018 – May 2019</span>
+<div>
+<strong>Outstanding Undergraduate Exchange Student</strong>, China Scholarship Council (CSC)
+<span style="float:right;">Aug 2018 – May 2019</span>
+</div>
 
-- **Academic Scholarship**, SWUFE <span style="float:right;">Sep 2017 – Jun 2018</span>
+<div>
+<strong>Academic Scholarship</strong>, SWUFE
+<span style="float:right;">Sep 2017 – Jun 2018</span>
+</div>
+
 
 
 
