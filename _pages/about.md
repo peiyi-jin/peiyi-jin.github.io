@@ -127,15 +127,19 @@ Academic Service
 Awards
 ======
 
-<div style="overflow:auto;">
+<div style="overflow:auto; margin-bottom:10px;">
   <span style="color:#008cba;">Research Funding</span>
-  <div style="float:right; text-align:right;">
-    Asian Institute of Digital Finance, NUS (SGD 160K)<br>
-    Jun 2024 – Jun 2025
-  </div>
-  <br>
+  <span style="float:right;">Asian Institute of Digital Finance, NUS (SGD 160K)</span>
+</div>
+
+<div style="overflow:auto; margin-bottom:10px;">
+  <span style="float:right;">Jun 2024 – Jun 2025</span>
+</div>
+
+<div style="margin-left:10px;">
   <em>Project: Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors</em>
 </div>
+
 
 <div style="overflow:auto;">
   <span style="color:#008cba;">Research Scholarship</span>
