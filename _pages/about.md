@@ -47,44 +47,42 @@ II. AI x Economics
 ------
 
 [Consumption Not Less but Greener: Evidence from Residential Utility Digitalization](#) *draft available upon request.* Job market paper, solo
-<details>
-<summary><strong>Abstract</strong></summary>
 
-This paper examines how real-time information feedback affects household consumption when price incentives are absent. Using a quasi-experimental rollout of digital devices providing real-time electricity data and remote shut-off via mobile apps, we find that treated households significantly reduce electricity use. Beyond energy savings, we observe broader spillovers: households shift diets from carbon-intensive to healthier food, substitute digital for paper use, and cut taxi rides. Our results contribute to the literature on behavioral nudges by showing that real-time digital feedback, unlike traditional static signals, can meaningfully influence consumption and promote greener lifestyles in the medium term.
+<details>
+<p><strong>Abstract:</strong>  
+
+This paper examines how real-time information feedback affects household consumption when price incentives are absent. Using a quasi-experimental rollout of digital devices providing real-time electricity data and remote shut-off via mobile apps, we find that treated households significantly reduce electricity use. Beyond energy savings, we observe broader spillovers: households shift diets from carbon-intensive to healthier food, substitute digital for paper use, and cut taxi rides. Our results contribute to the literature on behavioral nudges by showing that real-time digital feedback, unlike traditional static signals, can meaningfully influence consumption and promote greener lifestyles in the medium term.</p>
 
 </details>
 
 
 [Credit Network and Data Sharing: An Evaluation of Cooperative Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4463473) with Sumit Agarwal, Hsin-Tien Tsai, 
 <details>
-<summary><strong>Abstract</strong></summary>
-This paper examines the impact of credit data sharing among competitive banks of different sizes in open banking. Analyzing data from three predecessors of Bank of America, we find that information sharing enhances predictive capabilities and increases market lending profit as the network size grows. The bank sharing loans with varying collateral amounts contributes the most to improved prediction. However, competition leads to disparities in benefits, favoring smaller banks while the largest bank experiences losses in borrowers and profits. Effective bargaining for cooperative sharing is thus emphasized. We explore the Nash equilibrium for optimal outcomes in a competitive lending market.
+<p><strong>Abstract:</strong>  
+This paper examines the impact of credit data sharing among competitive banks of different sizes in open banking. Analyzing data from three predecessors of Bank of America, we find that information sharing enhances predictive capabilities and increases market lending profit as the network size grows. The bank sharing loans with varying collateral amounts contributes the most to improved prediction. However, competition leads to disparities in benefits, favoring smaller banks while the largest bank experiences losses in borrowers and profits. Effective bargaining for cooperative sharing is thus emphasized. We explore the Nash equilibrium for optimal outcomes in a competitive lending market.</p>
 </details>
 
+
+[Privacy and Financial Inclusion in Credit Markets: A Lenders’ Perspective](https://drive.google.com/file/d/1QY0Ba49V9RbYpTz1cms9vca-3N3dRO-u/view)" (Slides) with Sumit Agarwal, Pulak Ghosh, Shohini Kundu, Nishant Vats, Xinbo Wang (NUS, PhD Student) 
+  <details>
+  <p><strong>Abstract:</strong>  
+  This paper investigates the impact of privacy regulations on financial inclusion by analyzing a Google policy change that barred an Indian FinTech lender from accessing borrowers’ phone contacts. Previously, the lender used contacts as social collateral to reduce defaults. After the policy, application acceptance declined by 25.14%, while loan applications rose by 3.5%. Despite increased demand, default rates remained stable as lenders tightened selection criteria. This shift reduced lender revenues and disproportionately affected low-income, younger, credit-inexperienced, and lower-status borrowers. The findings highlight that privacy regulations, though addressing privacy concerns, can significantly hinder financial inclusion and lender profitability.</p>
+  </details>
 
 [LLM in a Recruiting Position: Bias & Mitigation](#) with Lin Xu (NUS, PhD Student), Bingchen Wang (Oxford, MPhil),  *(draft available upon request)*  
    **Keywords:** Large Language Models, Algorithmic fairness, Human-AI interaction, Computational Social Science
 
-[Privacy and Financial Inclusion in Credit Markets: A Lenders’ Perspective](https://drive.google.com/file/d/1QY0Ba49V9RbYpTz1cms9vca-3N3dRO-u/view)" (Slides) with Sumit Agarwal, Pulak Ghosh, Shohini Kundu, Nishant Vats, Xinbo Wang (NUS, PhD Student) 
-
-  <details class="details-inline">
-  <summary><strong>Abstract</strong></summary>
-  This paper investigates the impact of privacy regulations on financial inclusion by analyzing a Google policy change that barred an Indian FinTech lender from accessing borrowers’ phone contacts. Previously, the lender used contacts as social collateral to reduce defaults. After the policy, application acceptance declined by 25.14%, while loan applications rose by 3.5%. Despite increased demand, default rates remained stable as lenders tightened selection criteria. This shift reduced lender revenues and disproportionately affected low-income, younger, credit-inexperienced, and lower-status borrowers. The findings highlight that privacy regulations, though addressing privacy concerns, can significantly hinder financial inclusion and lender profitability.
-  </details>
 
 
 III. Development Economics
 ------
 [Noncognitive Development and Peer Networks: Experimental Evidence on Chinese Rural Boarding School Students](https://drive.google.com/drive/folders/1HpEJP17kEhlEo0Ir61jq8qqTzFLHL4Zf) with Yue Li
 <details>
-<summary><strong>Abstract</strong></summary>
-  This paper evaluates the effects of audio bedtime stories on non-cognitive skill development among rural boarding school students in China. Using a randomized controlled trial across 63 schools, treated boarding students listened to stories via dormitory speakers, allowing identification of peer effects with untreated day students in the same classroom. Results show significant improvements in treated students, especially those with larger friendship networks, and spillover benefits for untreated peers connected to boarding friends. Early treatment boosts resilience. Employing a Linear-in-Means model, the study provides novel experimental evidence of non-cognitive skill transfer through peer networks, offering a scalable intervention impacting over four million children.
-</details>
+<p><strong>Abstract:</strong>  
+This paper evaluates the effects of audio bedtime stories on non-cognitive skill development among rural boarding school students in China. Using a randomized controlled trial across 63 schools, treated boarding students listened to stories via dormitory speakers, allowing identification of peer effects with untreated day students in the same classroom. Results show significant improvements in treated students, especially those with larger friendship networks, and spillover benefits for untreated peers connected to boarding friends. Early treatment boosts resilience. Employing a Linear-in-Means model, the study provides novel experimental evidence of non-cognitive skill transfer through peer networks, offering a scalable intervention impacting over four million children.</p>
 
-<details>
-<summary><strong>Selected conferences and talks</strong></summary>
-
-Royal Economic Society Annual Conference (Birmingham, 2025), Stone Centre Conference on Education and Inequality (London, 2025), Janeway Institute Cambridge PhD Workshop on Economic Networks (Cambridge, 2025), 2025 Young Economists Society Chengdu Forum (Chengdu, 2025), The Society of Labor Economists Annual Meeting (Oregon, 2024), European Association of Young Economists Annual Meeting (Paris, 2024), IFS–UCL–LSE/STICERD Development WiP Seminar (London, 2024), China Economic Association Europe/UK Annual Conference (London, 2024), UCL PhD Seminar (London, 2024), and NUS Applied Economics Student Workshop (Singapore, 2023).
+<p><strong>Selected conferences and talks:</strong>  
+Royal Economic Society Annual Conference (Birmingham, 2025), Stone Centre Conference on Education and Inequality (London, 2025), Janeway Institute Cambridge PhD Workshop on Economic Networks (Cambridge, 2025), 2025 Young Economists Society Chengdu Forum (Chengdu, 2025), The Society of Labor Economists Annual Meeting (Oregon, 2024), European Association of Young Economists Annual Meeting (Paris, 2024), IFS–UCL–LSE/STICERD Development WiP Seminar (London, 2024), China Economic Association Europe/UK Annual Conference (London, 2024), UCL PhD Seminar (London, 2024), and NUS Applied Economics Student Workshop (Singapore, 2023).</p>
 </details>
 
 
