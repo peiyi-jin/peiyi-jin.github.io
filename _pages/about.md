@@ -32,7 +32,7 @@ This paper examines how real-time information feedback affects household consump
 I. Blockchain
 ------
 
-Tax Planning, Illiquidity, and Credit Risks: Evidence from DeFi Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764605) with Lisa De Simone (UT Austin), Daniel Rabetti (NUS)
+[Tax Planning, Illiquidity, and Credit Risks: Evidence from DeFi Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764605) with Lisa De Simone (UT Austin), Daniel Rabetti (NUS)
 
 <div style="margin-top:-20px;"></div>
 
@@ -73,7 +73,7 @@ This paper examines the impact of credit data sharing among competitive banks of
   </details>
 
 [LLM in a Recruiting Position: Bias & Mitigation](#) with Lin Xu (NUS, PhD Student), Bingchen Wang (Oxford, MPhil),  *draft available upon request*  
-   **Keywords:** Large Language Models, Algorithmic fairness, Human-AI interaction, Computational Social Science
+  Keywords: Large Language Models, Algorithmic fairness, Human-AI interaction, Computational Social Science
 
 
 
@@ -105,32 +105,13 @@ Reviewer for Review of Corporate Finance, Hawaii Accounting Research Conference.
 Awards
 ======
 
-<ul>
-  <li>
-    Research Funding, Asian Institute of Digital Finance, NUS (SGD 160K)  
-    <div style="float:right;">Jun 2024 – Jun 2025</div><br>
-    <em>Project: Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors</em>
-  </li>
-  <li>
-    Research Scholarship, Department of Economics, NUS
-    <div style="float:right;">Aug 2024 – Aug 2025</div>
-  </li>
-  <li>
-    Research Scholarship, Ministry of Education (MOE), Singapore
-    <div style="float:right;">Aug 2020 – Aug 2024</div>
-  </li>
-  <li>
-    Undergraduate Exchange Scholarship, SWUFE
-    <div style="float:right;">Jan 2020 – May 2020</div>
-  </li>
-  <li>
-    Outstanding Undergraduate Exchange Student, China Scholarship Council (CSC)
-    <div style="float:right;">Aug 2018 – May 2019</div>
-  </li>
-  <li>
-    Academic Scholarship, SWUFE
-    <div style="float:right;">Sep 2017 – Jun 2018</div>
-  </li>
-</ul>
+| Award | Period |
+|----------------|----------------------------|
+| **Research Funding**, Asian Institute of Digital Finance, NUS (SGD 160K)<br>_Project: Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors_ | Jun 2024 – Jun 2025 |
+| **Research Scholarship**, Department of Economics, NUS | Aug 2024 – Aug 2025 |
+| **Research Scholarship**, Ministry of Education (MOE), Singapore | Aug 2020 – Aug 2024 |
+| **Undergraduate Exchange Scholarship**, SWUFE | Jan 2020 – May 2020 |
+| **Outstanding Undergraduate Exchange Student**, China Scholarship Council (CSC) | Aug 2018 – May 2019 |
+| **Academic Scholarship**, SWUFE | Sep 2017 – Jun 2018 |
 
 
