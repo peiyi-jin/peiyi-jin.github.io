@@ -127,7 +127,7 @@ Awards
 <div>
 <span style="color:#008cba;">Research Funding</span>, Asian Institute of Digital Finance, NUS (SGD 160K)
 <span style="float:right;">Jun 2024 – Jun 2025</span><br>
-<em>Project:</em> Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors
+<em>Project: Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors</em>
 </div>
 
 <div>
@@ -145,14 +145,18 @@ Awards
 <span style="float:right;">Jan 2020 – May 2020</span>
 </div>
 
-<div>
-<span style="color:#008cba;">Outstanding Undergraduate Exchange Student</span>, China Scholarship Council (CSC)
-<span style="float:right;">Aug 2018 – May 2019</span><br>
+<div style="overflow:auto;">
+  <span style="color:#008cba;">Outstanding Undergraduate Exchange Student</span>
+  <div style="float:right; text-align:right;">
+    China Scholarship Council (CSC)<br>
+    Aug 2018 – May 2019
+  </div>
 </div>
 
-<!-- <div>
+
+<div>
 <span style="color:#008cba;">Academic Scholarship</span>, SWUFE
 <span style="float:right;">Sep 2017 – Jun 2018</span><br>
-</div> -->
+</div>
 
 
