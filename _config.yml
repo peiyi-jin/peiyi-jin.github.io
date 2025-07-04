@@ -84,7 +84,7 @@ author:
   
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "https://scholar.google.com/citations?user=OMzXwjEAAAAJ&hl=en&oi=sra"
-  email            : "pyjin924@gmail.com"
+  email            : "jin_peiyi@u.nus.edu"
 #   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
 #   uri              : 
 #   bitbucket        :
@@ -93,7 +93,7 @@ author:
 #   flickr           :
 #   facebook         :
 #   foursquare       :
-  github           : "peiyi-jin"
+  # github           : "peiyi-jin"
 #   google_plus      :
 #   keybase          :
 #   instagram        : 
@@ -106,12 +106,15 @@ author:
 #   stackoverflow    : # http://stackoverflow.com/users/123456/username
 #   steam            :
 #   tumblr           :
-#   twitter          : "csbingao"
+#   twitter          : 
 #   vine             :
 #   weibo            :
 #   xing             :
 #   youtube          :
 #   wikipedia        :
+ssrn                 : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5339039"
+Google Scholar       : "https://scholar.google.com/citations?user=DzzqZesAAAAJ&hl=en&oi=ao"
+Tel                  : "+65 96865125"
 # Reading Files
 include:
   - .htaccess

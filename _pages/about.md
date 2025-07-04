@@ -58,17 +58,26 @@ Finance Research Conference (Ho Chi Minh City, 2023).
 
 
 3.with Sumit Agarwal, Eswar Prasad, Daniel Rabetti, "[Crypto Capture of Foreign Aid](#)" *(draft available upon request)*
-   **Abstract:** 
+<details>
+<summary><strong>Abstract</strong></summary>
+
+This paper investigates whether cryptocurrencies have become a new conduit for laundering diverted foreign aid. Using World Bank disbursement data from 2018 to 2024, linked with forensically tagged on-chain Bitcoin transactions and off-chain exchange activity, we document systematic surges in crypto transactions for anonymous wallets after disbursements, especially on exchanges located in tax haven jurisdictions. A one-standard-deviation increase in lagged aid is associated with a 0.51 log-point rise in anonymous transactions on tax haven exchanges---approximately a 66\% increase---concentrated in newly created wallets and fading within two quarters. Network analysis reveals a real-time laundering pattern: funds flow through regulated platforms, then through mixers and tax haven exchanges, mirroring the classic placement, layering, and integration stages. Off-chain data confirm spikes in transactions on suspect, lightly regulated platforms. To address endogeneity in aid allocation, we use an IV strategy based on historical aid shares interacted with governance quality. Overall, our findings suggest that cryptocurrencies are increasingly used for offshore banking in concealing aid diversion. Our study shows how blockchain forensics can trace hidden financial flows and offers new tools for anti-corruption and crypto regulation.
+
+</details>
 
 
 4. with Yue Li, "[Noncognitive Development and Peer Networks: Experimental Evidence on Chinese Rural Boarding School Students](https://drive.google.com/drive/folders/1HpEJP17kEhlEo0Ir61jq8qqTzFLHL4Zf)"
-   **Abstract:** This paper investigates the impact of privacy regulations on financial inclusion by analyzing a Google policy change that barred an Indian FinTech lender from accessing borrowers’ phone contacts. Previously, the lender used contacts as social collateral to reduce defaults. After the policy, application acceptance declined by 25.14%, while loan applications rose by 3.5%. Despite increased demand, default rates remained stable as lenders tightened selection criteria. This shift reduced lender revenues and disproportionately affected low-income, younger, credit-inexperienced, and lower-status borrowers. The findings highlight that privacy regulations, though addressing privacy concerns, can significantly hinder financial inclusion and lender profitability.
+<details>
+<summary><strong>Abstract</strong></summary>
+   This paper evaluates the effects of audio bedtime stories on non-cognitive skill development among rural boarding school students in China. Using a randomized controlled trial across 63 schools, treated boarding students listened to stories via dormitory speakers, allowing identification of peer effects with untreated day students in the same classroom. Results show significant improvements in treated students, especially those with larger friendship networks, and spillover benefits for untreated peers connected to boarding friends. Early treatment boosts resilience. Employing a Linear-in-Means model, the study provides novel experimental evidence of non-cognitive skill transfer through peer networks, offering a scalable intervention impacting over four million children.
+</details>
 
 
 5. with Sumit Agarwal, Hsin-Tien Tsai, "[Credit Network and Data Sharing: An Evaluation of Cooperative Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4463473)"
-   **Abstract:** 
-
-
+<details>
+<summary><strong>Abstract</strong></summary>
+This paper examines the impact of credit data sharing among competitive banks of different sizes in open banking. Analyzing data from three predecessors of Bank of America, we find that information sharing enhances predictive capabilities and increases market lending profit as the network size grows. The bank sharing loans with varying collateral amounts contributes the most to improved prediction. However, competition leads to disparities in benefits, favoring smaller banks while the largest bank experiences losses in borrowers and profits. Effective bargaining for cooperative sharing is thus emphasized. We explore the Nash equilibrium for optimal outcomes in a competitive lending market.
+</details>
 
 
 Selected Work in Progress
