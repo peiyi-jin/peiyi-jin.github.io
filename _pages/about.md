@@ -21,7 +21,7 @@ Research
 I. Blockchain
 ------
 
-[Tax Planning, Illiquidity, and Credit Risks: Evidence from DeFi Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764605) with Lisa De Simone, Daniel Rabetti
+[Tax Planning, Illiquidity, and Credit Risks: Evidence from DeFi Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764605) with Lisa De Simone (UT Austin), Daniel Rabetti (NUS)
 
 <div style="margin-top:-20px;"></div>
 
@@ -33,7 +33,7 @@ I. Blockchain
 International Monetary Fund (IMF) Workshop on Digital Money and Taxation (2025); Hawai‘i Accounting Research Conference (HARC, 2025); Tokenomics Conference (2024); Workshop on the Economics of Technology and Decentralization at Waseda University; National University of Singapore; Cornell–Tsinghua Summer Finance Institute; IESE Barcelona Tax Conference; IC3 Blockchain Camp at Cornell Tech; Finance and Accounting Annual Research Symposium; Research Symposium on Finance and Economics; Bank of Finland; European Systemic Risk Board; Conference on AI and Systemic Risk Analytics; Swiss National Bank Conference on Cryptoassets and Financial Innovation; Eurasia Conference; Hong Kong University Summer Conference; Bank of Japan; FeAT International Conference on Artificial Intelligence; Tsinghua University (SEM and PBC, 2024); Singapore FinTech Festival; 14th Financial Markets and Corporate Governance Conference; AI Global Finance Research Conference (Ho Chi Minh City, 2023).</p>
 </details>
 
-[Crypto Capture of Foreign Aid](#) with Sumit Agarwal (NUS), Eswar Prasad (Cornell), Daniel Rabetti (NUS), *(draft available upon request)*
+[Crypto Capture of Foreign Aid](#) with Sumit Agarwal (NUS), Eswar Prasad (Cornell), Daniel Rabetti (NUS) *(draft available upon request)*
 
 <div style="margin-top:-20px;"></div>
 
@@ -64,7 +64,7 @@ This paper examines the impact of credit data sharing among competitive banks of
 </details>
 
 
-[Privacy and Financial Inclusion in Credit Markets: A Lenders’ Perspective](https://drive.google.com/file/d/1QY0Ba49V9RbYpTz1cms9vca-3N3dRO-u/view)" (Slides) with Sumit Agarwal (NUS), Pulak Ghosh (IIMB), Shohini Kundu (UCLA), Nishant Vats (WUSTL), Xinbo Wang (NUS, PhD Student) 
+[Privacy and Financial Inclusion in Credit Markets: A Lenders’ Perspective](https://drive.google.com/file/d/1QY0Ba49V9RbYpTz1cms9vca-3N3dRO-u/view)" with Sumit Agarwal (NUS), Pulak Ghosh (IIMB), Shohini Kundu (UCLA), Nishant Vats (WUSTL), Xinbo Wang (NUS, PhD Student) 
 <div style="margin-top:-20px;"></div>
   <details>
   <p><strong>Abstract:</strong>  
