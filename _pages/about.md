@@ -33,7 +33,7 @@ I. Blockchain
 International Monetary Fund (IMF) Workshop on Digital Money and Taxation (2025); Hawai‘i Accounting Research Conference (HARC, 2025); Tokenomics Conference (2024); Workshop on the Economics of Technology and Decentralization at Waseda University; National University of Singapore; Cornell–Tsinghua Summer Finance Institute; IESE Barcelona Tax Conference; IC3 Blockchain Camp at Cornell Tech; Finance and Accounting Annual Research Symposium; Research Symposium on Finance and Economics; Bank of Finland; European Systemic Risk Board; Conference on AI and Systemic Risk Analytics; Swiss National Bank Conference on Cryptoassets and Financial Innovation; Eurasia Conference; Hong Kong University Summer Conference; Bank of Japan; FeAT International Conference on Artificial Intelligence; Tsinghua University (SEM and PBC, 2024); Singapore FinTech Festival; 14th Financial Markets and Corporate Governance Conference; AI Global Finance Research Conference (Ho Chi Minh City, 2023).</p>
 </details>
 
-[Crypto Capture of Foreign Aid](#) with Sumit Agarwal, Eswar Prasad, Daniel Rabetti, *(draft available upon request)*
+[Crypto Capture of Foreign Aid](#) with Sumit Agarwal (NUS), Eswar Prasad (Cornell), Daniel Rabetti (NUS), *(draft available upon request)*
 
 <div style="margin-top:-20px;"></div>
 
@@ -47,7 +47,7 @@ II. AI x Economics
 ------
 
 [Consumption Not Less but Greener: Evidence from Residential Utility Digitalization](#) *draft available upon request.* Job market paper, solo
-
+<div style="margin-top:-20px;"></div>
 <details>
 <p><strong>Abstract:</strong>  
 
@@ -56,14 +56,16 @@ This paper examines how real-time information feedback affects household consump
 </details>
 
 
-[Credit Network and Data Sharing: An Evaluation of Cooperative Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4463473) with Sumit Agarwal, Hsin-Tien Tsai, 
+[Credit Network and Data Sharing: An Evaluation of Cooperative Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4463473) with Sumit Agarwal (NUS), Hsin-Tien Tsai (NUS)
+<div style="margin-top:-20px;"></div>
 <details>
 <p><strong>Abstract:</strong>  
 This paper examines the impact of credit data sharing among competitive banks of different sizes in open banking. Analyzing data from three predecessors of Bank of America, we find that information sharing enhances predictive capabilities and increases market lending profit as the network size grows. The bank sharing loans with varying collateral amounts contributes the most to improved prediction. However, competition leads to disparities in benefits, favoring smaller banks while the largest bank experiences losses in borrowers and profits. Effective bargaining for cooperative sharing is thus emphasized. We explore the Nash equilibrium for optimal outcomes in a competitive lending market.</p>
 </details>
 
 
-[Privacy and Financial Inclusion in Credit Markets: A Lenders’ Perspective](https://drive.google.com/file/d/1QY0Ba49V9RbYpTz1cms9vca-3N3dRO-u/view)" (Slides) with Sumit Agarwal, Pulak Ghosh, Shohini Kundu, Nishant Vats, Xinbo Wang (NUS, PhD Student) 
+[Privacy and Financial Inclusion in Credit Markets: A Lenders’ Perspective](https://drive.google.com/file/d/1QY0Ba49V9RbYpTz1cms9vca-3N3dRO-u/view)" (Slides) with Sumit Agarwal (NUS), Pulak Ghosh (IIMB), Shohini Kundu (UCLA), Nishant Vats (WUSTL), Xinbo Wang (NUS, PhD Student) 
+<div style="margin-top:-20px;"></div>
   <details>
   <p><strong>Abstract:</strong>  
   This paper investigates the impact of privacy regulations on financial inclusion by analyzing a Google policy change that barred an Indian FinTech lender from accessing borrowers’ phone contacts. Previously, the lender used contacts as social collateral to reduce defaults. After the policy, application acceptance declined by 25.14%, while loan applications rose by 3.5%. Despite increased demand, default rates remained stable as lenders tightened selection criteria. This shift reduced lender revenues and disproportionately affected low-income, younger, credit-inexperienced, and lower-status borrowers. The findings highlight that privacy regulations, though addressing privacy concerns, can significantly hinder financial inclusion and lender profitability.</p>
@@ -76,7 +78,8 @@ This paper examines the impact of credit data sharing among competitive banks of
 
 III. Development Economics
 ------
-[Noncognitive Development and Peer Networks: Experimental Evidence on Chinese Rural Boarding School Students](https://drive.google.com/drive/folders/1HpEJP17kEhlEo0Ir61jq8qqTzFLHL4Zf) with Yue Li
+[Noncognitive Development and Peer Networks: Experimental Evidence on Chinese Rural Boarding School Students](https://drive.google.com/drive/folders/1HpEJP17kEhlEo0Ir61jq8qqTzFLHL4Zf) with Yue Li (UCL, PhD Student)
+<div style="margin-top:-20px;"></div>
 <details>
 <p><strong>Abstract:</strong>  
 This paper evaluates the effects of audio bedtime stories on non-cognitive skill development among rural boarding school students in China. Using a randomized controlled trial across 63 schools, treated boarding students listened to stories via dormitory speakers, allowing identification of peer effects with untreated day students in the same classroom. Results show significant improvements in treated students, especially those with larger friendship networks, and spillover benefits for untreated peers connected to boarding friends. Early treatment boosts resilience. Employing a Linear-in-Means model, the study provides novel experimental evidence of non-cognitive skill transfer through peer networks, offering a scalable intervention impacting over four million children.</p>
