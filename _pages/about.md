@@ -33,7 +33,7 @@ I. Blockchain
 International Monetary Fund (IMF) Workshop on Digital Money and Taxation (2025); Hawai‘i Accounting Research Conference (HARC, 2025); Tokenomics Conference (2024); Workshop on the Economics of Technology and Decentralization at Waseda University; National University of Singapore; Cornell–Tsinghua Summer Finance Institute; IESE Barcelona Tax Conference; IC3 Blockchain Camp at Cornell Tech; Finance and Accounting Annual Research Symposium; Research Symposium on Finance and Economics; Bank of Finland; European Systemic Risk Board; Conference on AI and Systemic Risk Analytics; Swiss National Bank Conference on Cryptoassets and Financial Innovation; Eurasia Conference; Hong Kong University Summer Conference; Bank of Japan; FeAT International Conference on Artificial Intelligence; Tsinghua University (SEM and PBC, 2024); Singapore FinTech Festival; 14th Financial Markets and Corporate Governance Conference; AI Global Finance Research Conference (Ho Chi Minh City, 2023).</p>
 </details>
 
-[Crypto Capture of Foreign Aid](#) with Sumit Agarwal (NUS), Eswar Prasad (Cornell), Daniel Rabetti (NUS) *(draft available upon request)*
+[Crypto Capture of Foreign Aid](#) with Sumit Agarwal (NUS), Eswar Prasad (Cornell), Daniel Rabetti (NUS) *draft available upon request*
 
 <div style="margin-top:-20px;"></div>
 
@@ -71,7 +71,7 @@ This paper examines the impact of credit data sharing among competitive banks of
   This paper investigates the impact of privacy regulations on financial inclusion by analyzing a Google policy change that barred an Indian FinTech lender from accessing borrowers’ phone contacts. Previously, the lender used contacts as social collateral to reduce defaults. After the policy, application acceptance declined by 25.14%, while loan applications rose by 3.5%. Despite increased demand, default rates remained stable as lenders tightened selection criteria. This shift reduced lender revenues and disproportionately affected low-income, younger, credit-inexperienced, and lower-status borrowers. The findings highlight that privacy regulations, though addressing privacy concerns, can significantly hinder financial inclusion and lender profitability.</p>
   </details>
 
-[LLM in a Recruiting Position: Bias & Mitigation](#) with Lin Xu (NUS, PhD Student), Bingchen Wang (Oxford, MPhil),  *(draft available upon request)*  
+[LLM in a Recruiting Position: Bias & Mitigation](#) with Lin Xu (NUS, PhD Student), Bingchen Wang (Oxford, MPhil),  *draft available upon request*  
    **Keywords:** Large Language Models, Algorithmic fairness, Human-AI interaction, Computational Social Science
 
 
