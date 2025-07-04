@@ -18,8 +18,7 @@ Research
 ======
 <div style="margin-top:-30px;"></div>
 
-
-I. Job Market Paper
+Job Market Paper
 ------
 [Consumption Not Less but Greener: Evidence from Residential Utility Digitalization](#) *draft available upon request.* Job market paper, solo
 <div style="margin-top:-20px;"></div>
@@ -33,7 +32,7 @@ This paper examines how real-time information feedback affects household consump
 I. Blockchain
 ------
 
-1. [Tax Planning, Illiquidity, and Credit Risks: Evidence from DeFi Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764605) with Lisa De Simone (UT Austin), Daniel Rabetti (NUS)
+Tax Planning, Illiquidity, and Credit Risks: Evidence from DeFi Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764605) with Lisa De Simone (UT Austin), Daniel Rabetti (NUS)
 
 <div style="margin-top:-20px;"></div>
 
@@ -45,7 +44,7 @@ I. Blockchain
 International Monetary Fund (IMF) Workshop on Digital Money and Taxation (2025); Hawai‘i Accounting Research Conference (HARC, 2025); Tokenomics Conference (2024); Workshop on the Economics of Technology and Decentralization at Waseda University; National University of Singapore; Cornell–Tsinghua Summer Finance Institute; IESE Barcelona Tax Conference; IC3 Blockchain Camp at Cornell Tech; Finance and Accounting Annual Research Symposium; Research Symposium on Finance and Economics; Bank of Finland; European Systemic Risk Board; Conference on AI and Systemic Risk Analytics; Swiss National Bank Conference on Cryptoassets and Financial Innovation; Eurasia Conference; Hong Kong University Summer Conference; Bank of Japan; FeAT International Conference on Artificial Intelligence; Tsinghua University (SEM and PBC, 2024); Singapore FinTech Festival; 14th Financial Markets and Corporate Governance Conference; AI Global Finance Research Conference (Ho Chi Minh City, 2023).</p>
 </details>
 
-2. [Crypto Capture of Foreign Aid](#) with Sumit Agarwal (NUS), Eswar Prasad (Cornell), Daniel Rabetti (NUS) *draft available upon request*
+[Crypto Capture of Foreign Aid](#) with Sumit Agarwal (NUS), Eswar Prasad (Cornell), Daniel Rabetti (NUS) *draft available upon request*
 
 <div style="margin-top:-20px;"></div>
 
@@ -58,7 +57,7 @@ This paper investigates whether cryptocurrencies have become a new conduit for l
 II. AI x Economics
 ------
 
-1. [Credit Network and Data Sharing: An Evaluation of Cooperative Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4463473) with Sumit Agarwal (NUS), Hsin-Tien Tsai (NUS)
+[Credit Network and Data Sharing: An Evaluation of Cooperative Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4463473) with Sumit Agarwal (NUS), Hsin-Tien Tsai (NUS)
 <div style="margin-top:-20px;"></div>
 <details>
 <p><strong>Abstract:</strong>  
@@ -66,21 +65,21 @@ This paper examines the impact of credit data sharing among competitive banks of
 </details>
 
 
-2. [Privacy and Financial Inclusion in Credit Markets: A Lenders’ Perspective](https://drive.google.com/file/d/1QY0Ba49V9RbYpTz1cms9vca-3N3dRO-u/view)" with Sumit Agarwal (NUS), Pulak Ghosh (IIMB), Shohini Kundu (UCLA), Nishant Vats (WUSTL), Xinbo Wang (NUS, PhD Student) 
+[Privacy and Financial Inclusion in Credit Markets: A Lenders’ Perspective](https://drive.google.com/file/d/1QY0Ba49V9RbYpTz1cms9vca-3N3dRO-u/view)" with Sumit Agarwal (NUS), Pulak Ghosh (IIMB), Shohini Kundu (UCLA), Nishant Vats (WUSTL), Xinbo Wang (NUS, PhD Student) 
 <div style="margin-top:-20px;"></div>
   <details>
   <p><strong>Abstract:</strong>  
   This paper investigates the impact of privacy regulations on financial inclusion by analyzing a Google policy change that barred an Indian FinTech lender from accessing borrowers’ phone contacts. Previously, the lender used contacts as social collateral to reduce defaults. After the policy, application acceptance declined by 25.14%, while loan applications rose by 3.5%. Despite increased demand, default rates remained stable as lenders tightened selection criteria. This shift reduced lender revenues and disproportionately affected low-income, younger, credit-inexperienced, and lower-status borrowers. The findings highlight that privacy regulations, though addressing privacy concerns, can significantly hinder financial inclusion and lender profitability.</p>
   </details>
 
-3. [LLM in a Recruiting Position: Bias & Mitigation](#) with Lin Xu (NUS, PhD Student), Bingchen Wang (Oxford, MPhil),  *draft available upon request*  
+[LLM in a Recruiting Position: Bias & Mitigation](#) with Lin Xu (NUS, PhD Student), Bingchen Wang (Oxford, MPhil),  *draft available upon request*  
    **Keywords:** Large Language Models, Algorithmic fairness, Human-AI interaction, Computational Social Science
 
 
 
 III. Development Economics
 ------
-1. [Noncognitive Development and Peer Networks: Experimental Evidence on Chinese Rural Boarding School Students](https://drive.google.com/drive/folders/1HpEJP17kEhlEo0Ir61jq8qqTzFLHL4Zf) with Yue Li (UCL, PhD Student)
+[Noncognitive Development and Peer Networks: Experimental Evidence on Chinese Rural Boarding School Students](https://drive.google.com/drive/folders/1HpEJP17kEhlEo0Ir61jq8qqTzFLHL4Zf) with Yue Li (UCL, PhD Student)
 <div style="margin-top:-20px;"></div>
 <details>
 <p><strong>Abstract:</strong>  
