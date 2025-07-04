@@ -13,11 +13,6 @@ I'm Peiyi Jin (金沛宜). I'm a 5th year Ph.D. candidate in the Department of E
 
 **Research Interests:** Fintech, Digital Economy, and Household Finance.
 
-
-Research
-======
-<div style="margin-top:-30px;"></div>
-
 Job Market Paper
 ------
 [Consumption Not Less but Greener: Evidence from Residential Utility Digitalization](#), solo, *draft available upon request.*
@@ -29,7 +24,7 @@ This paper examines how real-time information feedback affects household consump
 
 </details>
 
-Research Field
+Research
 ======
 I. Blockchain
 ------
