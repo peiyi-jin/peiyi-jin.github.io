@@ -107,13 +107,18 @@ Reviewer for Review of Corporate Finance, Hawaii Accounting Research Conference.
 Awards
 ======
 
-| Award | Period |
-|----------------|----------------------------|
-| **Research Funding**, Asian Institute of Digital Finance, NUS (SGD 160K)<br>_Project: Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors_ | Jun 2024 – Jun 2025 |
-| **Research Scholarship**, Department of Economics, NUS | Aug 2024 – Aug 2025 |
-| **Research Scholarship**, Ministry of Education (MOE), Singapore | Aug 2020 – Aug 2024 |
-| **Undergraduate Exchange Scholarship**, SWUFE | Jan 2020 – May 2020 |
-| **Outstanding Undergraduate Exchange Student**, China Scholarship Council (CSC) | Aug 2018 – May 2019 |
-| **Academic Scholarship**, SWUFE | Sep 2017 – Jun 2018 |
+- **Research Funding**, Asian Institute of Digital Finance, NUS (SGD 160K) <span style="float:right;">Jun 2024 – Jun 2025</span>  
+  *Project: Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors*
+
+- **Research Scholarship**, Department of Economics, NUS <span style="float:right;">Aug 2024 – Aug 2025</span>
+
+- **Research Scholarship**, Ministry of Education (MOE), Singapore <span style="float:right;">Aug 2020 – Aug 2024</span>
+
+- **Undergraduate Exchange Scholarship**, SWUFE <span style="float:right;">Jan 2020 – May 2020</span>
+
+- **Outstanding Undergraduate Exchange Student**, China Scholarship Council (CSC) <span style="float:right;">Aug 2018 – May 2019</span>
+
+- **Academic Scholarship**, SWUFE <span style="float:right;">Sep 2017 – Jun 2018</span>
+
 
 
