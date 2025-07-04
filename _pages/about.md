@@ -108,11 +108,12 @@ Academic Service
 ======
 [Reviewer for Review of Corporate Finance](https://www.nowpublishers.com/rcf), [Hawaii Accounting Research Conference](https://manoa.hawaii.edu/harc/)
 
+
 Awards
 ======
 
 - <span style="color:#78aad9;">Research Funding</span>, Asian Institute of Digital Finance, NUS (SGD 160K) <span style="float:right;">Jun 2024 – Jun 2025</span>  
-  *Project:* Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors
+  *Project: Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors*
 
 - <span style="color:#78aad9;">Research Scholarship</span>, Department of Economics, NUS <span style="float:right;">Aug 2024 – Aug 2025</span>
 
@@ -123,4 +124,3 @@ Awards
 - <span style="color:#78aad9;">Outstanding Undergraduate Exchange Student</span>, China Scholarship Council (CSC) <span style="float:right;">Aug 2018 – May 2019</span>
 
 - <span style="color:#78aad9;">Academic Scholarship</span>, SWUFE <span style="float:right;">Sep 2017 – Jun 2018</span>
-
