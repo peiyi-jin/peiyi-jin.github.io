@@ -100,9 +100,21 @@ Royal Economic Society Annual Conference (Birmingham, 2025), Stone Centre Confer
 
 Teaching
 ======
-1. [NUS, TA, EC3332 Money and Banking I](https://nusmods.com/modules/EC3332/money-and-banking-i), 2022
-2. [NUS, TA, EC3332 Money and Banking I](https://nusmods.com/modules/EC3332/money-and-banking-i), 2023
-3. [SWUFE, Instructor, Junior Achievement Economics Workshop](https://jausa.ja.org/programs/ja-economics), 2017
+
+<div style="overflow:auto;">
+  <a href="https://nusmods.com/modules/EC3332/money-and-banking-i">NUS, TA, EC3332 Money and Banking I</a>
+  <span style="float:right;">2022</span>
+</div>
+
+<div style="overflow:auto;">
+  <a href="https://nusmods.com/modules/EC3332/money-and-banking-i">NUS, TA, EC3332 Money and Banking I</a>
+  <span style="float:right;">2023</span>
+</div>
+
+<div style="overflow:auto;">
+  <a href="https://jausa.ja.org/programs/ja-economics">SWUFE, Instructor, Junior Achievement Economics Workshop</a>
+  <span style="float:right;">2017</span>
+</div>
 
 Academic Service
 ======
@@ -138,9 +150,9 @@ Awards
 <span style="float:right;">Aug 2018 – May 2019</span><br>
 </div>
 
-<div>
+<!-- <div>
 <span style="color:#008cba;">Academic Scholarship</span>, SWUFE
 <span style="float:right;">Sep 2017 – Jun 2018</span><br>
-</div>
+</div> -->
 
 
