@@ -123,28 +123,42 @@ Academic Service
 ======
 [Reviewer for Review of Corporate Finance](https://www.nowpublishers.com/rcf), [Hawaii Accounting Research Conference](https://manoa.hawaii.edu/harc/)
 
+
 Awards
 ======
 
-<div>
-<span style="color:#008cba;">Research Funding</span>, Asian Institute of Digital Finance, NUS (SGD 160K)
-<span style="float:right;">Jun 2024 – Jun 2025</span><br>
-<em>Project: Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors</em>
+<div style="overflow:auto;">
+  <span style="color:#008cba;">Research Funding</span>
+  <div style="float:right; text-align:right;">
+    Asian Institute of Digital Finance, NUS (SGD 160K)<br>
+    Jun 2024 – Jun 2025
+  </div>
+  <br>
+  <em>Project: Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors</em>
 </div>
 
-<div>
-<span style="color:#008cba;">Research Scholarship</span>, Department of Economics, NUS
-<span style="float:right;">Aug 2024 – Aug 2025</span>
+<div style="overflow:auto;">
+  <span style="color:#008cba;">Research Scholarship</span>
+  <div style="float:right; text-align:right;">
+    Department of Economics, NUS<br>
+    Aug 2024 – Aug 2025
+  </div>
 </div>
 
-<div>
-<span style="color:#008cba;">Research Scholarship</span>, Ministry of Education (MOE), Singapore
-<span style="float:right;">Aug 2020 – Aug 2024</span>
+<div style="overflow:auto;">
+  <span style="color:#008cba;">Research Scholarship</span>
+  <div style="float:right; text-align:right;">
+    Ministry of Education (MOE), Singapore<br>
+    Aug 2020 – Aug 2024
+  </div>
 </div>
 
-<div>
-<span style="color:#008cba;">Undergraduate Exchange Scholarship</span>, SWUFE
-<span style="float:right;">Jan 2020 – May 2020</span>
+<div style="overflow:auto;">
+  <span style="color:#008cba;">Undergraduate Exchange Scholarship</span>
+  <div style="float:right; text-align:right;">
+    SWUFE<br>
+    Jan 2020 – May 2020
+  </div>
 </div>
 
 <div style="overflow:auto;">
@@ -155,10 +169,10 @@ Awards
   </div>
 </div>
 
-
-<div>
-<span style="color:#008cba;">Academic Scholarship</span>, SWUFE
-<span style="float:right;">Sep 2017 – Jun 2018</span><br>
+<div style="overflow:auto;">
+  <span style="color:#008cba;">Academic Scholarship</span>
+  <div style="float:right; text-align:right;">
+    SWUFE<br>
+    Sep 2017 – Jun 2018
+  </div>
 </div>
-
-
