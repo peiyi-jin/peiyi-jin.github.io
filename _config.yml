@@ -78,12 +78,12 @@ author:
   avatar           : "peiyi-jin.jpeg"
   bio              : " Econ Ph.D. candidate (NUS)"
   location         : "Singapore"
-  # employer         :
+  employer         : "NUS"
     
     
   
-#   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  # googlescholar    : "https://scholar.google.com/citations?user=OMzXwjEAAAAJ&hl=en&oi=sra"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=DzzqZesAAAAJ&hl=en&oi=ao"
   email            : "jin_peiyi@u.nus.edu"
 #   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
 #   uri              : 
@@ -112,9 +112,6 @@ author:
 #   xing             :
 #   youtube          :
 #   wikipedia        :
-ssrn                 : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5339039"
-google_scholar       : "https://scholar.google.com/citations?user=DzzqZesAAAAJ&hl=en&oi=ao"
-tel                  : "+65 96865125"
 # Reading Files
 include:
   - .htaccess

@@ -13,6 +13,7 @@ I'm Peiyi Jin (金沛宜). I'm a 5th year Ph.D. candidate in the Department of E
 
 Research
 ======
+
 I. Blockchain
 ------
 1. [Tax Planning, Illiquidity, and Credit Risks: Evidence from DeFi Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764605) with Lisa De Simone, Daniel Rabetti
