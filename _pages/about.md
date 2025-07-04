@@ -19,12 +19,11 @@ Research
 I. Blockchain
 ------
 <details>
+<summary><strong>Working Paper</strong></summary>
 
 1. [Tax Planning, Illiquidity, and Credit Risks: Evidence from DeFi Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764605) with Lisa De Simone, Daniel Rabetti
-<details class="details-inline">
-<summary><strong>Abstract</strong></summary>
 
-This study examines the link between tax-planning-induced illiquidity and credit risks in lending markets. Exploiting
+**Abstract:** This study examines the link between tax-planning-induced illiquidity and credit risks in lending markets. Exploiting
 an exogenous tax shock imposed on cryptocurrency gains and millions of transactions in Decentralized Finance (DeFi)
 lending, we document that tax-motivated borrowing strategies to defer capital gains taxes significantly reduce market
 liquidity. This effect is pronounced among individuals borrowing in stablecoins (a way to monetize returns), those
@@ -37,12 +36,7 @@ results remain robust across a battery of checks, including analyses of subsampl
 align with well-documented tax awareness periods. Overall, our insights are relevant to market participants, assist in
 estimating revenue losses for tax authorities, and inform emerging policies on the tax treatment of digital assets.
 
-</details>
-
-<details>
-<summary><strong>Selected conferences and talks</strong></summary>
-
-International Monetary Fund (IMF) Workshop in Digital Money and Taxation
+**Selected conferences and talks:** International Monetary Fund (IMF) Workshop in Digital Money and Taxation
 (2025); Hawai’i Accounting Research Conference (HARC, 2025); Tokenomics Conference (2024); Workshop on
 the Economics of Technology and Decentralization at Waseda University; National University of Singapore; Cor-
 nell–Tsinghua Summer Finance Institute; IESE Barcelona Tax Conference; IC3 Blockchain Camp at Cornell Tech;
@@ -53,21 +47,19 @@ ference; Bank of Japan; FeAT International Conference on Artificial Intelligence
 PBC, 2024); Singapore FinTech Festival; 14th Financial Markets and Corporate Governance Conference; AI Global
 Finance Research Conference (Ho Chi Minh City, 2023).
 
-</details>
 
 2. [Crypto Capture of Foreign Aid](#) with Sumit Agarwal, Eswar Prasad, Daniel Rabetti, *(draft available upon request)*
-<details>
-<summary><strong>Abstract</strong></summary>
 
-This paper investigates whether cryptocurrencies have become a new conduit for laundering diverted foreign aid. Using World Bank disbursement data from 2018 to 2024, linked with forensically tagged on-chain Bitcoin transactions and off-chain exchange activity, we document systematic surges in crypto transactions for anonymous wallets after disbursements, especially on exchanges located in tax haven jurisdictions. A one-standard-deviation increase in lagged aid is associated with a 0.51 log-point rise in anonymous transactions on tax haven exchanges---approximately a 66\% increase---concentrated in newly created wallets and fading within two quarters. Network analysis reveals a real-time laundering pattern: funds flow through regulated platforms, then through mixers and tax haven exchanges, mirroring the classic placement, layering, and integration stages. Off-chain data confirm spikes in transactions on suspect, lightly regulated platforms. To address endogeneity in aid allocation, we use an IV strategy based on historical aid shares interacted with governance quality. Overall, our findings suggest that cryptocurrencies are increasingly used for offshore banking in concealing aid diversion. Our study shows how blockchain forensics can trace hidden financial flows and offers new tools for anti-corruption and crypto regulation.
+**Abstract:** This paper investigates whether cryptocurrencies have become a new conduit for laundering diverted foreign aid. Using World Bank disbursement data from 2018 to 2024, linked with forensically tagged on-chain Bitcoin transactions and off-chain exchange activity, we document systematic surges in crypto transactions for anonymous wallets after disbursements, especially on exchanges located in tax haven jurisdictions. A one-standard-deviation increase in lagged aid is associated with a 0.51 log-point rise in anonymous transactions on tax haven exchanges---approximately a 66\% increase---concentrated in newly created wallets and fading within two quarters. Network analysis reveals a real-time laundering pattern: funds flow through regulated platforms, then through mixers and tax haven exchanges, mirroring the classic placement, layering, and integration stages. Off-chain data confirm spikes in transactions on suspect, lightly regulated platforms. To address endogeneity in aid allocation, we use an IV strategy based on historical aid shares interacted with governance quality. Overall, our findings suggest that cryptocurrencies are increasingly used for offshore banking in concealing aid diversion. Our study shows how blockchain forensics can trace hidden financial flows and offers new tools for anti-corruption and crypto regulation.
 
-</details>
 
 </details>
 
 II. Digital Economy, Fintech, AI
 ------
-1. [Consumption Not Less but Greener: Evidence from Residential Utility Digitalization](#) *draft available upon request.* Job market paper, solo
+
+
+[Consumption Not Less but Greener: Evidence from Residential Utility Digitalization](#) *draft available upon request.* Job market paper, solo
 <details>
 <summary><strong>Abstract</strong></summary>
 
@@ -76,17 +68,17 @@ This paper examines how real-time information feedback affects household consump
 </details>
 
 
-2. [Credit Network and Data Sharing: An Evaluation of Cooperative Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4463473) with Sumit Agarwal, Hsin-Tien Tsai, 
+[Credit Network and Data Sharing: An Evaluation of Cooperative Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4463473) with Sumit Agarwal, Hsin-Tien Tsai, 
 <details>
 <summary><strong>Abstract</strong></summary>
 This paper examines the impact of credit data sharing among competitive banks of different sizes in open banking. Analyzing data from three predecessors of Bank of America, we find that information sharing enhances predictive capabilities and increases market lending profit as the network size grows. The bank sharing loans with varying collateral amounts contributes the most to improved prediction. However, competition leads to disparities in benefits, favoring smaller banks while the largest bank experiences losses in borrowers and profits. Effective bargaining for cooperative sharing is thus emphasized. We explore the Nash equilibrium for optimal outcomes in a competitive lending market.
 </details>
 
 
-3. [LLM in a Recruiting Position: Bias & Mitigation](#) with Lin Xu (NUS, PhD Student), Bingchen Wang (Oxford, MPhil),  *(draft available upon request)*  
+[LLM in a Recruiting Position: Bias & Mitigation](#) with Lin Xu (NUS, PhD Student), Bingchen Wang (Oxford, MPhil),  *(draft available upon request)*  
    **Keywords:** Large Language Models, Algorithmic fairness, Human-AI interaction, Computational Social Science
 
-4. [Privacy and Financial Inclusion in Credit Markets: A Lenders’ Perspective](https://drive.google.com/file/d/1QY0Ba49V9RbYpTz1cms9vca-3N3dRO-u/view)" (Slides) with Sumit Agarwal, Pulak Ghosh, Shohini Kundu, Nishant Vats, Xinbo Wang (NUS, PhD Student) 
+[Privacy and Financial Inclusion in Credit Markets: A Lenders’ Perspective](https://drive.google.com/file/d/1QY0Ba49V9RbYpTz1cms9vca-3N3dRO-u/view)" (Slides) with Sumit Agarwal, Pulak Ghosh, Shohini Kundu, Nishant Vats, Xinbo Wang (NUS, PhD Student) 
 
   <details class="details-inline">
   <summary><strong>Abstract</strong></summary>
@@ -96,7 +88,7 @@ This paper examines the impact of credit data sharing among competitive banks of
 
 III. Development Economics
 ------
-1. [Noncognitive Development and Peer Networks: Experimental Evidence on Chinese Rural Boarding School Students](https://drive.google.com/drive/folders/1HpEJP17kEhlEo0Ir61jq8qqTzFLHL4Zf) with Yue Li
+[Noncognitive Development and Peer Networks: Experimental Evidence on Chinese Rural Boarding School Students](https://drive.google.com/drive/folders/1HpEJP17kEhlEo0Ir61jq8qqTzFLHL4Zf) with Yue Li
 <details>
 <summary><strong>Abstract</strong></summary>
   This paper evaluates the effects of audio bedtime stories on non-cognitive skill development among rural boarding school students in China. Using a randomized controlled trial across 63 schools, treated boarding students listened to stories via dormitory speakers, allowing identification of peer effects with untreated day students in the same classroom. Results show significant improvements in treated students, especially those with larger friendship networks, and spillover benefits for untreated peers connected to boarding friends. Early treatment boosts resilience. Employing a Linear-in-Means model, the study provides novel experimental evidence of non-cognitive skill transfer through peer networks, offering a scalable intervention impacting over four million children.
