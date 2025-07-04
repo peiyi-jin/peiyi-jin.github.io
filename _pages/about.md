@@ -15,7 +15,6 @@ Fintech, Digital Economy, and Household Finance.
 
 Research
 ======
-
 Working Papers
 ------
 1. with Lisa De Simone, Daniel Rabetti, "[Tax Planning, Illiquidity, and Credit Risks: Evidence from DeFi Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764605)"
