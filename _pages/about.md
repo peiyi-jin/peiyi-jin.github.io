@@ -11,8 +11,10 @@ I'm Peiyi Jin (金沛宜). I'm a 5th year Ph.D. candidate in the Department of E
 
 **Research Interests:** Fintech, Digital Economy, and Household Finance.
 
-Working Papers
+Research
 ======
+I. Blockchain
+------
 1. [Tax Planning, Illiquidity, and Credit Risks: Evidence from DeFi Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764605) with Lisa De Simone, Daniel Rabetti
 <details class="details-inline">
 <summary><strong>Abstract</strong></summary>
@@ -48,17 +50,7 @@ Finance Research Conference (Ho Chi Minh City, 2023).
 
 </details>
 
-
-2. [Consumption Not Less but Greener: Evidence from Residential Utility Digitalization](#) *draft available upon request.* Job market paper, solo
-<details>
-<summary><strong>Abstract</strong></summary>
-
-This paper examines how real-time information feedback affects household consumption when price incentives are absent. Using a quasi-experimental rollout of digital devices providing real-time electricity data and remote shut-off via mobile apps, we find that treated households significantly reduce electricity use. Beyond energy savings, we observe broader spillovers: households shift diets from carbon-intensive to healthier food, substitute digital for paper use, and cut taxi rides. Our results contribute to the literature on behavioral nudges by showing that real-time digital feedback, unlike traditional static signals, can meaningfully influence consumption and promote greener lifestyles in the medium term.
-
-</details>
-
-
-3. [Crypto Capture of Foreign Aid](#) with Sumit Agarwal, Eswar Prasad, Daniel Rabetti, *(draft available upon request)*
+2. [Crypto Capture of Foreign Aid](#) with Sumit Agarwal, Eswar Prasad, Daniel Rabetti, *(draft available upon request)*
 <details>
 <summary><strong>Abstract</strong></summary>
 
@@ -67,26 +59,28 @@ This paper investigates whether cryptocurrencies have become a new conduit for l
 </details>
 
 
-4. [Noncognitive Development and Peer Networks: Experimental Evidence on Chinese Rural Boarding School Students](https://drive.google.com/drive/folders/1HpEJP17kEhlEo0Ir61jq8qqTzFLHL4Zf) with Yue Li
+II. Digital Economy, Fintech, AI
+------
+1. [Consumption Not Less but Greener: Evidence from Residential Utility Digitalization](#) *draft available upon request.* Job market paper, solo
 <details>
 <summary><strong>Abstract</strong></summary>
-  This paper evaluates the effects of audio bedtime stories on non-cognitive skill development among rural boarding school students in China. Using a randomized controlled trial across 63 schools, treated boarding students listened to stories via dormitory speakers, allowing identification of peer effects with untreated day students in the same classroom. Results show significant improvements in treated students, especially those with larger friendship networks, and spillover benefits for untreated peers connected to boarding friends. Early treatment boosts resilience. Employing a Linear-in-Means model, the study provides novel experimental evidence of non-cognitive skill transfer through peer networks, offering a scalable intervention impacting over four million children.
+
+This paper examines how real-time information feedback affects household consumption when price incentives are absent. Using a quasi-experimental rollout of digital devices providing real-time electricity data and remote shut-off via mobile apps, we find that treated households significantly reduce electricity use. Beyond energy savings, we observe broader spillovers: households shift diets from carbon-intensive to healthier food, substitute digital for paper use, and cut taxi rides. Our results contribute to the literature on behavioral nudges by showing that real-time digital feedback, unlike traditional static signals, can meaningfully influence consumption and promote greener lifestyles in the medium term.
+
 </details>
 
 
-5. [Credit Network and Data Sharing: An Evaluation of Cooperative Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4463473) with Sumit Agarwal, Hsin-Tien Tsai, 
+2. [Credit Network and Data Sharing: An Evaluation of Cooperative Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4463473) with Sumit Agarwal, Hsin-Tien Tsai, 
 <details>
 <summary><strong>Abstract</strong></summary>
 This paper examines the impact of credit data sharing among competitive banks of different sizes in open banking. Analyzing data from three predecessors of Bank of America, we find that information sharing enhances predictive capabilities and increases market lending profit as the network size grows. The bank sharing loans with varying collateral amounts contributes the most to improved prediction. However, competition leads to disparities in benefits, favoring smaller banks while the largest bank experiences losses in borrowers and profits. Effective bargaining for cooperative sharing is thus emphasized. We explore the Nash equilibrium for optimal outcomes in a competitive lending market.
 </details>
 
 
-Selected Work in Progress
-------
-1. [LLM in a Recruiting Position: Bias & Mitigation](#) with Lin Xu (NUS, PhD Student), Bingchen Wang (Oxford, MPhil),  *(draft available upon request)*  
+3. [LLM in a Recruiting Position: Bias & Mitigation](#) with Lin Xu (NUS, PhD Student), Bingchen Wang (Oxford, MPhil),  *(draft available upon request)*  
    **Keywords:** Large Language Models, Algorithmic fairness, Human-AI interaction, Computational Social Science
 
-2. [Privacy and Financial Inclusion in Credit Markets: A Lenders’ Perspective](https://drive.google.com/file/d/1QY0Ba49V9RbYpTz1cms9vca-3N3dRO-u/view)" (Slides) with Sumit Agarwal, Pulak Ghosh, Shohini Kundu, Nishant Vats, Xinbo Wang (NUS, PhD Student) 
+4. [Privacy and Financial Inclusion in Credit Markets: A Lenders’ Perspective](https://drive.google.com/file/d/1QY0Ba49V9RbYpTz1cms9vca-3N3dRO-u/view)" (Slides) with Sumit Agarwal, Pulak Ghosh, Shohini Kundu, Nishant Vats, Xinbo Wang (NUS, PhD Student) 
 
   <details class="details-inline">
   <summary><strong>Abstract</strong></summary>
@@ -94,16 +88,31 @@ Selected Work in Progress
   </details>
 
 
-Teaching
+III. Development Economics
 ------
+1. [Noncognitive Development and Peer Networks: Experimental Evidence on Chinese Rural Boarding School Students](https://drive.google.com/drive/folders/1HpEJP17kEhlEo0Ir61jq8qqTzFLHL4Zf) with Yue Li
+<details>
+<summary><strong>Abstract</strong></summary>
+  This paper evaluates the effects of audio bedtime stories on non-cognitive skill development among rural boarding school students in China. Using a randomized controlled trial across 63 schools, treated boarding students listened to stories via dormitory speakers, allowing identification of peer effects with untreated day students in the same classroom. Results show significant improvements in treated students, especially those with larger friendship networks, and spillover benefits for untreated peers connected to boarding friends. Early treatment boosts resilience. Employing a Linear-in-Means model, the study provides novel experimental evidence of non-cognitive skill transfer through peer networks, offering a scalable intervention impacting over four million children.
+</details>
+
+<details>
+<summary><strong>Selected conferences and talks</strong></summary>
+
+Royal Economic Society Annual Conference (Birmingham, 2025), Stone Centre Conference on Education and Inequality (London, 2025), Janeway Institute Cambridge PhD Workshop on Economic Networks (Cambridge, 2025), 2025 Young Economists Society Chengdu Forum (Chengdu, 2025), The Society of Labor Economists Annual Meeting (Oregon, 2024), European Association of Young Economists Annual Meeting (Paris, 2024), IFS–UCL–LSE/STICERD Development WiP Seminar (London, 2024), China Economic Association Europe/UK Annual Conference (London, 2024), UCL PhD Seminar (London, 2024), and NUS Applied Economics Student Workshop (Singapore, 2023).
+</details>
+
+
+
+Teaching
+======
 1. [NUS, TA, EC3332 Money and Banking I](https://nusmods.com/modules/EC3332/money-and-banking-i), 2022
 2. [NUS, TA, EC3332 Money and Banking I](https://nusmods.com/modules/EC3332/money-and-banking-i), 2023
 3. [SWUFE, Instructor, Junior Achievement Economics Workshop](https://jausa.ja.org/programs/ja-economics), 2017
 
 Academic Service
-------
+======
 Reviewer for Review of Corporate Finance, Hawaii Accounting Research Conference.
-
 
 Awards
 ======
