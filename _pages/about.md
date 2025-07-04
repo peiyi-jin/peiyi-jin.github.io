@@ -9,14 +9,9 @@ redirect_from:
 ---
 I'm Peiyi Jin (金沛宜). I'm a Ph.D. candidate in the Department of Economics at National University of Singapore (NUS). I'm working with Prof. [Sumit Agarwal](https://www.ushakrisna.com/). Before this, I received my bachelor's degree from Southwestern University of Finance and Economics (SWUFE), China, 2020. I was an exchange student and RA at University of California, Berkeley (UCB), 2018-2019.
 
-Research Interests
-======
-Fintech, Digital Economy, and Household Finance.
-
-
 Working Papers
 ======
-1. with Lisa De Simone, Daniel Rabetti, "[Tax Planning, Illiquidity, and Credit Risks: Evidence from DeFi Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764605)"
+1. "[Tax Planning, Illiquidity, and Credit Risks: Evidence from DeFi Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764605)" with Lisa De Simone, Daniel Rabetti
   <details>
   <summary><strong>Abstract</strong></summary>
 
@@ -52,7 +47,7 @@ Working Papers
   </details>
 
 
-2. "**Consumption Not Less but Greener: Evidence from Residential Utility Digitalization**" *draft available upon request.* Job market paper, solo
+2. **Consumption Not Less but Greener: Evidence from Residential Utility Digitalization** *draft available upon request.* Job market paper, solo
   <details>
   <summary><strong>Abstract</strong></summary>
 
@@ -61,7 +56,7 @@ Working Papers
   </details>
 
 
-3.with Sumit Agarwal, Eswar Prasad, Daniel Rabetti, "[Crypto Capture of Foreign Aid](#)" *(draft available upon request)*
+3. [Crypto Capture of Foreign Aid](#) with Sumit Agarwal, Eswar Prasad, Daniel Rabetti, *(draft available upon request)*
   <details>
   <summary><strong>Abstract</strong></summary>
 
@@ -70,14 +65,14 @@ Working Papers
   </details>
 
 
-4. with Yue Li, "[Noncognitive Development and Peer Networks: Experimental Evidence on Chinese Rural Boarding School Students](https://drive.google.com/drive/folders/1HpEJP17kEhlEo0Ir61jq8qqTzFLHL4Zf)"
+4. [Noncognitive Development and Peer Networks: Experimental Evidence on Chinese Rural Boarding School Students](https://drive.google.com/drive/folders/1HpEJP17kEhlEo0Ir61jq8qqTzFLHL4Zf) with Yue Li
   <details>
   <summary><strong>Abstract</strong></summary>
     This paper evaluates the effects of audio bedtime stories on non-cognitive skill development among rural boarding school students in China. Using a randomized controlled trial across 63 schools, treated boarding students listened to stories via dormitory speakers, allowing identification of peer effects with untreated day students in the same classroom. Results show significant improvements in treated students, especially those with larger friendship networks, and spillover benefits for untreated peers connected to boarding friends. Early treatment boosts resilience. Employing a Linear-in-Means model, the study provides novel experimental evidence of non-cognitive skill transfer through peer networks, offering a scalable intervention impacting over four million children.
   </details>
 
 
-5. with Sumit Agarwal, Hsin-Tien Tsai, "[Credit Network and Data Sharing: An Evaluation of Cooperative Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4463473)"
+5. [Credit Network and Data Sharing: An Evaluation of Cooperative Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4463473) with Sumit Agarwal, Hsin-Tien Tsai, 
   <details>
   <summary><strong>Abstract</strong></summary>
   This paper examines the impact of credit data sharing among competitive banks of different sizes in open banking. Analyzing data from three predecessors of Bank of America, we find that information sharing enhances predictive capabilities and increases market lending profit as the network size grows. The bank sharing loans with varying collateral amounts contributes the most to improved prediction. However, competition leads to disparities in benefits, favoring smaller banks while the largest bank experiences losses in borrowers and profits. Effective bargaining for cooperative sharing is thus emphasized. We explore the Nash equilibrium for optimal outcomes in a competitive lending market.
@@ -86,10 +81,10 @@ Working Papers
 
 Selected Work in Progress
 ------
-1. with Lin Xu (NUS, PhD Student), Bingchen Wang (Oxford, MPhil), "[LLM in a Recruiting Position: Bias & Mitigation](#)" *(draft available upon request)*  
+1. [LLM in a Recruiting Position: Bias & Mitigation](#) with Lin Xu (NUS, PhD Student), Bingchen Wang (Oxford, MPhil),  *(draft available upon request)*  
    **Keywords:** Large Language Models, Algorithmic fairness, Human-AI interaction, Computational Social Science
 
-2. with Sumit Agarwal, Pulak Ghosh, Shohini Kundu, Nishant Vats, Xinbo Wang (NUS, PhD Student), "[Privacy and Financial Inclusion in Credit Markets: A Lenders’ Perspective](https://drive.google.com/file/d/1QY0Ba49V9RbYpTz1cms9vca-3N3dRO-u/view)" (Slides)  
+2. [Privacy and Financial Inclusion in Credit Markets: A Lenders’ Perspective](https://drive.google.com/file/d/1QY0Ba49V9RbYpTz1cms9vca-3N3dRO-u/view)" (Slides) with Sumit Agarwal, Pulak Ghosh, Shohini Kundu, Nishant Vats, Xinbo Wang (NUS, PhD Student) 
 
  <details class="details-inline">
   <summary><strong>Abstract</strong></summary>
