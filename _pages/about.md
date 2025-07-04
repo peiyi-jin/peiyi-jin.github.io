@@ -139,7 +139,7 @@ Awards
 </div>
 
 <div>
-<span style="color:#1e90ff;">Academic Scholarship</span>, SWUFE
+<span style="color:#008cba;">Academic Scholarship</span>, SWUFE
 <span style="float:right;">Sep 2017 – Jun 2018</span><br>
 </div>
 
