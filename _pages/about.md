@@ -28,7 +28,6 @@ Research
 ======
 I. Blockchain
 ------
-
 [Tax Planning, Illiquidity, and Credit Risks: Evidence from DeFi Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764605) with Lisa De Simone (UT Austin), Daniel Rabetti (NUS)
 
 <div style="margin-top:-20px;"></div>
@@ -54,6 +53,15 @@ This paper investigates whether cryptocurrencies have become a new conduit for l
 II. AI x Economics
 ------
 
+[Privacy and Financial Inclusion in Credit Markets: A Lenders’ Perspective](https://drive.google.com/file/d/1QY0Ba49V9RbYpTz1cms9vca-3N3dRO-u/view)" with Sumit Agarwal (NUS), Pulak Ghosh (IIMB), Shohini Kundu (UCLA), Nishant Vats (WUSTL), Xinbo Wang (NUS, PhD Student) 
+<div style="margin-top:-20px;"></div>
+  <details>
+  <p><strong>Abstract:</strong>  
+  This paper investigates the impact of privacy regulations on financial inclusion by analyzing a Google policy change that barred an Indian FinTech lender from accessing borrowers’ phone contacts. Previously, the lender used contacts as social collateral to reduce defaults. After the policy, application acceptance declined by 25.14%, while loan applications rose by 3.5%. Despite increased demand, default rates remained stable as lenders tightened selection criteria. This shift reduced lender revenues and disproportionately affected low-income, younger, credit-inexperienced, and lower-status borrowers. The findings highlight that privacy regulations, though addressing privacy concerns, can significantly hinder financial inclusion and lender profitability.</p>
+  </details>
+
+
+
 [Credit Network and Data Sharing: An Evaluation of Cooperative Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4463473) with Sumit Agarwal (NUS), Hsin-Tien Tsai (NUS)
 <div style="margin-top:-20px;"></div>
 <details>
@@ -61,13 +69,6 @@ II. AI x Economics
 This paper examines the impact of credit data sharing among competitive banks of different sizes in open banking. Analyzing data from three predecessors of Bank of America, we find that information sharing enhances predictive capabilities and increases market lending profit as the network size grows. The bank sharing loans with varying collateral amounts contributes the most to improved prediction. However, competition leads to disparities in benefits, favoring smaller banks while the largest bank experiences losses in borrowers and profits. Effective bargaining for cooperative sharing is thus emphasized. We explore the Nash equilibrium for optimal outcomes in a competitive lending market.</p>
 </details>
 
-
-[Privacy and Financial Inclusion in Credit Markets: A Lenders’ Perspective](https://drive.google.com/file/d/1QY0Ba49V9RbYpTz1cms9vca-3N3dRO-u/view)" with Sumit Agarwal (NUS), Pulak Ghosh (IIMB), Shohini Kundu (UCLA), Nishant Vats (WUSTL), Xinbo Wang (NUS, PhD Student) 
-<div style="margin-top:-20px;"></div>
-  <details>
-  <p><strong>Abstract:</strong>  
-  This paper investigates the impact of privacy regulations on financial inclusion by analyzing a Google policy change that barred an Indian FinTech lender from accessing borrowers’ phone contacts. Previously, the lender used contacts as social collateral to reduce defaults. After the policy, application acceptance declined by 25.14%, while loan applications rose by 3.5%. Despite increased demand, default rates remained stable as lenders tightened selection criteria. This shift reduced lender revenues and disproportionately affected low-income, younger, credit-inexperienced, and lower-status borrowers. The findings highlight that privacy regulations, though addressing privacy concerns, can significantly hinder financial inclusion and lender profitability.</p>
-  </details>
 
 [LLM in a Recruiting Position: Bias & Mitigation](#) with Lin Xu (NUS, PhD Student), Bingchen Wang (Oxford, MPhil),  *draft available upon request*  
   Keywords: Large Language Models, Algorithmic fairness, Human-AI interaction, Computational Social Science
