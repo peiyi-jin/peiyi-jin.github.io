@@ -34,6 +34,15 @@ Research
 
 I. Blockchain
 ------
+
+<div style="overflow:auto; margin-bottom:30px;">
+  <img src="/assets/images/blockchain1.png" alt="DeFi Lending Image" style="float:right; width:150px; margin-left:20px;">
+  <p>
+    [Tax Planning, Illiquidity, and Credit Risks: Evidence from DeFi Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764605) with Lisa De Simone (UT Austin), Daniel Rabetti (NUS)  
+  </p>
+</div>
+
+
 [Tax Planning, Illiquidity, and Credit Risks: Evidence from DeFi Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764605) with Lisa De Simone (UT Austin), Daniel Rabetti (NUS)
 
 <div style="margin-top:-20px;"></div>
