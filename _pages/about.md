@@ -16,7 +16,9 @@ redirect_from:
 </style>
 
 
-I'm Peiyi Jin (金沛宜). Welcome to my website!
+# **Peiyi Jin (金沛宜)**
+
+Welcome to my website!
 
 I'm a 5th year Ph.D. candidate in the Department of Economics at National University of Singapore (NUS), currently on the 2025/26 academic job market. I'm supervised by Prof. [Sumit Agarwal](https://www.ushakrisna.com/). 
 
