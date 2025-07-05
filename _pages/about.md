@@ -44,7 +44,7 @@ Research
 
 I. Blockchain
 ------
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 20px;">
+<!-- <div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 20px;">
 
   <div style="flex: 1 1 50%;">
     <p>
@@ -84,7 +84,62 @@ This paper investigates whether cryptocurrencies have become a new conduit for l
 </details>
 </div>
 
-<div style="margin-top:-20px;"></div>
+<div style="margin-top:-20px;"></div> -->
+
+
+
+<!-- ======= 区块 1：DeFi Lending ======= -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 40px; gap: 30px; flex-wrap: wrap;">
+
+  <!-- 左侧文字 -->
+  <div style="flex: 1 1 50%; min-width: 300px;">
+    <p>
+      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764605">
+        Tax Planning, Illiquidity, and Credit Risks: Evidence from DeFi Lending
+      </a> with Lisa De Simone (UT Austin), Daniel Rabetti (NUS)
+    </p>
+    <details>
+      <p><strong>Abstract:</strong><br>
+      This study examines the link between tax-planning-induced illiquidity and credit risks in lending markets. Exploiting an exogenous tax shock imposed on cryptocurrency gains and millions of transactions in Decentralized Finance (DeFi) lending, we document that tax-motivated borrowing strategies to defer capital gains taxes significantly reduce market liquidity. This effect is pronounced among individuals borrowing in stablecoins (a way to monetize returns), those with higher loan-to-value ratios (more risk-averse towards new regulations and typically with larger taxable gains), those with high returns in the underlying asset (representing larger taxable gains), and those holding locked-in assets for over a year (i.e., converting high short-term to lower long-term capital gains tax rates). Using instrumental variable analysis, we provide a plausibly causal relation between tax-planning-induced illiquidity and increased credit risks. A standard deviation increase in tax-induced illiquidity leads to a more than twofold increase in the value of defaulted loans. Our results remain robust across a battery of checks, including analyses of subsamples of highly tax-sensitive borrowers, and align with well-documented tax awareness periods. Overall, our insights are relevant to market participants, assist in estimating revenue losses for tax authorities, and inform emerging policies on the tax treatment of digital assets.
+      </p>
+    </details>
+  </div>
+
+  <!-- 右侧图片，点击放大 -->
+  <div style="flex: 0 0 500px; min-width: 400px;">
+    <a href="/images/blockchain1.png" target="_blank">
+      <img src="/images/blockchain1.png" alt="DeFi Lending" style="width: 100%; height: auto; cursor: zoom-in;">
+    </a>
+  </div>
+
+</div>
+
+<!-- ======= 区块 2：Crypto Capture ======= -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 40px; gap: 30px; flex-wrap: wrap;">
+
+  <!-- 左侧文字 -->
+  <div style="flex: 1 1 50%; min-width: 300px;">
+    <p>
+      <a href="#">Crypto Capture of Foreign Aid</a> with Sumit Agarwal (NUS), Eswar Prasad (Cornell), Daniel Rabetti (NUS)
+      <em> draft available upon request</em>
+    </p>
+    <details>
+      <p><strong>Abstract:</strong><br>
+      This paper investigates whether cryptocurrencies have become a new conduit for laundering diverted foreign aid. Using World Bank disbursement data from 2018 to 2024, linked with forensically tagged on-chain Bitcoin transactions and off-chain exchange activity, we document systematic surges in crypto transactions for anonymous wallets after disbursements, especially on exchanges located in tax haven jurisdictions. A one-standard-deviation increase in lagged aid is associated with a 0.51 log-point rise in anonymous transactions on tax haven exchanges—approximately a 66% increase—concentrated in newly created wallets and fading within two quarters. Network analysis reveals a real-time laundering pattern: funds flow through regulated platforms, then through mixers and tax haven exchanges, mirroring the classic placement, layering, and integration stages. Off-chain data confirm spikes in transactions on suspect, lightly regulated platforms. To address endogeneity in aid allocation, we use an IV strategy based on historical aid shares interacted with governance quality. Our study shows how blockchain forensics can trace hidden financial flows and offers new tools for anti-corruption and crypto regulation.
+      </p>
+    </details>
+  </div>
+
+  <!-- 右侧图片，点击放大 -->
+  <div style="flex: 0 0 500px; min-width: 400px;">
+    <a href="/images/agg20.png" target="_blank">
+      <img src="/images/agg20.png" alt="Network" style="width: 100%; height: auto; cursor: zoom-in;">
+    </a>
+  </div>
+
+</div>
+
+
 
 II. AI x Economics
 ------
