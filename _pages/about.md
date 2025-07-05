@@ -44,11 +44,12 @@ Research
 
 I. Blockchain
 ------
+
 <!-- =============== 1) DeFi Lending =============== -->
 <div style="margin-bottom: 40px;">
 
   <!-- Title line & image side by side -->
-  <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
     <div style="flex: 1;">
       <p style="margin: 0;">
         <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764605">
@@ -64,7 +65,7 @@ I. Blockchain
     </div>
   </div>
 
-<div style="margin-top:-20px;"></div>
+  <div style="margin-top:-20px;"></div>
 
   <!-- Details below -->
   <details style="margin-top: 10px;">
@@ -84,7 +85,7 @@ I. Blockchain
 <div style="margin-bottom: 40px;">
 
   <!-- Title line & image side by side -->
-  <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
     <div style="flex: 1;">
       <p style="margin: 0;">
         <a href="#">Crypto Capture of Foreign Aid</a> with Sumit Agarwal (NUS), Eswar Prasad (Cornell), Daniel Rabetti (NUS)
@@ -99,7 +100,7 @@ I. Blockchain
     </div>
   </div>
 
-<div style="margin-top:-40px;"></div>
+  <div style="margin-top:-20px;"></div>
 
   <!-- Details below -->
   <details style="margin-top: 10px;">
@@ -110,6 +111,7 @@ I. Blockchain
   </details>
 
 </div>
+
 
 II. AI x Economics
 ------
