@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Peiyi Jin (金沛宜)"
-excerpt: "About me"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,9 +14,6 @@ redirect_from:
     padding: 0 30px;
   }
 </style>
-
-
-
 
 Welcome to my website!
 
