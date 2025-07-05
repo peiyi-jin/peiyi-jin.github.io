@@ -60,12 +60,12 @@ I. Blockchain
     <div style="flex: 0 0 auto;">
       <a href="/images/blockchain1.png" target="_blank">
         <img src="/images/blockchain1.png" alt="DeFi Lending"
-             style="max-width: 200px; height: auto; cursor: zoom-in;">
+             style="max-width: 120px; height: auto; cursor: zoom-in;">
       </a>
     </div>
   </div>
 
-  <div style="margin-top:-20px;"></div>
+  <div style="margin-top:-40px;"></div>
 
   <!-- Details below -->
   <details style="margin-top: 10px;">
@@ -95,12 +95,12 @@ I. Blockchain
     <div style="flex: 0 0 auto;">
       <a href="/images/agg20.png" target="_blank">
         <img src="/images/agg20.png" alt="Crypto Capture"
-             style="max-width: 200px; height: auto; cursor: zoom-in;">
+             style="max-width: 120px; height: auto; cursor: zoom-in;">
       </a>
     </div>
   </div>
 
-  <div style="margin-top:-20px;"></div>
+  <div style="margin-top:-40px;"></div>
 
   <!-- Details below -->
   <details style="margin-top: 10px;">
@@ -129,7 +129,7 @@ II. AI x Economics
     <div style="flex: 0 0 auto;">
       <a href="/images/india_loan.png" target="_blank">
         <img src="/images/india_loan.png" alt="Privacy and Inclusion"
-             style="max-width: 200px; height: auto; cursor: zoom-in;">
+             style="max-width: 120px; height: auto; cursor: zoom-in;">
       </a>
     </div>
   </div>
@@ -159,7 +159,7 @@ II. AI x Economics
     <div style="flex: 0 0 auto;">
       <a href="/images/bank.png" target="_blank">
         <img src="/images/bank.png" alt="Cooperative Lending"
-             style="max-width: 200px; height: auto; cursor: zoom-in;">
+             style="max-width: 120px; height: auto; cursor: zoom-in;">
       </a>
     </div>
   </div>
@@ -190,7 +190,7 @@ II. AI x Economics
     <div style="flex: 0 0 auto;">
       <a href="/images/pipeline.png" target="_blank">
         <img src="/images/pipeline.png" alt="LLM Bias"
-             style="max-width: 200px; height: auto; cursor: zoom-in;">
+             style="max-width: 120px; height: auto; cursor: zoom-in;">
       </a>
     </div>
   </div>
@@ -222,7 +222,7 @@ III. Development Economics
     <div style="flex: 0 0 auto;">
       <a href="/images/timeline.png" target="_blank">
         <img src="/images/timeline.png" alt="Noncognitive Peer Networks"
-             style="max-width: 200px; height: auto; cursor: zoom-in;">
+             style="max-width: 120px; height: auto; cursor: zoom-in;">
       </a>
     </div>
   </div>
