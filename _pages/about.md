@@ -63,9 +63,9 @@ I. Blockchain
   </details>
   </div>
 
-  <div style="flex: 0 0 500px; min-width: 400px;">
-    <img src="/images/blockchain1.png" alt="DeFi Lending" style="width: 100%; height: auto;">
-  </div>
+  <img src="/images/blockchain1.png" alt="DeFi Lending"
+       style="flex: 0 0 auto; width: 500px; max-width: 50%; height: auto;">
+
 </div>
 
 
