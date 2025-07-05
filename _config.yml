@@ -231,6 +231,12 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 # Sass/SCSS
 sass:
   sass_dir: _sass
