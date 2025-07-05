@@ -26,14 +26,37 @@ I'm Peiyi Jin (金沛宜). I'm a 5th year Ph.D. candidate in the Department of E
 
 Job Market Paper
 ------
-[Consumption Not Less but Greener: Evidence from Residential Utility Digitalization](#), solo, *draft available upon request.*
-<div style="margin-top:-20px;"></div>
-<details>
-<p><strong>Abstract:</strong>  
+<!-- =============== Consumption Not Less but Greener =============== -->
+<div style="margin-bottom: 40px;">
 
-This paper examines how real-time information feedback affects household consumption when price incentives are absent. Using a quasi-experimental rollout of digital devices providing real-time electricity data and remote shut-off via mobile apps, we find that treated households significantly reduce electricity use. Beyond energy savings, we observe broader spillovers: households shift diets from carbon-intensive to healthier food, substitute digital for paper use, and cut taxi rides. Our results contribute to the literature on behavioral nudges by showing that real-time digital feedback, unlike traditional static signals, can meaningfully influence consumption and promote greener lifestyles in the medium term.</p>
+  <!-- Title line & image side by side -->
+  <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+    <div style="flex: 1;">
+      <p style="margin: 0;">
+        <a href="#">Consumption Not Less but Greener: Evidence from Residential Utility Digitalization</a>, solo,
+        <em>draft available upon request</em>
+      </p>
+    </div>
+    <div style="flex: 0 0 auto;">
+      <a href="/images/app.png" target="_blank">
+        <img src="/images/app.png" alt="Consumption Not Less but Greener"
+             style="max-width: 200px; height: auto; cursor: zoom-in;">
+      </a>
+    </div>
+  </div>
 
-</details>
+  <div style="margin-top:-20px;"></div>
+
+  <!-- Details below -->
+  <details style="margin-top: 10px;">
+    <summary style="cursor: pointer;">Details</summary>
+    <p><strong>Abstract:</strong><br>
+      This paper examines how real-time information feedback affects household consumption when price incentives are absent. Using a quasi-experimental rollout of digital devices providing real-time electricity data and remote shut-off via mobile apps, we find that treated households significantly reduce electricity use. Beyond energy savings, we observe broader spillovers: households shift diets from carbon-intensive to healthier food, substitute digital for paper use, and cut taxi rides. Our results contribute to the literature on behavioral nudges by showing that real-time digital feedback, unlike traditional static signals, can meaningfully influence consumption and promote greener lifestyles in the medium term.
+    </p>
+  </details>
+
+</div>
+
 
 <div style="margin-top:30px;"></div>
 
