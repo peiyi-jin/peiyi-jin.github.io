@@ -27,7 +27,7 @@ Teaching
 <div style="margin-top: 20px;"></div>
 
 <div style="margin-top: 30px; text-align: center;">
-  <img src="/images/ja.png" alt="JA Workshop" style="max-width: 600px; height: auto;">
+  <img src="/images/ja.png" alt="JA Workshop" style="max-width: 450px; height: auto;">
 </div>
 
 
