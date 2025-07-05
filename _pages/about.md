@@ -135,6 +135,8 @@ II. AI x Economics
     </div>
   </div>
 
+<div style="margin-top:-30px;"></div>
+
   <!-- Details below -->
   <details style="margin-top: 10px;">
     <summary style="cursor: pointer;">Details</summary>
