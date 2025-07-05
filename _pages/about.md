@@ -63,6 +63,8 @@ I. Blockchain
     </div>
   </div>
 
+<div style="margin-top:-30px;"></div>
+
   <!-- Details below -->
   <details style="margin-top: 10px;">
     <summary style="cursor: pointer;">Details</summary>
@@ -97,6 +99,8 @@ I. Blockchain
     </div>
   </div>
 
+<div style="margin-top:-30px;"></div>
+
   <!-- Details below -->
   <details style="margin-top: 10px;">
     <summary style="cursor: pointer;">Details</summary>
@@ -126,7 +130,7 @@ II. AI x Economics
     <div style="flex: 0 0 auto;">
       <a href="/images/india_loan.png" target="_blank">
         <img src="/images/india_loan.png" alt="Privacy and Inclusion"
-             style="width: 400px; height: auto; cursor: zoom-in;">
+             style="width: 300px; height: auto; cursor: zoom-in;">
       </a>
     </div>
   </div>
@@ -141,12 +145,6 @@ II. AI x Economics
 
 </div>
 
-<!-- [Privacy and Financial Inclusion in Credit Markets: A Lenders’ Perspective](https://drive.google.com/file/d/1QY0Ba49V9RbYpTz1cms9vca-3N3dRO-u/view)" with Sumit Agarwal (NUS), Pulak Ghosh (IIMB), Shohini Kundu (UCLA), Nishant Vats (WUSTL), Xinbo Wang (NUS, PhD Student) 
-<div style="margin-top:-20px;"></div>
-  <details>
-  <p><strong>Abstract:</strong>  
-  This paper investigates the impact of privacy regulations on financial inclusion by analyzing a Google policy change that barred an Indian FinTech lender from accessing borrowers’ phone contacts. Previously, the lender used contacts as social collateral to reduce defaults. After the policy, application acceptance declined by 25.14%, while loan applications rose by 3.5%. Despite increased demand, default rates remained stable as lenders tightened selection criteria. This shift reduced lender revenues and disproportionately affected low-income, younger, credit-inexperienced, and lower-status borrowers. The findings highlight that privacy regulations, though addressing privacy concerns, can significantly hinder financial inclusion and lender profitability.</p>
-  </details> -->
 
 
 [Credit Network and Data Sharing: An Evaluation of Cooperative Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4463473) with Sumit Agarwal (NUS), Hsin-Tien Tsai (NUS)
