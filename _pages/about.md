@@ -37,6 +37,9 @@ This paper examines how real-time information feedback affects household consump
 
 <div style="margin-top:30px;"></div>
 
+<div class="page__content">
+
+
 Research
 ======
 <div style="margin-top:-20px;"></div>
@@ -119,10 +122,10 @@ This paper evaluates the effects of audio bedtime stories on non-cognitive skill
 <p><strong>Selected conferences and talks:</strong>  
 Royal Economic Society Annual Conference (Birmingham, 2025), Stone Centre Conference on Education and Inequality (London, 2025), Janeway Institute Cambridge PhD Workshop on Economic Networks (Cambridge, 2025), 2025 Young Economists Society Chengdu Forum (Chengdu, 2025), The Society of Labor Economists Annual Meeting (Oregon, 2024), European Association of Young Economists Annual Meeting (Paris, 2024), IFS–UCL–LSE/STICERD Development WiP Seminar (London, 2024), China Economic Association Europe/UK Annual Conference (London, 2024), UCL PhD Seminar (London, 2024), and NUS Applied Economics Student Workshop (Singapore, 2023).</p>
 </details>
-
+</div>
 
 <div style="margin-top: 20px;"></div>
-
+<div class="page__content">
 Teaching
 ======
 
@@ -141,14 +144,21 @@ Teaching
   <span style="float:right;">2017</span>
 </div>
 
+</div>
 
 <div style="margin-top: 20px;"></div>
+
+
+<div class="page__content">
+
 
 Academic Service
 ======
 [Reviewer for Review of Corporate Finance](https://www.nowpublishers.com/rcf), [Hawaii Accounting Research Conference](https://manoa.hawaii.edu/harc/)
 
+</div>
 
+<div class="page__content">
 Awards
 ======
 <div style="overflow:auto;">
@@ -206,4 +216,6 @@ Awards
     Southwestern University of Finance and Economics<br>
     Sep 2017 – Jun 2018
   </div>
+</div>
+
 </div>
