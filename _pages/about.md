@@ -36,7 +36,7 @@ I. Blockchain
 ------
 
 <div style="overflow:auto; margin-bottom:30px;">
-  <img src="/images/blockchain1.png" alt="DeFi Lending" style="float:right; width:150px; margin-left:20px;">
+  <img src="/images/blockchain1.png" alt="DeFi Lending" style="float:right; width:300px; margin-left:20px;">
 
   <p>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764605">Tax Planning, Illiquidity, and Credit Risks: Evidence from DeFi Lending</a> with Lisa De Simone (UT Austin), Daniel Rabetti (NUS)
