@@ -65,7 +65,7 @@ I. Blockchain
     </div>
   </div>
 
-  <div style="margin-top:-30px;"></div>
+  <div style="margin-top:-10px;"></div>
 
   <!-- Details below -->
   <details style="margin-top: 10px;">
@@ -164,7 +164,7 @@ II. AI x Economics
     </div>
   </div>
 
-<div style="margin-top:-20px;"></div>
+<div style="margin-top:-10px;"></div>
 
   <!-- Details below -->
   <details style="margin-top: 10px;">
