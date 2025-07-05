@@ -16,7 +16,7 @@ redirect_from:
 </style>
 
 
-I'm Peiyi Jin (金沛宜). I'm a 5th year Ph.D. candidate in the Department of Economics at National University of Singapore (NUS), currently on the 2025–2026 academic job market. I'm working with Prof. [Sumit Agarwal](https://www.ushakrisna.com/). Before this, I received my bachelor's degree from Southwestern University of Finance and Economics (SWUFE), China, 2020. I was an exchange student and RA at University of California, Berkeley from 2018 to 2019.
+I'm Peiyi Jin (金沛宜). I'm a 5th year Ph.D. candidate in the Department of Economics at National University of Singapore (NUS), currently on the 2025–2026 academic job market. I'm supervised by Prof. [Sumit Agarwal](https://www.ushakrisna.com/). Before this, I received my bachelor's degree from Southwestern University of Finance and Economics (SWUFE), China, 2020. I was an exchange student and RA at University of California, Berkeley from 2018 to 2019.
 
 <div style="margin-top:-10px;"></div>
 
@@ -40,7 +40,7 @@ Job Market Paper
     <div style="flex: 0 0 auto;">
       <a href="/images/app.png" target="_blank">
         <img src="/images/app.png" alt="Consumption Not Less but Greener"
-             style="max-width: 150px; height: auto; cursor: zoom-in;">
+             style="max-width: 180px; height: auto; cursor: zoom-in;">
       </a>
     </div>
   </div>
@@ -83,7 +83,7 @@ I. Blockchain
     <div style="flex: 0 0 auto;">
       <a href="/images/blockchain1.png" target="_blank">
         <img src="/images/blockchain1.png" alt="DeFi Lending"
-             style="max-width: 120px; height: auto; cursor: zoom-in;">
+             style="max-width: 180px; height: auto; cursor: zoom-in;">
       </a>
     </div>
   </div>
@@ -118,7 +118,7 @@ I. Blockchain
     <div style="flex: 0 0 auto;">
       <a href="/images/agg20.png" target="_blank">
         <img src="/images/agg20.png" alt="Crypto Capture"
-             style="max-width: 120px; height: auto; cursor: zoom-in;">
+             style="max-width: 180px; height: auto; cursor: zoom-in;">
       </a>
     </div>
   </div>
@@ -152,7 +152,7 @@ II. AI x Economics
     <div style="flex: 0 0 auto;">
       <a href="/images/india_loan.png" target="_blank">
         <img src="/images/india_loan.png" alt="Privacy and Inclusion"
-             style="max-width: 120px; height: auto; cursor: zoom-in;">
+             style="max-width: 180px; height: auto; cursor: zoom-in;">
       </a>
     </div>
   </div>
@@ -182,7 +182,7 @@ II. AI x Economics
     <div style="flex: 0 0 auto;">
       <a href="/images/bank.png" target="_blank">
         <img src="/images/bank.png" alt="Cooperative Lending"
-             style="max-width: 120px; height: auto; cursor: zoom-in;">
+             style="max-width: 180px; height: auto; cursor: zoom-in;">
       </a>
     </div>
   </div>
@@ -213,7 +213,7 @@ II. AI x Economics
     <div style="flex: 0 0 auto;">
       <a href="/images/pipeline.png" target="_blank">
         <img src="/images/pipeline.png" alt="LLM Bias"
-             style="max-width: 120px; height: auto; cursor: zoom-in;">
+             style="max-width: 18px; height: auto; cursor: zoom-in;">
       </a>
     </div>
   </div>
@@ -245,7 +245,7 @@ III. Development Economics
     <div style="flex: 0 0 auto;">
       <a href="/images/timeline.png" target="_blank">
         <img src="/images/timeline.png" alt="Noncognitive Peer Networks"
-             style="max-width: 120px; height: auto; cursor: zoom-in;">
+             style="max-width: 180px; height: auto; cursor: zoom-in;">
       </a>
     </div>
   </div>
