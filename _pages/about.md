@@ -54,25 +54,28 @@ I. Blockchain
       </a> with Lisa De Simone (UT Austin), Daniel Rabetti (NUS)
     </p>
 
-<div style="margin-top:-20px;"></div>
-
     <details>
-      <summary style="cursor: pointer;"><strong>Details</strong></summary>
-      <a href="/images/blockchain1.png" target="_blank">
-        <img src="/images/blockchain1.png" alt="DeFi Lending" style="width: 80%; height: auto; cursor: zoom-in;">
-      </a>
-     <p><strong>Abstract:</strong><br>
-      This paper investigates how tax-planning strategies affect market liquidity and credit risks in Decentralized Finance (DeFi) lending. Using an exogenous tax shock on cryptocurrency gains and millions of transactions, we show that tax-motivated borrowing to defer capital gains taxes significantly reduces liquidity—particularly among stablecoin borrowers, high loan-to-value borrowers, and those holding assets long-term. Instrumental variable estimates indicate that tax-induced illiquidity more than doubles defaulted loan values. Robustness checks confirm these effects among highly tax-sensitive borrowers. The findings highlight implications for market stability, tax revenue forecasts, and the regulation of digital asset taxation.
+      <summary style="cursor: pointer;">Details</summary>
+      <p><strong>Abstract:</strong><br>
+        This paper investigates how tax-planning strategies affect market liquidity and credit risks in Decentralized Finance (DeFi) lending. Using an exogenous tax shock on cryptocurrency gains and millions of transactions, we show that tax-motivated borrowing to defer capital gains taxes significantly reduces liquidity—particularly among stablecoin borrowers, high loan-to-value borrowers, and those holding assets long-term. Instrumental variable estimates indicate that tax-induced illiquidity more than doubles defaulted loan values. Robustness checks confirm these effects among highly tax-sensitive borrowers. The findings highlight implications for market stability, tax revenue forecasts, and the regulation of digital asset taxation.
       </p>
 
       <p><strong>Selected conferences and talks:</strong><br>
-      International Monetary Fund (IMF) Workshop on Digital Money and Taxation (2025); Hawai‘i Accounting Research Conference (HARC, 2025); Tokenomics Conference (2024); Workshop on the Economics of Technology and Decentralization at Waseda University; National University of Singapore; Cornell–Tsinghua Summer Finance Institute; IESE Barcelona Tax Conference; IC3 Blockchain Camp at Cornell Tech; Finance and Accounting Annual Research Symposium; Research Symposium on Finance and Economics; Bank of Finland; European Systemic Risk Board; Conference on AI and Systemic Risk Analytics; Swiss National Bank Conference on Cryptoassets and Financial Innovation; Eurasia Conference; Hong Kong University Summer Conference; Bank of Japan; FeAT International Conference on Artificial Intelligence; Tsinghua University (SEM and PBC, 2024); Singapore FinTech Festival; 14th Financial Markets and Corporate Governance Conference; AI Global Finance Research Conference (Ho Chi Minh City, 2023).
-    </p>
+      IMF Workshop on Digital Money and Taxation (2025); Hawai‘i Accounting Research Conference (HARC, 2025); Tokenomics Conference (2024); Workshop on the Economics of Technology and Decentralization at Waseda University; National University of Singapore; Cornell–Tsinghua Summer Finance Institute; IESE Barcelona Tax Conference; IC3 Blockchain Camp at Cornell Tech; Finance and Accounting Annual Research Symposium; Research Symposium on Finance and Economics; Bank of Finland; European Systemic Risk Board; Conference on AI and Systemic Risk Analytics; Swiss National Bank Conference on Cryptoassets and Financial Innovation; Eurasia Conference; Hong Kong University Summer Conference; Bank of Japan; FeAT International Conference on Artificial Intelligence; Tsinghua University (SEM and PBC, 2024); Singapore FinTech Festival; 14th Financial Markets and Corporate Governance Conference; AI Global Finance Research Conference (Ho Chi Minh City, 2023).
       </p>
     </details>
   </div>
 
+  <!-- Right image always visible -->
+  <div style="flex: 0 0 400px; min-width: 300px;">
+    <a href="/images/blockchain1.png" target="_blank">
+      <img src="/images/blockchain1.png" alt="DeFi Lending"
+           style="width: 100%; height: auto; cursor: zoom-in;">
+    </a>
+  </div>
+
 </div>
+
 
 <div style="margin-top:-30px;"></div>
 
@@ -88,7 +91,7 @@ I. Blockchain
 <div style="margin-top:-20px;"></div>
 
     <details>
-      <summary style="cursor: pointer;"><strong>Details</strong></summary>
+      <summary style="cursor: pointer;">Details</summary>
       <a href="/images/agg20.png" target="_blank">
         <img src="/images/agg20.png" alt="Crypto Capture" style="width: 80%; height: auto; cursor: zoom-in;">
       </a>
