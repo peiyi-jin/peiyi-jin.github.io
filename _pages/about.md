@@ -40,12 +40,12 @@ Job Market Paper
     <div style="flex: 0 0 auto;">
       <a href="/images/app.png" target="_blank">
         <img src="/images/app.png" alt="Consumption Not Less but Greener"
-             style="max-width: 200px; height: auto; cursor: zoom-in;">
+             style="max-width: 150px; height: auto; cursor: zoom-in;">
       </a>
     </div>
   </div>
 
-  <div style="margin-top:-20px;"></div>
+  <div style="margin-top:-30px;"></div>
 
   <!-- Details below -->
   <details style="margin-top: 10px;">
