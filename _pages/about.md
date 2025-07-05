@@ -294,7 +294,7 @@ Teaching
 
 Academic Service
 ======
-[Reviewer for Review of Corporate Finance](https://www.nowpublishers.com/rcf), [Hawaii Accounting Research Conference](https://manoa.hawaii.edu/harc/)
+Reviewer for [Review of Corporate Finance](https://www.nowpublishers.com/rcf), [Hawaii Accounting Research Conference](https://manoa.hawaii.edu/harc/)
 
 Awards
 ======
