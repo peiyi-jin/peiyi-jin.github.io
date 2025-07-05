@@ -78,8 +78,6 @@ I. Blockchain
   </details>
 </div>
 
-
-
 <div style="margin-top:-30px;"></div>
 
 <div style="margin-bottom: 40px;">
@@ -115,7 +113,6 @@ I. Blockchain
 
 II. AI x Economics
 ------
-
 <div style="margin-bottom: 40px;">
 
   <!-- Title line & image side by side -->
@@ -130,12 +127,10 @@ II. AI x Economics
     <div style="flex: 0 0 auto;">
       <a href="/images/india_loan.png" target="_blank">
         <img src="/images/india_loan.png" alt="Privacy and Inclusion"
-             style="width: 250px; height: auto; cursor: zoom-in;">
+             style="max-width: 200px; height: auto; cursor: zoom-in;">
       </a>
     </div>
   </div>
-
-<div style="margin-top:-30px;"></div>
 
   <!-- Details below -->
   <details style="margin-top: 10px;">
@@ -146,6 +141,7 @@ II. AI x Economics
   </details>
 
 </div>
+
 
 
 
