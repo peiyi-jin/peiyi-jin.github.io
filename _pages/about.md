@@ -74,7 +74,7 @@ I. Blockchain
 
 </div>
 
-<div style="margin-top:-20px;"></div>
+<div style="margin-top:-30px;"></div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px; gap: 30px; flex-wrap: wrap;">
 
