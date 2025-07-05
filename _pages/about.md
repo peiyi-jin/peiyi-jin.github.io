@@ -27,7 +27,7 @@ I'm Peiyi Jin (金沛宜). I'm a 5th year Ph.D. candidate in the Department of E
 Job Market Paper
 ------
 <!-- =============== Consumption Not Less but Greener =============== -->
-<div style="margin-bottom: 40px;">
+<div style="margin-bottom: 30px;">
 
   <!-- Title line & image side by side -->
   <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
@@ -69,7 +69,7 @@ I. Blockchain
 ------
 
 <!-- =============== 1) DeFi Lending =============== -->
-<div style="margin-bottom: 40px;">
+<div style="margin-bottom: 30px;">
 
   <!-- Title line & image side by side -->
   <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
@@ -88,7 +88,7 @@ I. Blockchain
     </div>
   </div>
 
-  <div style="margin-top:-10px;"></div>
+  <div style="margin-top:-20px;"></div>
 
   <!-- Details below -->
   <details style="margin-top: 10px;">
@@ -105,7 +105,7 @@ I. Blockchain
 </div>
 
 <!-- =============== 2) Crypto Capture =============== -->
-<div style="margin-bottom: 40px;">
+<div style="margin-bottom: 30px;">
 
   <!-- Title line & image side by side -->
   <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
@@ -138,7 +138,7 @@ I. Blockchain
 
 II. AI x Economics
 ------
-<div style="margin-bottom: 40px;">
+<div style="margin-bottom: 30px;">
 
   <!-- Title line & image side by side -->
   <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
@@ -168,7 +168,7 @@ II. AI x Economics
 </div>
 
 
-<div style="margin-bottom: 40px;">
+<div style="margin-bottom: 30px;">
 
   <!-- Title line & image side by side -->
   <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
@@ -200,7 +200,7 @@ II. AI x Economics
 </div>
 
 
-<div style="margin-bottom: 40px;">
+<div style="margin-bottom: 30px;">
 
   <!-- Title line & image side by side -->
   <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
@@ -231,7 +231,7 @@ II. AI x Economics
 
 III. Development Economics
 ------
-<div style="margin-bottom: 40px;">
+<div style="margin-bottom: 30px;">
 
   <!-- Title line & image side by side -->
   <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
