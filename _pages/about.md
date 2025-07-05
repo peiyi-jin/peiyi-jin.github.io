@@ -227,7 +227,7 @@ III. Development Economics
     </div>
   </div>
 
-<div style="margin-top:-15px;"></div>
+<div style="margin-top:-10px;"></div>
 
   <!-- Details below -->
   <details style="margin-top: 10px;">
