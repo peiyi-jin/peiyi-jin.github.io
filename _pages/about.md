@@ -45,7 +45,7 @@ Job Market Paper
     </div>
   </div>
 
-  <div style="margin-top:-30px;"></div>
+  <div style="margin-top:-25px;"></div>
 
   <!-- Details below -->
   <details style="margin-top: 10px;">
