@@ -71,7 +71,7 @@ Research
 ======
 <div style="margin-top:-20px;"></div>
 
-I. Blockchain
+<span style="color:#008cba;">I. Blockchain</span>
 ------
 
 <!-- =============== 1) DeFi Lending =============== -->
@@ -151,7 +151,7 @@ I. Blockchain
 </div>
 
 
-II. AI x Economics
+<span style="color:#008cba;">II. AI x Economics</span>
 ------
 <div style="margin-bottom: 30px;">
 
@@ -248,7 +248,7 @@ II. AI x Economics
 </div>
 
 
-III. Development Economics
+<span style="color:#008cba;">III. Development Economics</span>
 ------
 <div style="margin-bottom: 30px;">
 
