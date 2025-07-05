@@ -200,17 +200,42 @@ II. AI x Economics
 
 III. Development Economics
 ------
-[Noncognitive Development and Peer Networks: Experimental Evidence on Chinese Rural Boarding School Students](https://drive.google.com/drive/folders/1HpEJP17kEhlEo0Ir61jq8qqTzFLHL4Zf) with Yue Li (UCL, PhD Student)
-<div style="margin-top:-20px;"></div>
-<details>
-<p><strong>Abstract:</strong>  
-This paper evaluates the effects of audio bedtime stories on non-cognitive skill development among rural boarding school students in China. Using a randomized controlled trial across 63 schools, treated boarding students listened to stories via dormitory speakers, allowing identification of peer effects with untreated day students in the same classroom. Results show significant improvements in treated students, especially those with larger friendship networks, and spillover benefits for untreated peers connected to boarding friends. Early treatment boosts resilience. Employing a Linear-in-Means model, the study provides novel experimental evidence of non-cognitive skill transfer through peer networks, offering a scalable intervention impacting over four million children.</p>
+<div style="margin-bottom: 40px;">
 
-<p><strong>Selected conferences and talks:</strong>  
-Royal Economic Society Annual Conference (Birmingham, 2025), Stone Centre Conference on Education and Inequality (London, 2025), Janeway Institute Cambridge PhD Workshop on Economic Networks (Cambridge, 2025), 2025 Young Economists Society Chengdu Forum (Chengdu, 2025), The Society of Labor Economists Annual Meeting (Oregon, 2024), European Association of Young Economists Annual Meeting (Paris, 2024), IFS–UCL–LSE/STICERD Development WiP Seminar (London, 2024), China Economic Association Europe/UK Annual Conference (London, 2024), UCL PhD Seminar (London, 2024), and NUS Applied Economics Student Workshop (Singapore, 2023).</p>
-</details>
+  <!-- Title line & image side by side -->
+  <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+    <div style="flex: 1;">
+      <p style="margin: 0;">
+        <a href="https://drive.google.com/drive/folders/1HpEJP17kEhlEo0Ir61jq8qqTzFLHL4Zf">
+          Noncognitive Development and Peer Networks: Experimental Evidence on Chinese Rural Boarding School Students
+        </a> with Yue Li (UCL, PhD Student)
+      </p>
+    </div>
+    <div style="flex: 0 0 auto;">
+      <a href="/images/timeline.png" target="_blank">
+        <img src="/images/timeline.png" alt="Noncognitive Peer Networks"
+             style="max-width: 200px; height: auto; cursor: zoom-in;">
+      </a>
+    </div>
+  </div>
 
-<div style="margin-top: 20px;"></div>
+  <!-- Details below -->
+  <details style="margin-top: 10px;">
+    <summary style="cursor: pointer;">Details</summary>
+    <p><strong>Abstract:</strong><br>
+      This paper evaluates the effects of audio bedtime stories on non-cognitive skill development among rural boarding school students in China. Using a randomized controlled trial across 63 schools, treated boarding students listened to stories via dormitory speakers, allowing identification of peer effects with untreated day students in the same classroom. Results show significant improvements in treated students, especially those with larger friendship networks, and spillover benefits for untreated peers connected to boarding friends. Early treatment boosts resilience. Employing a Linear-in-Means model, the study provides novel experimental evidence of non-cognitive skill transfer through peer networks, offering a scalable intervention impacting over four million children.
+    </p>
+
+    <p><strong>Selected conferences and talks:</strong><br>
+      Royal Economic Society Annual Conference (Birmingham, 2025); Stone Centre Conference on Education and Inequality (London, 2025); Janeway Institute Cambridge PhD Workshop on Economic Networks (Cambridge, 2025); 2025 Young Economists Society Chengdu Forum (Chengdu, 2025); The Society of Labor Economists Annual Meeting (Oregon, 2024); European Association of Young Economists Annual Meeting (Paris, 2024); IFS–UCL–LSE/STICERD Development WiP Seminar (London, 2024); China Economic Association Europe/UK Annual Conference (London, 2024); UCL PhD Seminar (London, 2024); and NUS Applied Economics Student Workshop (Singapore, 2023).
+    </p>
+  </details>
+
+</div>
+
+
+
+
 
 Teaching
 ======
