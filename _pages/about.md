@@ -37,8 +37,6 @@ This paper examines how real-time information feedback affects household consump
 
 <div style="margin-top:30px;"></div>
 
-<div class="page__content">
-
 
 Research
 ======
@@ -48,7 +46,7 @@ I. Blockchain
 ------
 
 <div style="overflow:auto; margin-bottom:30px;">
-  <img src="/images/blockchain1.png" alt="DeFi Lending" style="float:right; width:300px; margin-left:20px;">
+  <img src="/images/blockchain1.png" alt="DeFi Lending" style="float:right; width:500px; margin-left:20px;">
 
   <p>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764605">Tax Planning, Illiquidity, and Credit Risks: Evidence from DeFi Lending</a> with Lisa De Simone (UT Austin), Daniel Rabetti (NUS)
@@ -96,7 +94,6 @@ II. AI x Economics
   </details>
 
 
-
 [Credit Network and Data Sharing: An Evaluation of Cooperative Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4463473) with Sumit Agarwal (NUS), Hsin-Tien Tsai (NUS)
 <div style="margin-top:-20px;"></div>
 <details>
@@ -107,7 +104,6 @@ This paper examines the impact of credit data sharing among competitive banks of
 
 [LLM in a Recruiting Position: Bias & Mitigation](#) with Lin Xu (NUS, PhD Student), Bingchen Wang (Oxford, MPhil),  *draft available upon request*  
   Keywords: Large Language Models, Algorithmic fairness, Human-AI interaction, Computational Social Science
-
 
 <div style="margin-top:-20px;"></div>
 
@@ -122,10 +118,9 @@ This paper evaluates the effects of audio bedtime stories on non-cognitive skill
 <p><strong>Selected conferences and talks:</strong>  
 Royal Economic Society Annual Conference (Birmingham, 2025), Stone Centre Conference on Education and Inequality (London, 2025), Janeway Institute Cambridge PhD Workshop on Economic Networks (Cambridge, 2025), 2025 Young Economists Society Chengdu Forum (Chengdu, 2025), The Society of Labor Economists Annual Meeting (Oregon, 2024), European Association of Young Economists Annual Meeting (Paris, 2024), IFS–UCL–LSE/STICERD Development WiP Seminar (London, 2024), China Economic Association Europe/UK Annual Conference (London, 2024), UCL PhD Seminar (London, 2024), and NUS Applied Economics Student Workshop (Singapore, 2023).</p>
 </details>
-</div>
 
 <div style="margin-top: 20px;"></div>
-<div class="page__content">
+
 Teaching
 ======
 
@@ -144,21 +139,14 @@ Teaching
   <span style="float:right;">2017</span>
 </div>
 
-</div>
 
 <div style="margin-top: 20px;"></div>
-
-
-<div class="page__content">
 
 
 Academic Service
 ======
 [Reviewer for Review of Corporate Finance](https://www.nowpublishers.com/rcf), [Hawaii Accounting Research Conference](https://manoa.hawaii.edu/harc/)
 
-</div>
-
-<div class="page__content">
 Awards
 ======
 <div style="overflow:auto;">
@@ -173,7 +161,6 @@ Awards
   <div style="float:right; text-align:right;">
   Jun 2024 – Jun 2025<br>  
   </div>
-  
 </div>
 
 <div style="overflow:auto;">
@@ -214,6 +201,4 @@ Awards
     Southwestern University of Finance and Economics<br>
     Sep 2017 – Jun 2018
   </div>
-</div>
-
 </div>
