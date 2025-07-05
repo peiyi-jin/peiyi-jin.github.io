@@ -71,7 +71,7 @@ Research
 ======
 <div style="margin-top:-20px;"></div>
 
-<span style="color:#5B8CA8;">I. Blockchain</span>
+<span style="color:#8B0000;">I. Blockchain</span>
 ------
 
 <!-- =============== 1) DeFi Lending =============== -->
@@ -150,7 +150,121 @@ Research
 
 </div>
 
+<!-- Section II -->
+<h2 style="color: #5B8CA8; margin-bottom: 5px;">II. AI x Economics</h2>
 
+<div style="margin-bottom: 30px;">
+  <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+    <div style="flex: 1;">
+      <p style="margin: 0;">
+        <a href="https://drive.google.com/file/d/1QY0Ba49V9RbYpTz1cms9vca-3N3dRO-u/view">
+          Privacy and Financial Inclusion in Credit Markets: A Lenders’ Perspective
+        </a> with Sumit Agarwal (NUS), Pulak Ghosh (IIMB), Shohini Kundu (UCLA), Nishant Vats (WUSTL), Xinbo Wang (NUS, PhD Student)
+      </p>
+    </div>
+    <div style="flex: 0 0 auto;">
+      <a href="/images/india_loan.png" target="_blank">
+        <img src="/images/india_loan.png" alt="Privacy and Inclusion"
+             style="max-width: 180px; height: auto; cursor: zoom-in;">
+      </a>
+    </div>
+  </div>
+
+  <details style="margin-top: 10px;">
+    <summary style="cursor: pointer;">Details</summary>
+    <p><strong>Abstract:</strong><br>
+      This paper investigates the impact of privacy regulations on financial inclusion by analyzing a Google policy change that barred an Indian FinTech lender from accessing borrowers’ phone contacts. Previously, the lender used contacts as social collateral to reduce defaults. After the policy, application acceptance declined by 25.14%, while loan applications rose by 3.5%. Despite increased demand, default rates remained stable as lenders tightened selection criteria. The findings highlight that privacy regulations, though addressing privacy concerns, can significantly hinder financial inclusion and lender profitability.
+    </p>
+  </details>
+</div>
+
+<div style="margin-bottom: 30px;">
+  <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+    <div style="flex: 1;">
+      <p style="margin: 0;">
+        <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4463473">
+          Credit Network and Data Sharing: An Evaluation of Cooperative Lending
+        </a> with Sumit Agarwal (NUS), Hsin-Tien Tsai (NUS)
+      </p>
+    </div>
+    <div style="flex: 0 0 auto;">
+      <a href="/images/bank.png" target="_blank">
+        <img src="/images/bank.png" alt="Cooperative Lending"
+             style="max-width: 180px; height: auto; cursor: zoom-in;">
+      </a>
+    </div>
+  </div>
+
+  <details style="margin-top: 10px;">
+    <summary style="cursor: pointer;">Details</summary>
+    <p><strong>Abstract:</strong><br>
+      This paper examines the impact of credit data sharing among competitive banks of different sizes in open banking. Analyzing data from three predecessors of Bank of America, we find that information sharing enhances predictive capabilities and increases market lending profit as the network size grows. The bank sharing loans with varying collateral amounts contributes the most to improved prediction. However, competition leads to disparities in benefits, favoring smaller banks while the largest bank experiences losses in borrowers and profits. Effective bargaining for cooperative sharing is thus emphasized. We explore the Nash equilibrium for optimal outcomes in a competitive lending market.
+    </p>
+    <p><strong>Selected conferences and talks:</strong><br>
+      29th International Conference on Computing in Economics and Finance (CEF) (Nice, 2023), Asian Meeting of the Econometric Society, Tsinghua University (Beijing, 2023)
+    </p>
+  </details>
+</div>
+
+<div style="margin-bottom: 30px;">
+  <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+    <div style="flex: 1;">
+      <p style="margin: 0;">
+        <a href="#">LLM in a Recruiting Position: Bias & Mitigation</a> with Lin Xu (NUS, PhD Student), Bingchen Wang (Oxford, MPhil)
+        <em> draft available upon request</em>
+      </p>
+    </div>
+    <div style="flex: 0 0 auto;">
+      <a href="/images/pipeline.png" target="_blank">
+        <img src="/images/pipeline.png" alt="LLM Bias"
+             style="max-width: 180px; height: auto; cursor: zoom-in;">
+      </a>
+    </div>
+  </div>
+
+  <details style="margin-top: 10px;">
+    <summary style="cursor: pointer;">Details</summary>
+    <p><strong>Keywords:</strong><br>
+      Large Language Models, Algorithmic Fairness, Human-AI Interaction, Computational Social Science
+    </p>
+  </details>
+</div>
+
+<!-- Section III -->
+<h2 style="color: #5B8CA8; margin-bottom: 5px;">III. Development Economics</h2>
+
+<div style="margin-bottom: 30px;">
+  <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+    <div style="flex: 1;">
+      <p style="margin: 0;">
+        <a href="https://drive.google.com/drive/folders/1HpEJP17kEhlEo0Ir61jq8qqTzFLHL4Zf">
+          Noncognitive Development and Peer Networks: Experimental Evidence on Chinese Rural Boarding School Students
+        </a> with Yue Li (UCL, PhD Student)
+      </p>
+    </div>
+    <div style="flex: 0 0 auto;">
+      <a href="/images/timeline.png" target="_blank">
+        <img src="/images/timeline.png" alt="Noncognitive Peer Networks"
+             style="max-width: 180px; height: auto; cursor: zoom-in;">
+      </a>
+    </div>
+  </div>
+
+  <details style="margin-top: 10px;">
+    <summary style="cursor: pointer;">Details</summary>
+    <p><strong>Abstract:</strong><br>
+      This paper evaluates the effects of audio bedtime stories on non-cognitive skill development among rural boarding school students in China. Using a randomized controlled trial across 63 schools, treated boarding students listened to stories via dormitory speakers, allowing identification of peer effects with untreated day students in the same classroom. Results show significant improvements in treated students, especially those with larger friendship networks, and spillover benefits for untreated peers connected to boarding friends. Early treatment boosts resilience. Employing a Linear-in-Means model, the study provides novel experimental evidence of non-cognitive skill transfer through peer networks, offering a scalable intervention impacting over four million children.
+    </p>
+
+    <p><strong>Selected conferences and talks:</strong><br>
+      Royal Economic Society Annual Conference (Birmingham, 2025); Stone Centre Conference on Education and Inequality (London, 2025); Janeway Institute Cambridge PhD Workshop on Economic Networks (Cambridge, 2025); 2025 Young Economists Society Chengdu Forum (Chengdu, 2025); The Society of Labor Economists Annual Meeting (Oregon, 2024); European Association of Young Economists Annual Meeting (Paris, 2024); IFS–UCL–LSE/STICERD Development WiP Seminar (London, 2024); China Economic Association Europe/UK Annual Conference (London, 2024); UCL PhD Seminar (London, 2024); and NUS Applied Economics Student Workshop (Singapore, 2023).
+    </p>
+  </details>
+</div>
+
+
+
+<!-- 
 <span style="color:#5B8CA8;">II. AI x Economics</span>
 ------
 <div style="margin-bottom: 30px;">
@@ -283,7 +397,7 @@ Research
     </p>
   </details>
 
-</div>
+</div> -->
 
 
 
