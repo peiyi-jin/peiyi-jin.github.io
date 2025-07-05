@@ -212,7 +212,7 @@ Awards
 <div style="overflow:auto;">
   <span style="color:#008cba;">Undergraduate Exchange Scholarship</span>
   <div style="float:right; text-align:right;">
-    Southwestern University of Finance and Economics<br>
+    SWUFE<br>
     Jan 2020 – May 2020
   </div>
 </div>
@@ -228,7 +228,7 @@ Awards
 <div style="overflow:auto;">
   <span style="color:#008cba;">Academic Scholarship</span>
   <div style="float:right; text-align:right;">
-    Southwestern University of Finance and Economics<br>
+    SWUFE<br>
     Sep 2017 – Jun 2018
   </div>
 </div>
