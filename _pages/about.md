@@ -226,7 +226,7 @@ II. AI x Economics
     <div style="flex: 0 0 auto;">
       <a href="/images/pipeline.png" target="_blank">
         <img src="/images/pipeline.png" alt="LLM Bias"
-             style="max-width: 18px; height: auto; cursor: zoom-in;">
+             style="max-width: 180px; height: auto; cursor: zoom-in;">
       </a>
     </div>
   </div>
