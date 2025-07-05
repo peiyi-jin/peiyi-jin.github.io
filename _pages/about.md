@@ -9,7 +9,7 @@ redirect_from:
 ---
 <style>
   .page, .main, .page__content, .archive {
-    max-width: 1200px;
+    max-width: 1500px;
     margin: 0 auto;
     padding: 0 30px;
   }
@@ -46,7 +46,7 @@ I. Blockchain
 ------
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 20px;">
 
-  <div style="flex: 1;">
+  <div style="flex: 1 1 50%;">
     <p>
       <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764605">
         Tax Planning, Illiquidity, and Credit Risks: Evidence from DeFi Lending
@@ -63,7 +63,8 @@ I. Blockchain
   </details>
   </div>
 
-  <img src="/images/blockchain1.png" alt="DeFi Lending" style="width: 400px; max-width: 45%; height: auto;">
+  <img src="/images/blockchain1.png" alt="DeFi Lending"
+       style="flex: 0 0 auto; width: 500px; max-width: 50%; height: auto;">
 
 </div>
 
