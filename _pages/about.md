@@ -58,7 +58,7 @@ I. Blockchain
     <div style="flex: 0 0 auto;">
       <a href="/images/blockchain1.png" target="_blank">
         <img src="/images/blockchain1.png" alt="DeFi Lending"
-             style="width: 400px; height: auto; cursor: zoom-in;">
+             style="width: 300px; height: auto; cursor: zoom-in;">
       </a>
     </div>
   </div>
@@ -92,7 +92,7 @@ I. Blockchain
     </div>
     <div style="flex: 0 0 auto;">
       <a href="/images/agg20.png" target="_blank">
-        <img src="/images/agg20.png" alt="Crypto Capture" style="width: 400px; height: auto; cursor: zoom-in;">
+        <img src="/images/agg20.png" alt="Crypto Capture" style="width: 300px; height: auto; cursor: zoom-in;">
       </a>
     </div>
   </div>
