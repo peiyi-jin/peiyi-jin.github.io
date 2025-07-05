@@ -237,6 +237,9 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+
+
 # Sass/SCSS
 sass:
   sass_dir: _sass

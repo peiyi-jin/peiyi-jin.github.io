@@ -21,5 +21,10 @@ main:
 #   - title: "Guide"
 #     url: /markdown/
 
-- title: "Others"
-  url: /others/
+  - title: "About"
+    url: "/"
+
+    
+  - title: "Others"
+    url: "/others/"
+
