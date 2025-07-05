@@ -58,7 +58,7 @@ I. Blockchain
     <div style="flex: 0 0 auto;">
       <a href="/images/blockchain1.png" target="_blank">
         <img src="/images/blockchain1.png" alt="DeFi Lending"
-             style="width: 200px; height: auto; cursor: zoom-in;">
+             style="width: 400px; height: auto; cursor: zoom-in;">
       </a>
     </div>
   </div>
