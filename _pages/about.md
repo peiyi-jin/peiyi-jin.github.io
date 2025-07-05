@@ -182,10 +182,34 @@ This paper examines the impact of credit data sharing among competitive banks of
 </details>
 
 
-[LLM in a Recruiting Position: Bias & Mitigation](#) with Lin Xu (NUS, PhD Student), Bingchen Wang (Oxford, MPhil),  *draft available upon request*  
-  Keywords: Large Language Models, Algorithmic fairness, Human-AI interaction, Computational Social Science
+<div style="margin-bottom: 40px;">
 
-<div style="margin-top:-20px;"></div>
+  <!-- Title line & image side by side -->
+  <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+    <div style="flex: 1;">
+      <p style="margin: 0;">
+        <a href="#">LLM in a Recruiting Position: Bias & Mitigation</a> with Lin Xu (NUS, PhD Student), Bingchen Wang (Oxford, MPhil)
+        <em> draft available upon request</em>
+      </p>
+    </div>
+    <div style="flex: 0 0 auto;">
+      <a href="/images/pipeline.png" target="_blank">
+        <img src="/images/pipeline.png" alt="LLM Bias"
+             style="max-width: 200px; height: auto; cursor: zoom-in;">
+      </a>
+    </div>
+  </div>
+
+  <!-- Details below -->
+  <details style="margin-top: 10px;">
+    <summary style="cursor: pointer;">Details</summary>
+    <p><strong>Keywords:</strong><br>
+      Large Language Models, Algorithmic Fairness, Human-AI Interaction, Computational Social Science
+    </p>
+  </details>
+
+</div>
+
 
 III. Development Economics
 ------
