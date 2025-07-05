@@ -44,37 +44,38 @@ Research
 
 I. Blockchain
 ------
-<div style="display: flex; align-items: flex-start; margin-bottom: 40px; gap: 30px; flex-wrap: wrap;">
+<div style="margin-bottom: 40px;">
 
-  <!-- Left text block -->
-  <div style="flex: 1 1 50%; min-width: 300px;">
-    <p>
-      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764605">
-        Tax Planning, Illiquidity, and Credit Risks: Evidence from DeFi Lending
-      </a> with Lisa De Simone (UT Austin), Daniel Rabetti (NUS)
+  <!-- Title line & image side by side -->
+  <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+    <div style="flex: 1;">
+      <p style="margin: 0;">
+        <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764605">
+          Tax Planning, Illiquidity, and Credit Risks: Evidence from DeFi Lending
+        </a> with Lisa De Simone (UT Austin), Daniel Rabetti (NUS)
+      </p>
+    </div>
+    <div style="flex: 0 0 auto;">
+      <a href="/images/blockchain1.png" target="_blank">
+        <img src="/images/blockchain1.png" alt="DeFi Lending"
+             style="width: 200px; height: auto; cursor: zoom-in;">
+      </a>
+    </div>
+  </div>
+
+  <!-- Details below -->
+  <details style="margin-top: 10px;">
+    <summary style="cursor: pointer;">Details</summary>
+    <p><strong>Abstract:</strong><br>
+      This paper investigates how tax-planning strategies affect market liquidity and credit risks in Decentralized Finance (DeFi) lending. Using an exogenous tax shock on cryptocurrency gains and millions of transactions, we show that tax-motivated borrowing to defer capital gains taxes significantly reduces liquidity—particularly among stablecoin borrowers, high loan-to-value borrowers, and those holding assets long-term. Instrumental variable estimates indicate that tax-induced illiquidity more than doubles defaulted loan values. Robustness checks confirm these effects among highly tax-sensitive borrowers. The findings highlight implications for market stability, tax revenue forecasts, and the regulation of digital asset taxation.
     </p>
 
-    <details>
-      <summary style="cursor: pointer;">Details</summary>
-      <p><strong>Abstract:</strong><br>
-        This paper investigates how tax-planning strategies affect market liquidity and credit risks in Decentralized Finance (DeFi) lending. Using an exogenous tax shock on cryptocurrency gains and millions of transactions, we show that tax-motivated borrowing to defer capital gains taxes significantly reduces liquidity—particularly among stablecoin borrowers, high loan-to-value borrowers, and those holding assets long-term. Instrumental variable estimates indicate that tax-induced illiquidity more than doubles defaulted loan values. Robustness checks confirm these effects among highly tax-sensitive borrowers. The findings highlight implications for market stability, tax revenue forecasts, and the regulation of digital asset taxation.
-      </p>
-
-      <p><strong>Selected conferences and talks:</strong><br>
-      IMF Workshop on Digital Money and Taxation (2025); Hawai‘i Accounting Research Conference (HARC, 2025); Tokenomics Conference (2024); Workshop on the Economics of Technology and Decentralization at Waseda University; National University of Singapore; Cornell–Tsinghua Summer Finance Institute; IESE Barcelona Tax Conference; IC3 Blockchain Camp at Cornell Tech; Finance and Accounting Annual Research Symposium; Research Symposium on Finance and Economics; Bank of Finland; European Systemic Risk Board; Conference on AI and Systemic Risk Analytics; Swiss National Bank Conference on Cryptoassets and Financial Innovation; Eurasia Conference; Hong Kong University Summer Conference; Bank of Japan; FeAT International Conference on Artificial Intelligence; Tsinghua University (SEM and PBC, 2024); Singapore FinTech Festival; 14th Financial Markets and Corporate Governance Conference; AI Global Finance Research Conference (Ho Chi Minh City, 2023).
-      </p>
-    </details>
-  </div>
-
-  <!-- Right image always visible -->
-  <div style="flex: 0 0 400px; min-width: 300px;">
-    <a href="/images/blockchain1.png" target="_blank">
-      <img src="/images/blockchain1.png" alt="DeFi Lending"
-           style="width: 100%; height: auto; cursor: zoom-in;">
-    </a>
-  </div>
-
+    <p><strong>Selected conferences and talks:</strong><br>
+      IMF Workshop on Digital Money and Taxation (2025); Hawai‘i Accounting Research Conference (HARC, 2025); Tokenomics Conference (2024); and so on.
+    </p>
+  </details>
 </div>
+
 
 
 <div style="margin-top:-30px;"></div>
