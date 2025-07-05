@@ -112,12 +112,41 @@ I. Blockchain
 II. AI x Economics
 ------
 
-[Privacy and Financial Inclusion in Credit Markets: A Lenders’ Perspective](https://drive.google.com/file/d/1QY0Ba49V9RbYpTz1cms9vca-3N3dRO-u/view)" with Sumit Agarwal (NUS), Pulak Ghosh (IIMB), Shohini Kundu (UCLA), Nishant Vats (WUSTL), Xinbo Wang (NUS, PhD Student) 
+<div style="margin-bottom: 40px;">
+
+  <!-- Title line & image side by side -->
+  <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+    <div style="flex: 1;">
+      <p style="margin: 0;">
+        <a href="https://drive.google.com/file/d/1QY0Ba49V9RbYpTz1cms9vca-3N3dRO-u/view">
+          Privacy and Financial Inclusion in Credit Markets: A Lenders’ Perspective
+        </a> with Sumit Agarwal (NUS), Pulak Ghosh (IIMB), Shohini Kundu (UCLA), Nishant Vats (WUSTL), Xinbo Wang (NUS, PhD Student)
+      </p>
+    </div>
+    <div style="flex: 0 0 auto;">
+      <a href="/images/india_loan.png" target="_blank">
+        <img src="/images/india_loan.png" alt="Privacy and Inclusion"
+             style="width: 400px; height: auto; cursor: zoom-in;">
+      </a>
+    </div>
+  </div>
+
+  <!-- Details below -->
+  <details style="margin-top: 10px;">
+    <summary style="cursor: pointer;">Details</summary>
+    <p><strong>Abstract:</strong><br>
+      This paper investigates the impact of privacy regulations on financial inclusion by analyzing a Google policy change that barred an Indian FinTech lender from accessing borrowers’ phone contacts. Previously, the lender used contacts as social collateral to reduce defaults. After the policy, application acceptance declined by 25.14%, while loan applications rose by 3.5%. Despite increased demand, default rates remained stable as lenders tightened selection criteria. This shift reduced lender revenues and disproportionately affected low-income, younger, credit-inexperienced, and lower-status borrowers. The findings highlight that privacy regulations, though addressing privacy concerns, can significantly hinder financial inclusion and lender profitability.
+    </p>
+  </details>
+
+</div>
+
+<!-- [Privacy and Financial Inclusion in Credit Markets: A Lenders’ Perspective](https://drive.google.com/file/d/1QY0Ba49V9RbYpTz1cms9vca-3N3dRO-u/view)" with Sumit Agarwal (NUS), Pulak Ghosh (IIMB), Shohini Kundu (UCLA), Nishant Vats (WUSTL), Xinbo Wang (NUS, PhD Student) 
 <div style="margin-top:-20px;"></div>
   <details>
   <p><strong>Abstract:</strong>  
   This paper investigates the impact of privacy regulations on financial inclusion by analyzing a Google policy change that barred an Indian FinTech lender from accessing borrowers’ phone contacts. Previously, the lender used contacts as social collateral to reduce defaults. After the policy, application acceptance declined by 25.14%, while loan applications rose by 3.5%. Despite increased demand, default rates remained stable as lenders tightened selection criteria. This shift reduced lender revenues and disproportionately affected low-income, younger, credit-inexperienced, and lower-status borrowers. The findings highlight that privacy regulations, though addressing privacy concerns, can significantly hinder financial inclusion and lender profitability.</p>
-  </details>
+  </details> -->
 
 
 [Credit Network and Data Sharing: An Evaluation of Cooperative Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4463473) with Sumit Agarwal (NUS), Hsin-Tien Tsai (NUS)
