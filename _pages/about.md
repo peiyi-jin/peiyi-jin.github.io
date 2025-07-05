@@ -8,10 +8,13 @@ redirect_from:
   - /about.html
 ---
 <style>
-  .page {
-    max-width: 1200px;
+  .page, .main, .page__content, .archive {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 30px;
   }
 </style>
+
 
 I'm Peiyi Jin (金沛宜). I'm a 5th year Ph.D. candidate in the Department of Economics at National University of Singapore (NUS), currently on the 2025–2026 academic job market. I'm working with Prof. [Sumit Agarwal](https://www.ushakrisna.com/). Before this, I received my bachelor's degree from Southwestern University of Finance and Economics (SWUFE), China, 2020. I was an exchange student and RA at University of California, Berkeley from 2018 to 2019.
 
@@ -153,11 +156,14 @@ Awards
 
   <div style="float:right; text-align:right;">
     Asian Institute of Digital Finance, NUS (SGD 160K)<br>
-    Jun 2024 – Jun 2025<br>
   </div>
-    <div style="float:left; text-align:left;">
+  <div style="float:left; text-align:left;">
     <em style="font-size: 90%;">Project: Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors</em>
   </div>
+  <div style="float:right; text-align:right;">
+  Jun 2024 – Jun 2025<br>  
+  </div>
+  
 </div>
 
 
