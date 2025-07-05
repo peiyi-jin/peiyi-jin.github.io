@@ -80,30 +80,33 @@ I. Blockchain
 
 <div style="margin-top:-30px;"></div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 40px; gap: 30px; flex-wrap: wrap;">
+<div style="margin-bottom: 40px;">
 
-  <!-- Left text block -->
-  <div style="flex: 1 1 50%; min-width: 300px;">
-    <p>
-      <a href="#">Crypto Capture of Foreign Aid</a> with Sumit Agarwal (NUS), Eswar Prasad (Cornell), Daniel Rabetti (NUS)
-      <em> draft available upon request</em>
-    </p>
-
-<div style="margin-top:-20px;"></div>
-
-    <details>
-      <summary style="cursor: pointer;">Details</summary>
-      <a href="/images/agg20.png" target="_blank">
-        <img src="/images/agg20.png" alt="Crypto Capture" style="width: 80%; height: auto; cursor: zoom-in;">
-      </a>
-      <p><strong>Abstract:</strong><br>
-      This paper investigates whether cryptocurrencies have become a new conduit for laundering diverted foreign aid. Using World Bank disbursement data from 2018 to 2024, linked with forensically tagged on-chain Bitcoin transactions and off-chain exchange activity, we document systematic surges in crypto transactions for anonymous wallets after disbursements, especially on exchanges located in tax haven jurisdictions. A one-standard-deviation increase in lagged aid is associated with a 0.51 log-point rise in anonymous transactions on tax haven exchanges—approximately a 66% increase—concentrated in newly created wallets and fading within two quarters. Network analysis reveals a real-time laundering pattern: funds flow through regulated platforms, then through mixers and tax haven exchanges, mirroring the classic placement, layering, and integration stages. Off-chain data confirm spikes in transactions on suspect, lightly regulated platforms. To address endogeneity in aid allocation, we use an IV strategy based on historical aid shares interacted with governance quality. Our study shows how blockchain forensics can trace hidden financial flows and offers new tools for anti-corruption and crypto regulation.
+  <!-- Title line & image side by side -->
+  <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+    <div style="flex: 1;">
+      <p style="margin: 0;">
+        <a href="#">Crypto Capture of Foreign Aid</a> with Sumit Agarwal (NUS), Eswar Prasad (Cornell), Daniel Rabetti (NUS)
+        <em> draft available upon request</em>
       </p>
-
-    </details>
+    </div>
+    <div style="flex: 0 0 auto;">
+      <a href="/images/agg20.png" target="_blank">
+        <img src="/images/agg20.png" alt="Crypto Capture" style="width: 400px; height: auto; cursor: zoom-in;">
+      </a>
+    </div>
   </div>
 
+  <!-- Details below -->
+  <details style="margin-top: 10px;">
+    <summary style="cursor: pointer;">Details</summary>
+    <p><strong>Abstract:</strong><br>
+      This paper investigates whether cryptocurrencies have become a new conduit for laundering diverted foreign aid. Using World Bank disbursement data from 2018 to 2024, linked with forensically tagged on-chain Bitcoin transactions and off-chain exchange activity, we document systematic surges in crypto transactions for anonymous wallets after disbursements, especially on exchanges located in tax haven jurisdictions. A one-standard-deviation increase in lagged aid is associated with a 0.51 log-point rise in anonymous transactions on tax haven exchanges—approximately a 66% increase—concentrated in newly created wallets and fading within two quarters. Network analysis reveals a real-time laundering pattern: funds flow through regulated platforms, then through mixers and tax haven exchanges, mirroring the classic placement, layering, and integration stages. Off-chain data confirm spikes in transactions on suspect, lightly regulated platforms. To address endogeneity in aid allocation, we use an IV strategy based on historical aid shares interacted with governance quality. Our study shows how blockchain forensics can trace hidden financial flows and offers new tools for anti-corruption and crypto regulation.
+    </p>
+  </details>
+
 </div>
+
 
 
 II. AI x Economics
