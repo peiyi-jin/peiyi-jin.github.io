@@ -98,7 +98,16 @@ I. Blockchain
     </p>
 
     <p><strong>Selected conferences and talks:</strong><br>
-      IMF Workshop on Digital Money and Taxation (2025); Hawai‘i Accounting Research Conference (HARC, 2025); Tokenomics Conference (2024); and so on.
+    International Monetary Fund (IMF) Workshop in Digital Money and Taxation
+    (2025); Hawai’i Accounting Research Conference (HARC, 2025); Tokenomics Conference (2024); Workshop on
+    the Economics of Technology and Decentralization at Waseda University; National University of Singapore; Cor-
+    nell–Tsinghua Summer Finance Institute; IESE Barcelona Tax Conference; IC3 Blockchain Camp at Cornell Tech;
+    Finance and Accounting Annual Research Symposium; Research Symposium on Finance and Economics; Bank
+    of Finland; European Systemic Risk Board; Conference in AI and Systemic Risk Analytics; Swiss National Bank
+    Conference on Cryptoassets and Financial Innovation; Euroasia Conference; Hong Kong University Summer Con-
+    ference; Bank of Japan; FeAT International Conference on Artificial Intelligence; Tsinghua University (SEM and
+    PBC, 2024); Singapore FinTech Festival; 14th Financial Markets and Corporate Governance Conference; AI Global
+    Finance Research Conference (Ho Chi Minh City, 2023).
     </p>
   </details>
 
@@ -194,6 +203,10 @@ II. AI x Economics
     <summary style="cursor: pointer;">Details</summary>
     <p><strong>Abstract:</strong><br>
       This paper examines the impact of credit data sharing among competitive banks of different sizes in open banking. Analyzing data from three predecessors of Bank of America, we find that information sharing enhances predictive capabilities and increases market lending profit as the network size grows. The bank sharing loans with varying collateral amounts contributes the most to improved prediction. However, competition leads to disparities in benefits, favoring smaller banks while the largest bank experiences losses in borrowers and profits. Effective bargaining for cooperative sharing is thus emphasized. We explore the Nash equilibrium for optimal outcomes in a competitive lending market.
+    </p>
+    <p><strong>Selected conferences and talks:</strong><br>
+    29th International Conference on Computing in Economics and Finance (CEF),
+    (Nice, 2023), Asian Meeting of the Econometric Society, Tsinghua University, (Beijing, 2023)
     </p>
   </details>
 
