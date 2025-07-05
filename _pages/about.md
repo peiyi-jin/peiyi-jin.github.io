@@ -166,16 +166,14 @@ Awards
 
   <div style="float:right; text-align:right;">
     Asian Institute of Digital Finance, NUS (SGD 160K)<br>
-
-    <div style="display: flex; justify-content: space-between;">
-      <div style="text-align:left;">
-        <em style="font-size: 90%;">Project: Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors</em>
-      </div>
-      <div style="text-align:right;">
-        Jun 2024 – Jun 2025
-      </div>
-    </div>
+  </div> 
+  <div style="float:left; text-align:left;">
+    <em style="font-size: 90%;">Project: Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors</em>
   </div>
+  <div style="float:right; text-align:right;">
+  Jun 2024 – Jun 2025<br>  
+  </div>
+  
 </div>
 
 <div style="overflow:auto;">
