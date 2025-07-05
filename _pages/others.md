@@ -24,8 +24,11 @@ Teaching
   <span style="float:right;">2017</span>
 </div>
 
-
 <div style="margin-top: 20px;"></div>
+
+<div style="margin-top: 30px;">
+  <img src="/images/ja.png" alt="JA Workshop" style="max-width: 400px; height: auto;">
+</div>
 
 
 Academic Service
