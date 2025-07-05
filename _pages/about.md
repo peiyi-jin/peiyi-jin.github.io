@@ -9,7 +9,7 @@ redirect_from:
 ---
 <style>
   .page, .main, .page__content, .archive {
-    max-width: 1000px;
+    max-width: 1200px;
     margin: 0 auto;
     padding: 0 30px;
   }
