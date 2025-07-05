@@ -150,14 +150,14 @@ Awards
 ======
 <div style="overflow:auto;">
   <span style="color:#008cba;">Research Grant</span>
+
   <div style="float:right; text-align:right;">
     Asian Institute of Digital Finance, NUS (SGD 160K)<br>
-    Jun 2024 – Jun 2025
-  </div>
-  <div>
+    Jun 2024 – Jun 2025<br>
     <em style="font-size: 90%;">Project: Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors</em>
   </div>
 </div>
+
 
 
 <div style="overflow:auto;">
