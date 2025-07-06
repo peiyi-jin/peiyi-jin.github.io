@@ -54,7 +54,7 @@ Job Market Paper
   <div style="margin-top:-30px;"></div>
 
   <!-- Details below -->
-  <details style="margin-top: 10px;">
+  <details style="margin-top: -10px;">
     <summary style="cursor: pointer;">Details</summary>
     <p><strong>Abstract:</strong><br>
       This paper examines how real-time information feedback affects household consumption when price incentives are absent. Using a quasi-experimental rollout of digital devices providing real-time electricity data and remote shut-off via mobile apps, we find that treated households significantly reduce electricity use. Beyond energy savings, we observe broader spillovers: households shift diets from carbon-intensive to healthier food, substitute digital for paper use, and cut taxi rides. Our results contribute to the literature on behavioral nudges by showing that real-time digital feedback, unlike traditional static signals, can meaningfully influence consumption and promote greener lifestyles in the medium term.
@@ -97,7 +97,7 @@ Research
   <div style="margin-top:-50px;"></div>
 
   <!-- Details below -->
-  <details style="margin-top: 10px;">
+  <details style="margin-top: -10px;">
     <summary style="cursor: pointer;">Details</summary>
     <p><strong>Abstract:</strong><br>
       This paper investigates how tax-planning strategies affect market liquidity and credit risks in Decentralized Finance (DeFi) lending. Using an exogenous tax shock on cryptocurrency gains and millions of transactions, we show that tax-motivated borrowing to defer capital gains taxes significantly reduces liquidity—particularly among stablecoin borrowers, high loan-to-value borrowers, and those holding assets long-term. Instrumental variable estimates indicate that tax-induced illiquidity more than doubles defaulted loan values. Robustness checks confirm these effects among highly tax-sensitive borrowers. The findings highlight implications for market stability, tax revenue forecasts, and the regulation of digital asset taxation.
@@ -141,7 +141,7 @@ Research
   <div style="margin-top:-80px;"></div>
 
   <!-- Details below -->
-  <details style="margin-top: 10px;">
+  <details style="margin-top: -10px;">
     <summary style="cursor: pointer;">Details</summary>
     <p><strong>Abstract:</strong><br>
       This paper investigates whether cryptocurrencies have become a new conduit for laundering diverted foreign aid. Using World Bank disbursement data from 2018 to 2024, linked with forensically tagged on-chain Bitcoin transactions and off-chain exchange activity, we document systematic surges in crypto transactions for anonymous wallets after disbursements, especially on exchanges located in tax haven jurisdictions. A one-standard-deviation increase in lagged aid is associated with a 0.51 log-point rise in anonymous transactions on tax haven exchanges—approximately a 66% increase—concentrated in newly created wallets and fading within two quarters. Network analysis reveals a real-time laundering pattern: funds flow through regulated platforms, then through mixers and tax haven exchanges, mirroring the classic placement, layering, and integration stages. Off-chain data confirm spikes in transactions on suspect, lightly regulated platforms. To address endogeneity in aid allocation, we use an IV strategy based on historical aid shares interacted with governance quality. Our study shows how blockchain forensics can trace hidden financial flows and offers new tools for anti-corruption and crypto regulation.
@@ -170,7 +170,7 @@ Research
     </div>
   </div>
 
-  <details style="margin-top: 10px;">
+  <details style="margin-top: -10px;">
     <summary style="cursor: pointer;">Details</summary>
     <p><strong>Abstract:</strong><br>
       This paper investigates the impact of privacy regulations on financial inclusion by analyzing a Google policy change that barred an Indian FinTech lender from accessing borrowers’ phone contacts. Previously, the lender used contacts as social collateral to reduce defaults. After the policy, application acceptance declined by 25.14%, while loan applications rose by 3.5%. Despite increased demand, default rates remained stable as lenders tightened selection criteria. The findings highlight that privacy regulations, though addressing privacy concerns, can significantly hinder financial inclusion and lender profitability.
@@ -222,7 +222,7 @@ Research
     </div>
   </div>
 
-  <details style="margin-top: 10px;">
+  <details style="margin-top: -10px;">
     <summary style="cursor: pointer;">Details</summary>
     <p><strong>Keywords:</strong><br>
       Large Language Models, Algorithmic Fairness, Human-AI Interaction, Computational Social Science
