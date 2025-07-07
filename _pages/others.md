@@ -31,11 +31,11 @@ Selected Student Feedback
 <div style="margin-top:-20px;"></div>
 <div style="margin-top: 20px; font-style: italic;">
 <p style="margin: 0;">
-  Engaging and explains content well. </p>
+  "Engaging and explains content well." </p>
 <p style="margin: 0;">
-  Kind, friendly, and punctual. </p>
+  "Kind, friendly, and punctual." </p>
 <p style="margin: 0;">
-  Peiyi's always very willing to answer students’ questions and explain material further to ensure everyone understands the course content. </p>
+  "Peiyi's always very willing to answer students’ questions and explain material further to ensure everyone understands the course content." </p>
 </div>
 
 
