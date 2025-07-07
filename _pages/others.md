@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 ---
 
-
 Teaching
 ======
 
@@ -26,10 +25,19 @@ Teaching
 
 <div style="margin-top: 20px;"></div>
 
+Selected Student Feedback
+------
+<div style="margin-top: 20px; font-style: italic;">
+  Peiyi's always very willing to answer students’ questions and explain material further to ensure everyone understands the course content.
+  Engaging and explains content well.
+  Kind, friendly, and punctual.
+</div>
+
+
+
 <div style="margin-top: 30px; text-align: center;">
   <img src="/images/ja.png" alt="JA Workshop" style="max-width: 450px; height: auto;">
 </div>
-
 
 
   <div style="margin-top:40px;"></div>
