@@ -211,7 +211,7 @@ Research
     <div style="flex: 1;">
       <p style="margin: 0;">
         <a href="#">LLM in a Recruiting Position: Bias & Mitigation</a> with Lin Xu (NUS, PhD Student), Bingchen Wang (Oxford, MPhil)
-        <em> draft available upon request</em>
+        <em> </em>
       </p>
     </div>
     <div style="flex: 0 0 auto;">
