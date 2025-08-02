@@ -28,7 +28,7 @@
 	    border-radius: 4px;
 	}
         
-
+/* 
 	.author__avatar {
 		width: 200px;        /* Increase size here */
 		height: 200px;
@@ -41,5 +41,15 @@
 		object-fit: cover;
 		border-radius: 0 !important;   /* Force square */
 		box-shadow: none;              /* Optional: remove shadow */
-	}
+	} */
+
 	
+	/* Force avatar to be square and larger */
+.author__avatar,
+.author__avatar img {
+    width: 220px !important;   /* adjust size here */
+    height: 220px !important;
+    border-radius: 0 !important;  /* force square */
+    object-fit: cover;
+    box-shadow: none;
+}
