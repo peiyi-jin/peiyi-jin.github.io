@@ -30,14 +30,16 @@
         
 
 	.author__avatar {
-		width: 160px;       /* Set width of rectangle */
-		height: 200px;      /* Set height to make it rectangular */
+		width: 200px;        /* Increase size here */
+		height: 200px;
 		margin-bottom: 10px;
 	}
 	
 	.author__avatar img {
 		width: 100%;
 		height: 100%;
-		object-fit: cover;  /* Ensures image fills the box nicely */
-		border-radius: 0;   /* ← This makes the avatar a rectangle */
+		object-fit: cover;
+		border-radius: 0 !important;   /* Force square */
+		box-shadow: none;              /* Optional: remove shadow */
 	}
+	
