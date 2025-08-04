@@ -26,8 +26,7 @@ Teaching
 <div style="margin-top: 20px;"></div>
 
 
-Selected Student Feedback
-------
+<h3 style="margin-bottom: 5px; font-size: 1.25em;">Selected Student Feedback</h3>
 <div style="margin-top:-20px;"></div>
 <div style="margin-top: 20px; font-style: italic;">
 <p style="margin: 0;">
