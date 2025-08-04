@@ -27,7 +27,7 @@ Teaching
 
 
 <h3 style="margin-bottom: 5px; font-size: 1.25em;">Selected Student Feedback</h3>
-<div style="margin-top:-20px;"></div>
+<!-- <div style="margin-top:-20px;"></div> -->
 <div style="margin-top: 20px; font-style: italic;">
 <p style="margin: 0;">
   "Engaging and explains content well." </p>
@@ -50,17 +50,17 @@ Academic Service
 ======
 Reviewer for [Review of Corporate Finance](https://www.nowpublishers.com/rcf), [Hawaii Accounting Research Conference](https://manoa.hawaii.edu/harc/)
 
-  <div style="margin-top:20px;"></div>
+  <div style="margin-top:40px;"></div>
 
 
 Media Coverage
 ======
-<p style="margin: 0;">
-[What Are the Features and Challenges of Emerging Occupations? Strengthening the Development of New Professions to Stimulate Job Growth](https://drive.google.com/file/d/1Jk7IWf55R5rMGWje0CDyQueAgcFpd644/view?usp=sharing)  </p>
-<p style="margin: 0;">
-*Sichuan Daily, August 1, 2025, page 10.* </p>
 
-  <div style="margin-top:20px;"></div>
+[What Are the Features and Challenges of Emerging Occupations? Strengthening the Development of New Professions to Stimulate Job Growth](https://drive.google.com/file/d/1Jk7IWf55R5rMGWje0CDyQueAgcFpd644/view?usp=sharing)  
+
+*Sichuan Daily, August 1, 2025, page 10.* 
+
+  <div style="margin-top:40px;"></div>
 
 Awards
 ======
