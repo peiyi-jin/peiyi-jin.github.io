@@ -57,7 +57,7 @@ Reviewer for [Review of Corporate Finance](https://www.nowpublishers.com/rcf), [
 Media Coverage
 ======
 [What Are the Features and Challenges of Emerging Occupations? Strengthening the Development of New Professions to Stimulate Job Growth](https://drive.google.com/file/d/1Jk7IWf55R5rMGWje0CDyQueAgcFpd644/view?usp=sharing) 
-(Sichuan Daily, August 1, 2025, page 10.)
+*Sichuan Daily, August 1, 2025, page 10.*
 
   <div style="margin-top:20px;"></div>
 
