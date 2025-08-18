@@ -157,31 +157,6 @@ Research
   <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
     <div style="flex: 1;">
       <p style="margin: 0;">
-        <a href="https://drive.google.com/file/d/1QY0Ba49V9RbYpTz1cms9vca-3N3dRO-u/view">
-          Privacy and Financial Inclusion in Credit Markets: A Lenders’ Perspective
-        </a> with Sumit Agarwal (NUS), Pulak Ghosh (IIMB), Shohini Kundu (UCLA), Nishant Vats (WUSTL), Xinbo Wang (NUS, PhD Student)
-      </p>
-    </div>
-    <div style="flex: 0 0 auto;">
-      <a href="/images/india_loan.png" target="_blank">
-        <img src="/images/india_loan.png" alt="Privacy and Inclusion"
-             style="max-width: 180px; height: auto; cursor: zoom-in;">
-      </a>
-    </div>
-  </div>
-
-  <details style="margin-top: -30px;">
-    <summary style="cursor: pointer;">Details</summary>
-    <p><strong>Abstract:</strong><br>
-      This paper investigates the impact of privacy regulations on financial inclusion by analyzing a Google policy change that barred an Indian FinTech lender from accessing borrowers’ phone contacts. Previously, the lender used contacts as social collateral to reduce defaults. After the policy, application acceptance declined by 25.14%, while loan applications rose by 3.5%. Despite increased demand, default rates remained stable as lenders tightened selection criteria. The findings highlight that privacy regulations, though addressing privacy concerns, can significantly hinder financial inclusion and lender profitability.
-    </p>
-  </details>
-</div>
-
-<div style="margin-bottom: 30px;">
-  <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
-    <div style="flex: 1;">
-      <p style="margin: 0;">
         <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4463473">
           Credit Network and Data Sharing: An Evaluation of Cooperative Lending
         </a> with Sumit Agarwal (NUS), Hsin-Tien Tsai (NUS)
@@ -206,7 +181,34 @@ Research
   </details>
 </div>
 
+
 <div style="margin-bottom: 30px;">
+  <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+    <div style="flex: 1;">
+      <p style="margin: 0;">
+        <a href="https://drive.google.com/file/d/1QY0Ba49V9RbYpTz1cms9vca-3N3dRO-u/view">
+          Privacy and Financial Inclusion in Credit Markets: A Lenders’ Perspective
+        </a> with Sumit Agarwal (NUS), Pulak Ghosh (IIMB), Shohini Kundu (UCLA), Nishant Vats (WUSTL), Xinbo Wang (NUS, PhD Student)
+      </p>
+    </div>
+    <div style="flex: 0 0 auto;">
+      <a href="/images/india_loan.png" target="_blank">
+        <img src="/images/india_loan.png" alt="Privacy and Inclusion"
+             style="max-width: 180px; height: auto; cursor: zoom-in;">
+      </a>
+    </div>
+  </div>
+
+  <details style="margin-top: -30px;">
+    <summary style="cursor: pointer;">Details</summary>
+    <p><strong>Abstract:</strong><br>
+      This paper investigates the impact of privacy regulations on financial inclusion by analyzing a Google policy change that barred an Indian FinTech lender from accessing borrowers’ phone contacts. Previously, the lender used contacts as social collateral to reduce defaults. After the policy, application acceptance declined by 25.14%, while loan applications rose by 3.5%. Despite increased demand, default rates remained stable as lenders tightened selection criteria. The findings highlight that privacy regulations, though addressing privacy concerns, can significantly hinder financial inclusion and lender profitability.
+    </p>
+  </details>
+</div>
+
+
+<!-- <div style="margin-bottom: 30px;">
   <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
     <div style="flex: 1;">
       <p style="margin: 0;">
@@ -228,10 +230,10 @@ Research
       Large Language Models, Algorithmic Fairness, Human-AI Interaction, Computational Social Science
     </p>
   </details>
-</div>
+</div> -->
 
 <!-- Section III -->
-<h2 style="color: #000000; margin-bottom: 5px;">III. Development Economics</h2>
+<!-- <h2 style="color: #000000; margin-bottom: 5px;">III. Development Economics</h2>
 
 <div style="margin-bottom: 30px;">
   <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
@@ -260,7 +262,7 @@ Research
       Royal Economic Society Annual Conference (Birmingham, 2025); Stone Centre Conference on Education and Inequality (London, 2025); Janeway Institute Cambridge PhD Workshop on Economic Networks (Cambridge, 2025); 2025 Young Economists Society Chengdu Forum (Chengdu, 2025); The Society of Labor Economists Annual Meeting (Oregon, 2024); European Association of Young Economists Annual Meeting (Paris, 2024); IFS–UCL–LSE/STICERD Development WiP Seminar (London, 2024); China Economic Association Europe/UK Annual Conference (London, 2024); UCL PhD Seminar (London, 2024); and NUS Applied Economics Student Workshop (Singapore, 2023).
     </p>
   </details>
-</div>
+</div> -->
 
 
 
