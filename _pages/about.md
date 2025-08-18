@@ -240,3 +240,16 @@ redirect_from:
     </div>
   </div>
 </section>
+
+<h2 class="section-gap-lg">Research Grant</h2>
+<div class="paper-entry">
+  <div class="paper-flex">
+    <div class="paper-text">
+      <p>
+        Asian Institute of Digital Finance, NUS (SGD 160K)
+      </p>
+      <p><em>Project: Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors</em></p>
+      <p class="muted">Jun 2024 – Jun 2025</p>
+    </div>
+  </div>
+</div>
