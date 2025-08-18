@@ -182,3 +182,26 @@ redirect_from:
     </div>
   </div>
 </div>
+
+
+<!-- Section II content ends here -->
+
+
+<!-- =============== Grant =============== -->
+<div style="margin-top:60px; margin-bottom:30px;">
+  <span style="color:#008cba; font-weight:600;">Research Grant</span>
+  <div style="float:right; text-align:right;">
+    Asian Institute of Digital Finance, NUS (SGD 160K)
+  </div>
+
+  <div style="clear:both; display:flex; justify-content:space-between; align-items:flex-end; margin-top:8px;">
+    <div style="flex:1; padding-right:10px;">
+      <em style="font-size: 90%;">
+        Project: Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors
+      </em>
+    </div>
+    <div style="text-align:right; white-space:nowrap;">
+      Jun 2024 – Jun 2025
+    </div>
+  </div>
+</div>
