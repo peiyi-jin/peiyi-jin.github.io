@@ -249,7 +249,10 @@ redirect_from:
         Asian Institute of Digital Finance, NUS (SGD 160K)
       </p>
       <p><em>Project: Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors</em></p>
-      <p class="muted">Jun 2024 – Jun 2025</p>
+      <p class="muted" style="display:flex; justify-content:space-between;">
+  <span>PI: Sumit Agarwal</span>
+  <span>2023 – 2025</span>
+  </p>
     </div>
   </div>
 </div>
