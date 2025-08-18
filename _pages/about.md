@@ -192,8 +192,8 @@ redirect_from:
       <p>
         Asian Institute of Digital Finance, NUS (SGD 160K)
       </p>
-      <p><em>Project: Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors</em></p>
-      <p class="muted">Jun 2024 – Jun 2025</p>
+      <p>Project: Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors</p>
+      <p class="muted">2023 – 2025</p>
     </div>
   </div>
 </div>
