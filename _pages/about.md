@@ -70,7 +70,7 @@ redirect_from:
 
 <h2 class="section-gap-lg">Research</h2>
 
-<h3 style="color:#000">I. Blockchain</h3>
+<h2 style="color:#000">I. Blockchain</h3>
 
 <!-- =============== 1) DeFi Lending =============== -->
 <div class="paper-entry">
@@ -131,7 +131,7 @@ redirect_from:
   </div>
 </div>
 
-<h3 style="color:#000">II. AI x Economics</h3>
+<h2 style="color:#000">II. AI x Economics</h3>
 
 <!-- =============== 3) Cooperative Lending =============== -->
 <div class="paper-entry">
@@ -184,24 +184,17 @@ redirect_from:
 </div>
 
 
-<!-- Section II content ends here -->
-
 
 <!-- =============== Grant =============== -->
-<div style="margin-top:60px; margin-bottom:30px;">
-  <span style="color:#008cba; font-weight:600;">Research Grant</span>
-  <div style="float:right; text-align:right;">
-    Asian Institute of Digital Finance, NUS (SGD 160K)
-  </div>
-
-  <div style="clear:both; display:flex; justify-content:space-between; align-items:flex-end; margin-top:8px;">
-    <div style="flex:1; padding-right:10px;">
-      <em style="font-size: 90%;">
-        Project: Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors
-      </em>
-    </div>
-    <div style="text-align:right; white-space:nowrap;">
-      Jun 2024 – Jun 2025
+<h2 class="section-gap-lg">Research Grant</h2>
+<div class="paper-entry">
+  <div class="paper-flex">
+    <div class="paper-text">
+      <p>
+        Asian Institute of Digital Finance, NUS (SGD 160K)
+      </p>
+      <p><em>Project: Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors</em></p>
+      <p class="muted">Jun 2024 – Jun 2025</p>
     </div>
   </div>
 </div>
