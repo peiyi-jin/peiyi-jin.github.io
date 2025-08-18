@@ -53,10 +53,10 @@ redirect_from:
 <div class="paper-entry">
   <div class="paper-flex">
     <div class="paper-text">
-      <p>
-        <a href="#">GovTech for Energy Conservation: Effects on Consumer Behaviour</a>
-        <em class="muted"> &nbsp;solo, draft available upon request</em>
-      </p>
+    <h3>
+      <a href="#">GovTech for Energy Conservation: Effects on Consumer Behaviour</a>
+      <em class="muted"> &nbsp;solo, draft available upon request</em>
+    </h3>
       <p><strong>Abstract:</strong><br>
         GovTech, the suite of digital infrastructure developed by governments, is playing an increasingly important role in shaping citizen behavior. This paper evaluates the impact of a GovTech intervention: an app-based, real-time energy feedback system on consumer behavior. Leveraging proprietary banking transaction data and a staggered rollout for quasi-experimental identification, I find that treated residents reduce monthly utility usage by about $21 per person. This effect is driven not by financial savings, but by heightened attentiveness enabled through real-time usage visibility. The intervention also generates spillovers across behavioral domains, including greater substitution of digital for paper-based products, lower consumption of carbon-intensive foods, and reduced taxi usage, suggesting that salient digital signals can activate pro-environmental identities. In addition, I document significant geographic spillovers among untreated residents living near treated areas or along shared transit routes.
       </p>
@@ -77,11 +77,12 @@ redirect_from:
 <div class="paper-entry">
   <div class="paper-flex">
     <div class="paper-text">
-      <p>
-        <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764605" target="_blank" rel="noopener noreferrer">
-          Tax Planning, Illiquidity, and Credit Risks: Evidence from DeFi Lending
-        </a> with Lisa De Simone (UT Austin), Daniel Rabetti (NUS)
-      </p>
+    <h3>
+      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764605" target="_blank" rel="noopener noreferrer">
+        Tax Planning, Illiquidity, and Credit Risks: Evidence from DeFi Lending
+      </a>
+      <em class="muted"> with Lisa De Simone (UT Austin), Daniel Rabetti (NUS)</em>
+    </h3>
       <p><strong>Abstract:</strong><br>
         This paper investigates how tax-planning strategies affect market liquidity and credit risks in Decentralized Finance (DeFi) lending. Using an exogenous tax shock on cryptocurrency gains and millions of transactions, we show that tax-motivated borrowing to defer capital gains taxes significantly reduces liquidity—particularly among stablecoin borrowers, high loan-to-value borrowers, and those holding assets long-term. Instrumental variable estimates indicate that tax-induced illiquidity more than doubles defaulted loan values. Robustness checks confirm these effects among highly tax-sensitive borrowers. The findings highlight implications for market stability, tax revenue forecasts, and the regulation of digital asset taxation.
       </p>
