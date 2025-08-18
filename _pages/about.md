@@ -131,7 +131,7 @@ redirect_from:
   </div>
 </div>
 
-<h2 style="color:#000">II. AI x Economics</h2>
+<h2 style="color:#000">II. Fintech Lending</h2>
 
 <!-- =============== 3) Cooperative Lending =============== -->
 <div class="paper-entry">
@@ -163,7 +163,7 @@ redirect_from:
 </div>
 
 <!-- =============== 4) Privacy & Inclusion =============== -->
-<div class="paper-entry">
+<!-- <div class="paper-entry">
   <div class="paper-flex">
     <div class="paper-text">
       <p>
@@ -181,7 +181,7 @@ redirect_from:
       </a>
     </div>
   </div>
-</div>
+</div> -->
 
 
 <!-- =============== Grant =============== -->
