@@ -49,7 +49,7 @@ Job Market Paper
     <div style="flex: 0 0 auto;">
       <a href="/images/app.png" target="_blank">
         <img src="/images/app.png" alt="Consumption Not Less but Greener"
-             style="max-width: 240px; height: auto; cursor: zoom-in;">
+             style="max-width: 300px; height: auto; cursor: zoom-in;">
       </a>
     </div>
   </div>
@@ -155,7 +155,7 @@ Research
 
 <div style="margin-bottom: 30px;">
   <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
-    <div style="flex: 1; min-width: 260px;">
+    <div style="flex: 1; min-width: 300px;">
       <p style="margin: 0;">
         <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4463473" target="_blank" rel="noopener noreferrer">
           Credit Network and Data Sharing: An Evaluation of Cooperative Lending
@@ -214,7 +214,7 @@ Research
       </a>
   </div>
   </div>
-  
+
   <!-- <details style="margin-top: -30px;">
     <summary style="cursor: pointer;">Details</summary>
 
