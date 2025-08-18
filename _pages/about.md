@@ -70,7 +70,7 @@ redirect_from:
 
 <h2 class="section-gap-lg">Research</h2>
 
-<h2 style="color:#000">I. Blockchain</h3>
+<h2 style="color:#000">I. Blockchain</h2>
 
 <!-- =============== 1) DeFi Lending =============== -->
 <div class="paper-entry">
@@ -131,7 +131,7 @@ redirect_from:
   </div>
 </div>
 
-<h2 style="color:#000">II. AI x Economics</h3>
+<h2 style="color:#000">II. AI x Economics</h2>
 
 <!-- =============== 3) Cooperative Lending =============== -->
 <div class="paper-entry">
@@ -182,7 +182,6 @@ redirect_from:
     </div>
   </div>
 </div>
-
 
 
 <!-- =============== Grant =============== -->
