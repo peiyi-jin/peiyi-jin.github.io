@@ -200,7 +200,7 @@ Research
 </div>
 
 
-<div style="margin-bottom: 60px;">
+<div style="margin-bottom: -60px;">
 
   <!-- Title line & image side by side -->
   <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
