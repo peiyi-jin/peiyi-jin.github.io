@@ -44,7 +44,7 @@ redirect_from:
 
 <p>I'm a Ph.D. candidate in the Department of Economics at National University of Singapore (NUS), currently on the 2025/26 academic job market. I'm supervised by Prof. <a href="https://www.ushakrisna.com/" target="_blank" rel="noopener noreferrer">Sumit Agarwal</a>.</p>
 
-<p><strong>Research Interests:</strong> Fintech, Digital Economy, and Household Finance.</p>
+<p><strong>Research Interests:</strong> Fintech, Household Finance.</p>
 
 <h2 class="section-gap-lg">Job Market Paper</h2>
 
