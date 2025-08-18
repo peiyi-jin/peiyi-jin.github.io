@@ -76,7 +76,7 @@ Research
 ------
 
 <!-- =============== 1) DeFi Lending =============== -->
-<div style="margin-bottom: 30px;">
+<div style="margin-bottom: 50px;">
 
   <!-- Title line & image side by side -->
   <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
@@ -86,7 +86,7 @@ Research
           Tax Planning, Illiquidity, and Credit Risks: Evidence from DeFi Lending
         </a> with Lisa De Simone (UT Austin), Daniel Rabetti (NUS)
       </p>
-      <p>
+      <p style="margin-top: 8px;">
         <strong>Abstract:</strong><br>
         This paper investigates how tax-planning strategies affect market liquidity and credit risks in Decentralized Finance (DeFi) lending. Using an exogenous tax shock on cryptocurrency gains and millions of transactions, we show that tax-motivated borrowing to defer capital gains taxes significantly reduces liquidity—particularly among stablecoin borrowers, high loan-to-value borrowers, and those holding assets long-term. Instrumental variable estimates indicate that tax-induced illiquidity more than doubles defaulted loan values. Robustness checks confirm these effects among highly tax-sensitive borrowers. The findings highlight implications for market stability, tax revenue forecasts, and the regulation of digital asset taxation.
       </p>
@@ -99,9 +99,9 @@ Research
       </a>
     </div>
   </div>
-<div style="margin-bottom: 20px;">
+
   <!-- Details below -->
-  <details style="margin-top: 8px;">
+  <details style="margin-top: 12px;">
     <summary style="cursor: pointer; font-weight: 600;">Selected conferences and talks</summary>
     <p style="margin-top: 8px;">
       International Monetary Fund (IMF) Workshop in Digital Money and Taxation (2025);  
