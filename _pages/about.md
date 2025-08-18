@@ -1,3 +1,75 @@
+---
+permalink: /
+title: "Peiyi Jin (金沛宜)"
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+<style>
+  /* Page width */
+  .page, .main, .page__content, .archive {
+    max-width: 1500px;
+    margin: 0 auto;
+    padding: 0 30px;
+  }
+
+  /* Spacing utilities */
+  .mt-8 { margin-top: 8px; }
+  .mt-12 { margin-top: 12px; }
+  .mt-16 { margin-top: 16px; }
+  .mt-24 { margin-top: 24px; }
+  .mb-0 { margin-bottom: 0; }
+  .mb-8 { margin-bottom: 8px; }
+  .mb-16 { margin-bottom: 16px; }
+  .mb-24 { margin-bottom: 24px; }
+  .mb-40 { margin-bottom: 40px; }
+  .mb-48 { margin-bottom: 48px; }
+  .mb-60 { margin-bottom: 60px; }
+
+  /* Paper entry layout */
+  .paper-entry { margin: 48px 0; } /* uniform gap between papers */
+  .paper-row {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  .paper-text { flex: 1; min-width: 280px; }
+  .paper-img { flex: 0 0 auto; }
+  .paper-img img { max-width: 300px; height: auto; cursor: zoom-in; }
+
+  /* Details (collapsible) */
+  details { margin-top: 12px; }
+  details > summary {
+    cursor: pointer;
+    font-weight: 600;
+    list-style: none;
+  }
+  /* Optional: hide default triangle and style summary */
+  details > summary::-webkit-details-marker { display: none; }
+  details > summary::after {
+    content: " ▸";
+    font-weight: 400;
+  }
+  details[open] > summary::after {
+    content: " ▾";
+  }
+</style>
+
+<div class="mt-16"></div>
+
+<p>Welcome to my website!</p>
+
+<p>
+  I'm a Ph.D. candidate in the Department of Economics at National University of Singapore (NUS), 
+  currently on the 2025/26 academic job market. I'm supervised by 
+  Prof. <a href="https://www.ushakrisna.com/" target="_blank" rel="noopener noreferrer">Sumit Agarwal</a>.
+</p>
+
+<p class="mb-24"><strong>Research Interests:</strong> Fintech, Digital Economy, and Household Finance.</p>
+
 <h2>Job Market Paper</h2>
 
 <div style="overflow:auto;">
@@ -97,3 +169,5 @@ This paper examines the impact of credit data sharing among competitive banks of
 </div>
 <p>Project: Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors</p>
 <p class="muted">PI: Sumit Agarwal</p>
+
+
