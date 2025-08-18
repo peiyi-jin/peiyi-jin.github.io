@@ -99,7 +99,7 @@ Research
       </a>
     </div>
   </div>
-
+<div style="margin-bottom: -20px;">
   <!-- Details below -->
   <details style="margin-top: 8px;">
     <summary style="cursor: pointer; font-weight: 600;">Selected conferences and talks</summary>
