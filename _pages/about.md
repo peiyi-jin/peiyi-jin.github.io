@@ -1,13 +1,14 @@
 ---
 permalink: /
 title: "Peiyi Jin – Economics Ph.D. Candidate, NUS"
-layout: home
+layout: single
 excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 <style>
   /* page width */
   .page, .main, .page__content, .archive {
