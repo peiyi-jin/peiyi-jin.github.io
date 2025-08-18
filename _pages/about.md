@@ -39,7 +39,7 @@ Job Market Paper
   <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
     <div style="flex: 1;">
       <p style="margin: 0;">
-        <a href="#">Consumption Not Less but Greener: Evidence from Residential Utility Digitalization</a>, solo,
+        <a href="#">GovTech for Energy Conservation: Effects on Consumer Behaviour</a>, solo,
         <em>draft available upon request</em>
       </p>
     </div>
@@ -54,12 +54,12 @@ Job Market Paper
   <div style="margin-top:-15px;"></div>
 
   <!-- Details below -->
-  <details style="margin-top: -10px;">
-    <summary style="cursor: pointer;">Details</summary>
+  <!-- <details style="margin-top: -10px;">
+    <summary style="cursor: pointer;">Details</summary> -->
     <p><strong>Abstract:</strong><br>
     This paper evaluates the impact of app-based real-time feedback on residents' energy consumption and broader consumer behavior, leveraging a quasi-experimental rollout of Home Energy Management Systems (HEMS). Using high-frequency transaction data and a Difference-in-Differences framework, we find that treated residents reduce utility usage by approximately S\$21.05 per resident per month. We show that these behavioral responses are not driven by saving incentives but by increased attentiveness through real-time usage visibility. While total spending remains unchanged, the intervention induces spillovers across behavioral domains, including greater substitution of digital for paper-based products, lower consumption of carbon-intensive foods, and reduced taxi usage. The findings are consistent with a goal reinforcement mechanism, whereby salient digital signals activate pro-environmental identities. We also document significant geographic spillovers among untreated residents living near treated communities or along shared transit infrastructure, suggesting peer influence and observational learning. 
     </p>
-  </details>
+  <!-- </details> -->
 
 </div>
 
