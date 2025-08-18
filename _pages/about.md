@@ -155,31 +155,45 @@ Research
 
 <div style="margin-bottom: 30px;">
   <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
-    <div style="flex: 1;">
+    <div style="flex: 1; min-width: 260px;">
       <p style="margin: 0;">
-        <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4463473">
+        <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4463473" target="_blank" rel="noopener noreferrer">
           Credit Network and Data Sharing: An Evaluation of Cooperative Lending
-        </a> with Sumit Agarwal (NUS), Hsin-Tien Tsai (NUS)
+        </a>
+        with Sumit Agarwal (NUS), Hsin-Tien Tsai (NUS)
       </p>
-    <p><strong>Abstract:</strong><br>
-      This paper examines the impact of credit data sharing among competitive banks of different sizes in open banking. Analyzing data from three predecessors of Bank of America, we find that information sharing enhances predictive capabilities and increases market lending profit as the network size grows. The bank sharing loans with varying collateral amounts contributes the most to improved prediction. However, competition leads to disparities in benefits, favoring smaller banks while the largest bank experiences losses in borrowers and profits. Effective bargaining for cooperative sharing is thus emphasized. We explore the Nash equilibrium for optimal outcomes in a competitive lending market.
-    </p>
+      <p>
+        <strong>Abstract:</strong><br>
+        This paper examines the impact of credit data sharing among competitive banks of different sizes in open banking.
+        Analyzing data from three predecessors of Bank of America, we find that information sharing enhances predictive
+        capabilities and increases market lending profit as the network expands. Banks that share loans spanning a wider
+        range of collateral drive most of the predictive gains. However, competition creates unequal benefits, with smaller
+        banks gaining while the largest bank loses borrowers and profits. These results underline the importance of effective
+        bargaining for cooperative sharing. We also explore the Nash equilibrium for optimal outcomes in a competitive
+        lending market.
+      </p>
     </div>
+
     <div style="flex: 0 0 auto;">
-      <a href="/images/bank.png" target="_blank">
-        <img src="/images/bank.png" alt="Cooperative Lending"
-             style="max-width: 300px; height: auto; cursor: zoom-in;">
+      <a href="/images/bank.png" target="_blank" rel="noopener noreferrer">
+        <img
+          src="/images/bank.png"
+          alt="Illustration of cooperative lending network among banks"
+          style="max-width: 300px; height: auto; cursor: zoom-in;"
+        >
       </a>
     </div>
   </div>
 
-  <details style="margin-top: -50px;">
-    <summary style="cursor: pointer;">Selected conferences and talks:</summary>
-    <!-- <p><strong>Selected conferences and talks:</strong><br> -->
-      29th International Conference on Computing in Economics and Finance (CEF) (Nice, 2023), Asian Meeting of the Econometric Society, Tsinghua University (Beijing, 2023)
+  <details style="margin-top: 8px;">
+    <summary style="cursor: pointer; font-weight: 600;">Selected conferences and talks</summary>
+    <p style="margin-top: 8px;">
+      29th International Conference on Computing in Economics and Finance (CEF), Nice (2023);
+      Asian Meeting of the Econometric Society, Tsinghua University, Beijing (2023)
     </p>
   </details>
 </div>
+
 
 
 <div style="margin-bottom: 30px;">
