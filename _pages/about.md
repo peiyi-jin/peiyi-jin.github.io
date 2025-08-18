@@ -80,42 +80,48 @@ Research
 
   <!-- Title line & image side by side -->
   <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
-    <div style="flex: 1;">
+    <div style="flex: 1; min-width: 260px;">
       <p style="margin: 0;">
-        <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764605">
+        <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764605" target="_blank" rel="noopener noreferrer">
           Tax Planning, Illiquidity, and Credit Risks: Evidence from DeFi Lending
         </a> with Lisa De Simone (UT Austin), Daniel Rabetti (NUS)
       </p>
-    <p><strong>Abstract:</strong><br>
-      This paper investigates how tax-planning strategies affect market liquidity and credit risks in Decentralized Finance (DeFi) lending. Using an exogenous tax shock on cryptocurrency gains and millions of transactions, we show that tax-motivated borrowing to defer capital gains taxes significantly reduces liquidity—particularly among stablecoin borrowers, high loan-to-value borrowers, and those holding assets long-term. Instrumental variable estimates indicate that tax-induced illiquidity more than doubles defaulted loan values. Robustness checks confirm these effects among highly tax-sensitive borrowers. The findings highlight implications for market stability, tax revenue forecasts, and the regulation of digital asset taxation.
-    </p>
+      <p>
+        <strong>Abstract:</strong><br>
+        This paper investigates how tax-planning strategies affect market liquidity and credit risks in Decentralized Finance (DeFi) lending. Using an exogenous tax shock on cryptocurrency gains and millions of transactions, we show that tax-motivated borrowing to defer capital gains taxes significantly reduces liquidity—particularly among stablecoin borrowers, high loan-to-value borrowers, and those holding assets long-term. Instrumental variable estimates indicate that tax-induced illiquidity more than doubles defaulted loan values. Robustness checks confirm these effects among highly tax-sensitive borrowers. The findings highlight implications for market stability, tax revenue forecasts, and the regulation of digital asset taxation.
+      </p>
     </div>
+
     <div style="flex: 0 0 auto;">
-      <a href="/images/blockchain1.png" target="_blank">
+      <a href="/images/blockchain1.png" target="_blank" rel="noopener noreferrer">
         <img src="/images/blockchain1.png" alt="DeFi Lending"
              style="max-width: 300px; height: auto; cursor: zoom-in;">
       </a>
     </div>
   </div>
-  <div style="margin-top:-50px;"></div>
+
   <!-- Details below -->
-  <!-- <details style="margin-top: -10px;"> -->
-    <summary style="cursor: pointer;">Selected conferences and talks</summary>
-    <!-- <p><strong>Selected conferences and talks:</strong><br> -->
-    International Monetary Fund (IMF) Workshop in Digital Money and Taxation
-    (2025); Hawai’i Accounting Research Conference (HARC, 2025); Tokenomics Conference (2024); Workshop on
-    the Economics of Technology and Decentralization at Waseda University; National University of Singapore; Cor-
-    nell–Tsinghua Summer Finance Institute; IESE Barcelona Tax Conference; IC3 Blockchain Camp at Cornell Tech;
-    Finance and Accounting Annual Research Symposium; Research Symposium on Finance and Economics; Bank
-    of Finland; European Systemic Risk Board; Conference in AI and Systemic Risk Analytics; Swiss National Bank
-    Conference on Cryptoassets and Financial Innovation; Euroasia Conference; Hong Kong University Summer Con-
-    ference; Bank of Japan; FeAT International Conference on Artificial Intelligence; Tsinghua University (SEM and
-    PBC, 2024); Singapore FinTech Festival; 14th Financial Markets and Corporate Governance Conference; AI Global
-    Finance Research Conference (Ho Chi Minh City, 2023).
+  <details style="margin-top: 8px;">
+    <summary style="cursor: pointer; font-weight: 600;">Selected conferences and talks</summary>
+    <p style="margin-top: 8px;">
+      International Monetary Fund (IMF) Workshop in Digital Money and Taxation (2025);  
+      Hawai’i Accounting Research Conference (HARC, 2025);  
+      Tokenomics Conference (2024);  
+      Workshop on the Economics of Technology and Decentralization at Waseda University;  
+      National University of Singapore; Cornell–Tsinghua Summer Finance Institute;  
+      IESE Barcelona Tax Conference; IC3 Blockchain Camp at Cornell Tech;  
+      Finance and Accounting Annual Research Symposium; Research Symposium on Finance and Economics;  
+      Bank of Finland; European Systemic Risk Board; Conference in AI and Systemic Risk Analytics;  
+      Swiss National Bank Conference on Cryptoassets and Financial Innovation; Euroasia Conference;  
+      Hong Kong University Summer Conference; Bank of Japan;  
+      FeAT International Conference on Artificial Intelligence; Tsinghua University (SEM and PBC, 2024);  
+      Singapore FinTech Festival; 14th Financial Markets and Corporate Governance Conference;  
+      AI Global Finance Research Conference (Ho Chi Minh City, 2023).
     </p>
   </details>
 
 </div>
+
 
 <!-- =============== 2) Crypto Capture =============== -->
 <div style="margin-bottom: 50px;">
