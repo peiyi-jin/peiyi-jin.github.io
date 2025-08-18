@@ -129,6 +129,7 @@ Research
       </p>
     <p><strong>Abstract:</strong><br>
       This paper investigates whether cryptocurrencies have become a new conduit for laundering diverted foreign aid. Using World Bank disbursement data from 2018 to 2024, linked with forensically tagged on-chain Bitcoin transactions and off-chain exchange activity, we document systematic surges in crypto transactions for anonymous wallets after disbursements, especially on exchanges located in tax haven jurisdictions. A one-standard-deviation increase in lagged aid is associated with a 0.51 log-point rise in anonymous transactions on tax haven exchanges—approximately a 66% increase—concentrated in newly created wallets and fading within two quarters. Network analysis reveals a real-time laundering pattern: funds flow through regulated platforms, then through mixers and tax haven exchanges, mirroring the classic placement, layering, and integration stages. Off-chain data confirm spikes in transactions on suspect, lightly regulated platforms. To address endogeneity in aid allocation, we use an IV strategy based on historical aid shares interacted with governance quality. Our study shows how blockchain forensics can trace hidden financial flows and offers new tools for anti-corruption and crypto regulation.
+    </p>
     </div>
     <div style="flex: 0 0 auto;">
       <a href="/images/agg20.png" target="_blank">
@@ -160,21 +161,21 @@ Research
           Credit Network and Data Sharing: An Evaluation of Cooperative Lending
         </a> with Sumit Agarwal (NUS), Hsin-Tien Tsai (NUS)
       </p>
+    <p><strong>Abstract:</strong><br>
+      This paper examines the impact of credit data sharing among competitive banks of different sizes in open banking. Analyzing data from three predecessors of Bank of America, we find that information sharing enhances predictive capabilities and increases market lending profit as the network size grows. The bank sharing loans with varying collateral amounts contributes the most to improved prediction. However, competition leads to disparities in benefits, favoring smaller banks while the largest bank experiences losses in borrowers and profits. Effective bargaining for cooperative sharing is thus emphasized. We explore the Nash equilibrium for optimal outcomes in a competitive lending market.
+    </p>
     </div>
     <div style="flex: 0 0 auto;">
       <a href="/images/bank.png" target="_blank">
         <img src="/images/bank.png" alt="Cooperative Lending"
-             style="max-width: 180px; height: auto; cursor: zoom-in;">
+             style="max-width: 300px; height: auto; cursor: zoom-in;">
       </a>
     </div>
   </div>
 
   <details style="margin-top: -50px;">
-    <summary style="cursor: pointer;">Details</summary>
-    <p><strong>Abstract:</strong><br>
-      This paper examines the impact of credit data sharing among competitive banks of different sizes in open banking. Analyzing data from three predecessors of Bank of America, we find that information sharing enhances predictive capabilities and increases market lending profit as the network size grows. The bank sharing loans with varying collateral amounts contributes the most to improved prediction. However, competition leads to disparities in benefits, favoring smaller banks while the largest bank experiences losses in borrowers and profits. Effective bargaining for cooperative sharing is thus emphasized. We explore the Nash equilibrium for optimal outcomes in a competitive lending market.
-    </p>
-    <p><strong>Selected conferences and talks:</strong><br>
+    <summary style="cursor: pointer;">Selected conferences and talks:</summary>
+    <!-- <p><strong>Selected conferences and talks:</strong><br> -->
       29th International Conference on Computing in Economics and Finance (CEF) (Nice, 2023), Asian Meeting of the Econometric Society, Tsinghua University (Beijing, 2023)
     </p>
   </details>
@@ -189,21 +190,22 @@ Research
           Privacy and Financial Inclusion in Credit Markets: A Lenders’ Perspective
         </a> with Sumit Agarwal (NUS), Pulak Ghosh (IIMB), Shohini Kundu (UCLA), Nishant Vats (WUSTL), Xinbo Wang (NUS, PhD Student)
       </p>
+    <p><strong>Abstract:</strong><br>
+      This paper investigates the impact of privacy regulations on financial inclusion by analyzing a Google policy change that barred an Indian FinTech lender from accessing borrowers’ phone contacts. Previously, the lender used contacts as social collateral to reduce defaults. After the policy, application acceptance declined by 25.14%, while loan applications rose by 3.5%. Despite increased demand, default rates remained stable as lenders tightened selection criteria. The findings highlight that privacy regulations, though addressing privacy concerns, can significantly hinder financial inclusion and lender profitability.
     </div>
     <div style="flex: 0 0 auto;">
       <a href="/images/india_loan.png" target="_blank">
         <img src="/images/india_loan.png" alt="Privacy and Inclusion"
-             style="max-width: 180px; height: auto; cursor: zoom-in;">
+             style="max-width: 300px; height: auto; cursor: zoom-in;">
       </a>
     </div>
   </div>
 
-  <details style="margin-top: -30px;">
+  <!-- <details style="margin-top: -30px;">
     <summary style="cursor: pointer;">Details</summary>
-    <p><strong>Abstract:</strong><br>
-      This paper investigates the impact of privacy regulations on financial inclusion by analyzing a Google policy change that barred an Indian FinTech lender from accessing borrowers’ phone contacts. Previously, the lender used contacts as social collateral to reduce defaults. After the policy, application acceptance declined by 25.14%, while loan applications rose by 3.5%. Despite increased demand, default rates remained stable as lenders tightened selection criteria. The findings highlight that privacy regulations, though addressing privacy concerns, can significantly hinder financial inclusion and lender profitability.
+
     </p>
-  </details>
+  </details> -->
 </div>
 
 
