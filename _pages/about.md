@@ -32,7 +32,7 @@ I'm a Ph.D. candidate in the Department of Economics at National University of S
 
 Job Market Paper
 ------
-<!-- =============== Consumption Not Less but Greener =============== -->
+<!-- =============== JMP =============== -->
 <div style="margin-bottom: 30px;">
 
   <!-- Title line & image side by side -->
@@ -189,7 +189,7 @@ Research
       </a>
     </div>
   </div>
-<div style="margin-bottom: -10px;">
+<div style="margin-bottom: -30px;">
   <details style="margin-top: 8px;">
     <summary style="cursor: pointer; font-weight: 600;">Selected conferences and talks</summary>
     <p style="margin-top: 8px;">
@@ -200,7 +200,7 @@ Research
 </div>
 
 
-<div style="margin-bottom: 30px;">
+<div style="margin-bottom: 60px;">
 
   <!-- Title line & image side by side -->
   <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
@@ -217,7 +217,6 @@ Research
         This paper investigates the impact of privacy regulations on financial inclusion by analyzing a Google policy change that barred an Indian FinTech lender from accessing borrowers’ phone contacts. Previously, the lender used contacts as social collateral to reduce defaults. After the policy, application acceptance declined by 25.14%, while loan applications rose by 3.5%. Despite increased demand, default rates remained stable as lenders tightened selection criteria. The findings highlight that privacy regulations, though addressing privacy concerns, can significantly hinder financial inclusion and lender profitability.
       </p>
     </div>
-
     <!-- Image block -->
     <div style="flex: 0 0 auto;">
       <a href="/images/india_loan.png" target="_blank" rel="noopener noreferrer">
@@ -225,7 +224,6 @@ Research
              style="max-width: 300px; height: auto; cursor: zoom-in;">
       </a>
     </div>
-
   </div>
 </div>
 
@@ -234,7 +232,7 @@ Research
     <summary style="cursor: pointer;">Details</summary>
 
     </p>
-  <!-- </details> --> -->
+  </details> -->
 <!-- </div> -->
 
 
