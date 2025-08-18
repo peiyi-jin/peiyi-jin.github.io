@@ -8,7 +8,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 <style>
   /* page width */
   .page, .main, .page__content, .archive {
@@ -38,22 +37,6 @@ redirect_from:
 
   /* small tweaks */
   .muted { opacity: .9; }
-
-  /* ===================== */
-  /* enlarged paper titles */
-  /* ===================== */
-  .paper-text > p:first-child > a {
-    font-size: clamp(1.25rem, 1rem + 1vw, 1.75rem); /* responsive scaling */
-    font-weight: 700;
-    line-height: 1.25;
-    text-decoration: none;
-    color: inherit;
-  }
-  .paper-text > p:first-child em {
-    font-size: 0.95em;
-    opacity: 0.8;
-    margin-left: .4rem;
-  }
 </style>
 
 <div class="section-gap"></div>
@@ -97,8 +80,7 @@ redirect_from:
       <p>
         <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764605" target="_blank" rel="noopener noreferrer">
           Tax Planning, Illiquidity, and Credit Risks: Evidence from DeFi Lending
-        </a>
-        <em class="muted"> with Lisa De Simone (UT Austin), Daniel Rabetti (NUS)</em>
+        </a> with Lisa De Simone (UT Austin), Daniel Rabetti (NUS)
       </p>
       <p><strong>Abstract:</strong><br>
         This paper investigates how tax-planning strategies affect market liquidity and credit risks in Decentralized Finance (DeFi) lending. Using an exogenous tax shock on cryptocurrency gains and millions of transactions, we show that tax-motivated borrowing to defer capital gains taxes significantly reduces liquidity—particularly among stablecoin borrowers, high loan-to-value borrowers, and those holding assets long-term. Instrumental variable estimates indicate that tax-induced illiquidity more than doubles defaulted loan values. Robustness checks confirm these effects among highly tax-sensitive borrowers. The findings highlight implications for market stability, tax revenue forecasts, and the regulation of digital asset taxation.
@@ -135,8 +117,8 @@ redirect_from:
   <div class="paper-flex">
     <div class="paper-text">
       <p>
-        <a href="#">Crypto Capture of Foreign Aid</a>
-        <em class="muted"> with Sumit Agarwal (NUS), Eswar Prasad (Cornell), Daniel Rabetti (NUS) &nbsp;draft available upon request</em>
+        <a href="#">Crypto Capture of Foreign Aid</a> with Sumit Agarwal (NUS), Eswar Prasad (Cornell), Daniel Rabetti (NUS)
+        <em class="muted"> &nbsp;draft available upon request</em>
       </p>
       <p><strong>Abstract:</strong><br>
         This paper investigates whether cryptocurrencies have become a new conduit for laundering diverted foreign aid. Using World Bank disbursement data from 2018 to 2024, linked with forensically tagged on-chain Bitcoin transactions and off-chain exchange activity, we document systematic surges in crypto transactions for anonymous wallets after disbursements, especially on exchanges located in tax haven jurisdictions. A one-standard-deviation increase in lagged aid is associated with a 0.51 log-point rise in anonymous transactions on tax haven exchanges—approximately a 66% increase—concentrated in newly created wallets and fading within two quarters. Network analysis reveals a real-time laundering pattern: funds flow through regulated platforms, then through mixers and tax haven exchanges, mirroring the classic placement, layering, and integration stages. Off-chain data confirm spikes in transactions on suspect, lightly regulated platforms. To address endogeneity in aid allocation, we use an IV strategy based on historical aid shares interacted with governance quality. Our study shows how blockchain forensics can trace hidden financial flows and offers new tools for anti-corruption and crypto regulation.
@@ -160,7 +142,7 @@ redirect_from:
         <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4463473" target="_blank" rel="noopener noreferrer">
           Credit Network and Data Sharing: An Evaluation of Cooperative Lending
         </a>
-        <em class="muted"> with Sumit Agarwal (NUS), Hsin-Tien Tsai (NUS)</em>
+        with Sumit Agarwal (NUS), Hsin-Tien Tsai (NUS)
       </p>
       <p><strong>Abstract:</strong><br>
         This paper examines the impact of credit data sharing among competitive banks of different sizes in open banking. Analyzing data from three predecessors of Bank of America, we find that information sharing enhances predictive capabilities and increases market lending profit as the network expands. Banks that share loans spanning a wider range of collateral drive most of the predictive gains. However, competition creates unequal benefits, with smaller banks gaining while the largest bank loses borrowers and profits. These results underline the importance of effective bargaining for cooperative sharing. We also explore the Nash equilibrium for optimal outcomes in a competitive lending market.
@@ -181,16 +163,38 @@ redirect_from:
   </details>
 </div>
 
+<!-- =============== 4) Privacy & Inclusion =============== -->
+<!-- <div class="paper-entry">
+  <div class="paper-flex">
+    <div class="paper-text">
+      <p>
+        <a href="https://drive.google.com/file/d/1QY0Ba49V9RbYpTz1cms9vca-3N3dRO-u/view" target="_blank" rel="noopener noreferrer">
+          Privacy and Financial Inclusion in Credit Markets: A Lenders’ Perspective
+        </a> with Sumit Agarwal (NUS), Pulak Ghosh (IIMB), Shohini Kundu (UCLA), Nishant Vats (WUSTL), Xinbo Wang (NUS, PhD Student)
+      </p>
+      <p><strong>Abstract:</strong><br>
+        This paper investigates the impact of privacy regulations on financial inclusion by analyzing a Google policy change that barred an Indian FinTech lender from accessing borrowers’ phone contacts. Previously, the lender used contacts as social collateral to reduce defaults. After the policy, application acceptance declined by 25.14%, while loan applications rose by 3.5%. Despite increased demand, default rates remained stable as lenders tightened selection criteria. The findings highlight that privacy regulations, though addressing privacy concerns, can significantly hinder financial inclusion and lender profitability.
+      </p>
+    </div>
+    <div class="paper-media">
+      <a href="/images/india_loan.png" target="_blank" rel="noopener noreferrer">
+        <img src="/images/india_loan.png" alt="Privacy and Inclusion">
+      </a>
+    </div>
+  </div>
+</div> -->
+
+
 <!-- =============== Grant =============== -->
 <h2 class="section-gap-lg">Research Grant</h2>
 <div class="paper-entry">
   <div class="paper-flex">
     <div class="paper-text">
       <p>
-        Asian Institute of Digital Finance, NUS ($120,000)
+        Asian Institute of Digital Finance, NUS (\$120,000)
       </p>
       <p>Project: Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors</p>
-      <p class="muted">PI: Sumit Agarwal &nbsp;&nbsp; 2023 – 2025</p>
+      <p class="muted">PI: Sumit Agarwal  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   2023 – 2025</p>
     </div>
   </div>
 </div>
