@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 # Site Settings
 locale                   : "en-US"
-title: "Peiyi Jin – Economics Ph.D. Candidate, NUS"
-title_separator: "|"
-name: "Peiyi Jin"
+title: "Peiyi Jin"
+title_separator: "-"
+name: "Economics Ph.D. Candidate, NUS"
 description: "Ph.D. Candidate in Economics, National University of Singapore (NUS). On the 2025/26 academic job market."
 url                      : https://peiyi-jin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
