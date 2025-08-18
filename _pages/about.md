@@ -138,7 +138,7 @@ Research
       </a>
     </div>
   </div>
-  <div style="margin-top:-80px;"></div>
+  <!-- <div style="margin-top:-80px;"></div> -->
 
   <!-- Details below -->
   <!-- <details style="margin-top: -10px;">
@@ -212,7 +212,6 @@ Research
         <img src="/images/india_loan.png" alt="Privacy and Inclusion"
              style="max-width: 300px; height: auto; cursor: zoom-in;">
       </a>
-    </div>
   </div>
 
   <!-- <details style="margin-top: -30px;">
@@ -220,7 +219,7 @@ Research
 
     </p>
   </details> -->
-</div>
+<!-- </div> -->
 
 
 <!-- <div style="margin-bottom: 30px;">
