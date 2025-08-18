@@ -68,7 +68,7 @@ redirect_from:
   </div>
 </div>
 
-<h2 class="section-gap-lg">Research</h2>
+<h2 class="section-gap-lg">Working Papers:</h2>
 
 <h2 style="color:#000">I. Blockchain</h2>
 
