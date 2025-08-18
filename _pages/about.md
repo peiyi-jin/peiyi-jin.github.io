@@ -70,6 +70,7 @@ redirect_from:
 
 <p class="mb-24"><strong>Research Interests:</strong> Fintech, Digital Economy, and Household Finance.</p>
 
+
 <h2>Job Market Paper</h2>
 
 <div style="overflow:auto;">
@@ -126,7 +127,18 @@ This paper investigates how tax-planning strategies affect market liquidity and 
   <span style="float:right;">with Sumit Agarwal (NUS), Eswar Prasad (Cornell), Daniel Rabetti (NUS) <em>draft available upon request</em></span>
 </div>
 <p><strong>Abstract:</strong><br>
-This paper investigates whether cryptocurrencies have become a new conduit for laundering diverted foreign aid. Using World Bank disbursement data from 2018 to 2024, linked with forensically tagged on-chain Bitcoin transactions and off-chain exchange activity, we document systematic surges in crypto transactions for anonymous wallets after disbursements, especially on exchanges located in tax haven jurisdictions. A one-standard-deviation increase in lagged aid is associated with a 0.51 log-point rise in anonymous transactions on tax haven exchanges—approximately a 66% increase—concentrated in newly created wallets and fading within two quarters...
+This paper investigates whether cryptocurrencies have become a new conduit for laundering diverted
+foreign aid. UsingWorld Bank aid disbursement data from 2018 to 2024, linked with forensically tagged onchain
+Bitcoin transactions and off-chain exchange activity,we document systematic surges in crypto transactions
+for anonymous wallets after disbursements, especially on exchanges located in tax haven jurisdictions.
+A one-standard-deviation increase in lagged aid is associated with a 0.51 log-point rise in anonymous transactions on tax haven exchanges—approximately a 66% increase—concentrated in newly created wallets and
+fading within two quarters. Network analysis reveals a real-time laundering pattern: funds flowthrough regulated
+platforms, then through mixers and tax haven exchanges, mirroring the classic placement, layering,
+and integration stages. Off-chain data confirm spikes in transactions on suspect, lightly regulated platforms.
+To address endogeneity in aid allocation, we use an IV strategy based on historical aid shares interacted with
+governance quality. Overall, our findings suggest that cryptocurrencies are increasingly used for offshore
+banking in concealing aid diversion. Our study shows how blockchain forensics can trace hidden financial
+flows and offers new tools for anti-corruption and crypto regulation.
 </p>
 
 <div style="margin-top:20px; text-align:center;">
