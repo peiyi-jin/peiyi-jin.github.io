@@ -28,7 +28,7 @@ I'm a Ph.D. candidate in the Department of Economics at National University of S
 
 **Research Interests:** Fintech, Digital Economy, and Household Finance.
 
-<div style="margin-top:-20px;"></div>
+<div style="margin-top:-10px;"></div>
 
 Job Market Paper
 ------
@@ -39,8 +39,8 @@ Job Market Paper
   <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
     <div style="flex: 1;">
       <p style="margin: 0;">
-        <a href="#">GovTech for Energy Conservation: Effects on Consumer Behaviour</a>, solo,
-        <em>draft available upon request</em>
+        <a href="#">GovTech for Energy Conservation: Effects on Consumer Behaviour</a>
+        <em>solo, draft available upon request</em>
       </p>
     <p><strong>Abstract:</strong><br>
     This paper evaluates the impact of app-based real-time feedback on residents' energy consumption and broader consumer behavior, leveraging a quasi-experimental rollout of Home Energy Management Systems (HEMS). Using high-frequency transaction data and a Difference-in-Differences framework, we find that treated residents reduce utility usage by approximately S\$21.05 per resident per month. We show that these behavioral responses are not driven by saving incentives but by increased attentiveness through real-time usage visibility. While total spending remains unchanged, the intervention induces spillovers across behavioral domains, including greater substitution of digital for paper-based products, lower consumption of carbon-intensive foods, and reduced taxi usage. The findings are consistent with a goal reinforcement mechanism, whereby salient digital signals activate pro-environmental identities. We also document significant geographic spillovers among untreated residents living near treated communities or along shared transit infrastructure, suggesting peer influence and observational learning. 
@@ -54,14 +54,12 @@ Job Market Paper
     </div>
   </div>
 
-  <div style="margin-top:-15px;"></div>
+  <!-- <div style="margin-top:-15px;"></div> -->
 
   <!-- Details below -->
   <!-- <details style="margin-top: -10px;">
     <summary style="cursor: pointer;">Details</summary> -->
-    <!-- <p><strong>Abstract:</strong><br>
-    This paper evaluates the impact of app-based real-time feedback on residents' energy consumption and broader consumer behavior, leveraging a quasi-experimental rollout of Home Energy Management Systems (HEMS). Using high-frequency transaction data and a Difference-in-Differences framework, we find that treated residents reduce utility usage by approximately S\$21.05 per resident per month. We show that these behavioral responses are not driven by saving incentives but by increased attentiveness through real-time usage visibility. While total spending remains unchanged, the intervention induces spillovers across behavioral domains, including greater substitution of digital for paper-based products, lower consumption of carbon-intensive foods, and reduced taxi usage. The findings are consistent with a goal reinforcement mechanism, whereby salient digital signals activate pro-environmental identities. We also document significant geographic spillovers among untreated residents living near treated communities or along shared transit infrastructure, suggesting peer influence and observational learning. 
-    </p> -->
+
   <!-- </details> -->
 
 </div>
@@ -88,25 +86,22 @@ Research
           Tax Planning, Illiquidity, and Credit Risks: Evidence from DeFi Lending
         </a> with Lisa De Simone (UT Austin), Daniel Rabetti (NUS)
       </p>
+    <p><strong>Abstract:</strong><br>
+      This paper investigates how tax-planning strategies affect market liquidity and credit risks in Decentralized Finance (DeFi) lending. Using an exogenous tax shock on cryptocurrency gains and millions of transactions, we show that tax-motivated borrowing to defer capital gains taxes significantly reduces liquidity—particularly among stablecoin borrowers, high loan-to-value borrowers, and those holding assets long-term. Instrumental variable estimates indicate that tax-induced illiquidity more than doubles defaulted loan values. Robustness checks confirm these effects among highly tax-sensitive borrowers. The findings highlight implications for market stability, tax revenue forecasts, and the regulation of digital asset taxation.
+    </p>
     </div>
     <div style="flex: 0 0 auto;">
       <a href="/images/blockchain1.png" target="_blank">
         <img src="/images/blockchain1.png" alt="DeFi Lending"
-             style="max-width: 180px; height: auto; cursor: zoom-in;">
+             style="max-width: 300px; height: auto; cursor: zoom-in;">
       </a>
     </div>
   </div>
-
   <div style="margin-top:-50px;"></div>
-
   <!-- Details below -->
   <details style="margin-top: -10px;">
-    <summary style="cursor: pointer;">Details</summary>
-    <p><strong>Abstract:</strong><br>
-      This paper investigates how tax-planning strategies affect market liquidity and credit risks in Decentralized Finance (DeFi) lending. Using an exogenous tax shock on cryptocurrency gains and millions of transactions, we show that tax-motivated borrowing to defer capital gains taxes significantly reduces liquidity—particularly among stablecoin borrowers, high loan-to-value borrowers, and those holding assets long-term. Instrumental variable estimates indicate that tax-induced illiquidity more than doubles defaulted loan values. Robustness checks confirm these effects among highly tax-sensitive borrowers. The findings highlight implications for market stability, tax revenue forecasts, and the regulation of digital asset taxation.
-    </p>
-
-    <p><strong>Selected conferences and talks:</strong><br>
+    <summary style="cursor: pointer;">Selected conferences and talks</summary>
+    <!-- <p><strong>Selected conferences and talks:</strong><br> -->
     International Monetary Fund (IMF) Workshop in Digital Money and Taxation
     (2025); Hawai’i Accounting Research Conference (HARC, 2025); Tokenomics Conference (2024); Workshop on
     the Economics of Technology and Decentralization at Waseda University; National University of Singapore; Cor-
@@ -132,24 +127,25 @@ Research
         <a href="#">Crypto Capture of Foreign Aid</a> with Sumit Agarwal (NUS), Eswar Prasad (Cornell), Daniel Rabetti (NUS)
         <em> draft available upon request</em>
       </p>
+    <p><strong>Abstract:</strong><br>
+      This paper investigates whether cryptocurrencies have become a new conduit for laundering diverted foreign aid. Using World Bank disbursement data from 2018 to 2024, linked with forensically tagged on-chain Bitcoin transactions and off-chain exchange activity, we document systematic surges in crypto transactions for anonymous wallets after disbursements, especially on exchanges located in tax haven jurisdictions. A one-standard-deviation increase in lagged aid is associated with a 0.51 log-point rise in anonymous transactions on tax haven exchanges—approximately a 66% increase—concentrated in newly created wallets and fading within two quarters. Network analysis reveals a real-time laundering pattern: funds flow through regulated platforms, then through mixers and tax haven exchanges, mirroring the classic placement, layering, and integration stages. Off-chain data confirm spikes in transactions on suspect, lightly regulated platforms. To address endogeneity in aid allocation, we use an IV strategy based on historical aid shares interacted with governance quality. Our study shows how blockchain forensics can trace hidden financial flows and offers new tools for anti-corruption and crypto regulation.
     </div>
     <div style="flex: 0 0 auto;">
       <a href="/images/agg20.png" target="_blank">
         <img src="/images/agg20.png" alt="Crypto Capture"
-             style="max-width: 180px; height: auto; cursor: zoom-in;">
+             style="max-width: 300px; height: auto; cursor: zoom-in;">
       </a>
     </div>
   </div>
-
   <div style="margin-top:-80px;"></div>
 
   <!-- Details below -->
-  <details style="margin-top: -10px;">
+  <!-- <details style="margin-top: -10px;">
     <summary style="cursor: pointer;">Details</summary>
     <p><strong>Abstract:</strong><br>
       This paper investigates whether cryptocurrencies have become a new conduit for laundering diverted foreign aid. Using World Bank disbursement data from 2018 to 2024, linked with forensically tagged on-chain Bitcoin transactions and off-chain exchange activity, we document systematic surges in crypto transactions for anonymous wallets after disbursements, especially on exchanges located in tax haven jurisdictions. A one-standard-deviation increase in lagged aid is associated with a 0.51 log-point rise in anonymous transactions on tax haven exchanges—approximately a 66% increase—concentrated in newly created wallets and fading within two quarters. Network analysis reveals a real-time laundering pattern: funds flow through regulated platforms, then through mixers and tax haven exchanges, mirroring the classic placement, layering, and integration stages. Off-chain data confirm spikes in transactions on suspect, lightly regulated platforms. To address endogeneity in aid allocation, we use an IV strategy based on historical aid shares interacted with governance quality. Our study shows how blockchain forensics can trace hidden financial flows and offers new tools for anti-corruption and crypto regulation.
     </p>
-  </details>
+  </details> -->
 
 </div>
 
