@@ -99,7 +99,7 @@ Research
   </div>
   <div style="margin-top:-50px;"></div>
   <!-- Details below -->
-  <details style="margin-top: -10px;">
+  <!-- <details style="margin-top: -10px;"> -->
     <summary style="cursor: pointer;">Selected conferences and talks</summary>
     <!-- <p><strong>Selected conferences and talks:</strong><br> -->
     International Monetary Fund (IMF) Workshop in Digital Money and Taxation
@@ -118,7 +118,7 @@ Research
 </div>
 
 <!-- =============== 2) Crypto Capture =============== -->
-<div style="margin-bottom: 30px;">
+<div style="margin-bottom: 50px;">
 
   <!-- Title line & image side by side -->
   <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
@@ -173,7 +173,6 @@ Research
         lending market.
       </p>
     </div>
-
     <div style="flex: 0 0 auto;">
       <a href="/images/bank.png" target="_blank" rel="noopener noreferrer">
         <img
@@ -184,7 +183,7 @@ Research
       </a>
     </div>
   </div>
-
+<div style="margin-bottom: -10px;">
   <details style="margin-top: 8px;">
     <summary style="cursor: pointer; font-weight: 600;">Selected conferences and talks</summary>
     <p style="margin-top: 8px;">
