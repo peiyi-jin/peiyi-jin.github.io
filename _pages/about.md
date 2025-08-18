@@ -43,7 +43,7 @@ Job Market Paper
         <em>solo, draft available upon request</em>
       </p>
     <p><strong>Abstract:</strong><br>
-    This paper evaluates the impact of app-based real-time feedback on residents' energy consumption and broader consumer behavior, leveraging a quasi-experimental rollout of Home Energy Management Systems (HEMS). Using high-frequency transaction data and a Difference-in-Differences framework, we find that treated residents reduce utility usage by approximately S\$21.05 per resident per month. We show that these behavioral responses are not driven by saving incentives but by increased attentiveness through real-time usage visibility. While total spending remains unchanged, the intervention induces spillovers across behavioral domains, including greater substitution of digital for paper-based products, lower consumption of carbon-intensive foods, and reduced taxi usage. The findings are consistent with a goal reinforcement mechanism, whereby salient digital signals activate pro-environmental identities. We also document significant geographic spillovers among untreated residents living near treated communities or along shared transit infrastructure, suggesting peer influence and observational learning. 
+GovTech, the suite of digital infrastructure developed by governments, is playing an increasingly important role in shaping citizen behavior. This paper evaluates the impact of a GovTech intervention: an app-based, real-time energy feedback system on consumer behavior. Leveraging proprietary banking transaction data and a staggered rollout for quasi-experimental identification, I find that treated residents reduce monthly utility usage by about \$21.03 per person. This effect is driven not by financial savings, but by heightened attentiveness enabled through real-time usage visibility. The intervention also generates spillovers across behavioral domains, including greater substitution of digital for paper-based products, lower consumption of carbon-intensive foods, and reduced taxi usage, suggesting that salient digital signals can activate pro-environmental identities. In addition, I document significant geographic spillovers among untreated residents living near treated areas or along shared transit routes.
     </p>
     </div>
     <div style="flex: 0 0 auto;">
@@ -213,12 +213,12 @@ Research
       </a>
   </div>
   </div>
-
+  </div>
   <!-- <details style="margin-top: -30px;">
     <summary style="cursor: pointer;">Details</summary>
 
     </p>
-  </details> -->
+  <!-- </details> --> -->
 <!-- </div> -->
 
 
