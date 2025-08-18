@@ -200,26 +200,36 @@ Research
 </div>
 
 
-
 <div style="margin-bottom: 30px;">
+
+  <!-- Title line & image side by side -->
   <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
-    <div style="flex: 1;">
+
+    <!-- Text block -->
+    <div style="flex: 1; min-width: 260px;">
       <p style="margin: 0;">
-        <a href="https://drive.google.com/file/d/1QY0Ba49V9RbYpTz1cms9vca-3N3dRO-u/view">
+        <a href="https://drive.google.com/file/d/1QY0Ba49V9RbYpTz1cms9vca-3N3dRO-u/view" target="_blank" rel="noopener noreferrer">
           Privacy and Financial Inclusion in Credit Markets: A Lenders’ Perspective
         </a> with Sumit Agarwal (NUS), Pulak Ghosh (IIMB), Shohini Kundu (UCLA), Nishant Vats (WUSTL), Xinbo Wang (NUS, PhD Student)
       </p>
-    <p><strong>Abstract:</strong><br>
-      This paper investigates the impact of privacy regulations on financial inclusion by analyzing a Google policy change that barred an Indian FinTech lender from accessing borrowers’ phone contacts. Previously, the lender used contacts as social collateral to reduce defaults. After the policy, application acceptance declined by 25.14%, while loan applications rose by 3.5%. Despite increased demand, default rates remained stable as lenders tightened selection criteria. The findings highlight that privacy regulations, though addressing privacy concerns, can significantly hinder financial inclusion and lender profitability.
-    </p>
+      <p>
+        <strong>Abstract:</strong><br>
+        This paper investigates the impact of privacy regulations on financial inclusion by analyzing a Google policy change that barred an Indian FinTech lender from accessing borrowers’ phone contacts. Previously, the lender used contacts as social collateral to reduce defaults. After the policy, application acceptance declined by 25.14%, while loan applications rose by 3.5%. Despite increased demand, default rates remained stable as lenders tightened selection criteria. The findings highlight that privacy regulations, though addressing privacy concerns, can significantly hinder financial inclusion and lender profitability.
+      </p>
+    </div>
+
+    <!-- Image block -->
     <div style="flex: 0 0 auto;">
-      <a href="/images/india_loan.png" target="_blank">
+      <a href="/images/india_loan.png" target="_blank" rel="noopener noreferrer">
         <img src="/images/india_loan.png" alt="Privacy and Inclusion"
              style="max-width: 300px; height: auto; cursor: zoom-in;">
       </a>
+    </div>
+
   </div>
-  </div>
-  </div>
+</div>
+
+
   <!-- <details style="margin-top: -30px;">
     <summary style="cursor: pointer;">Details</summary>
 
