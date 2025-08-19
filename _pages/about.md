@@ -70,15 +70,15 @@ This paper investigates how tax-planning strategies affect market liquidity and 
   <details>
     <summary>Selected conferences and talks</summary>
     <p>
-      IMF Workshop in Digital Money and Taxation (2025); Hawai’i Accounting Research Conference (2025);
-      Tokenomics Conference (2024); Waseda University Workshop on the Economics of Technology and Decentralization;
-      NUS; Cornell–Tsinghua Summer Finance Institute; IESE Barcelona Tax Conference;
-      IC3 Blockchain Camp at Cornell Tech; Finance and Accounting Annual Research Symposium;
-      Research Symposium on Finance and Economics; Bank of Finland; European Systemic Risk Board;
-      Swiss National Bank Conference on Cryptoassets and Financial Innovation;
-      Euroasia Conference; Hong Kong University Summer Conference; Bank of Japan;
-      FeAT International Conference on AI; Tsinghua University (SEM and PBC, 2024);
-      Singapore FinTech Festival; 14th FMCG Conference; AI Global Finance Research Conference (Ho Chi Minh City, 2023).
+      ABR-Fudan Conference (2025); IMF Workshop in Digital Money and Taxation (2025)*; Hawai’i Accounting Research Conference (2025)*;
+      Tokenomics Conference (2024)*; Waseda University Workshop on the Economics of Technology and Decentralization*;
+      NUS; Cornell–Tsinghua Summer Finance Institute*; IESE Barcelona Tax Conference*;
+      IC3 Blockchain Camp at Cornell Tech*; Finance and Accounting Annual Research Symposium*;
+      Research Symposium on Finance and Economics*; Bank of Finland; European Systemic Risk Board*;
+      Swiss National Bank Conference on Cryptoassets and Financial Innovation*;
+      Euroasia Conference*; Hong Kong University Summer Conference*; Bank of Japan*;
+      FeAT International Conference on AI*; Tsinghua University (SEM and PBC, 2024);
+      Singapore FinTech Festival*; 14th FMCG Conference*; AI Global Finance Research Conference (Ho Chi Minh City, 2023).
     </p>
   </details>
 </div>
@@ -116,7 +116,7 @@ This paper examines the impact of credit data sharing among competitive banks of
     <summary>Selected conferences and talks</summary>
     <p>
       29th International Conference on Computing in Economics and Finance (CEF), Nice (2023);
-      Asian Meeting of the Econometric Society, Tsinghua University, Beijing (2023).
+      Asian Meeting of the Econometric Society, Tsinghua University, Beijing (2023); NUS Economics Brownbag.
     </p>
   </details>
 </div>
@@ -127,5 +127,9 @@ This paper examines the impact of credit data sharing among competitive banks of
   <span style="color:#008cba;">Asian Institute of Digital Finance, NUS ($120,000)</span>
   <span style="float:right;">2023 – 2025</span>
 </div>
-<p>Project: Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors</p>
-<p class="muted">PI: Sumit Agarwal</p>
+
+<div class="row" style="margin-top:6px;">
+  <span>Project: Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors</span>
+  <span style="float:right;" class="muted">PI: Sumit Agarwal</span>
+</div>
+
