@@ -121,15 +121,24 @@ This paper examines the impact of credit data sharing among competitive banks of
   </details>
 </div>
 
-<h2 style="margin-top:40px;">Research Grant</h2>
 
-<div class="row">
-  <span style="color:#008cba;">Asian Institute of Digital Finance, NUS ($120,000)</span>
-  <span style="float:right;">2023 – 2025</span>
+<div style="margin-top:10px; font-style:italic; display:flex; justify-content:space-between; align-items:center;">
+  <p style="margin:0;">
+    Received Research Grant from <span style="color:#008cba;">Asian Institute of Digital Finance, NUS ($120,000)</span>
+  </p>
+  <span>
+    <span class="muted">PI: Sumit Agarwal</span> | 2023 – 2025
+  </span>
 </div>
 
-<div class="row" style="margin-top:6px;">
+
+<!-- <h2 style="margin-top:40px;">Research Grant</h2> -->
+<!-- <div class="row" style="margin-top:6px;">
   <span>Project: Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors</span>
   <span style="float:right;" class="muted">PI: Sumit Agarwal</span>
 </div>
 
+<div class="row">
+  <span style="color:#008cba;">Asian Institute of Digital Finance, NUS ($120,000)</span>
+  <span style="float:right;">2023 – 2025</span>
+</div> -->
