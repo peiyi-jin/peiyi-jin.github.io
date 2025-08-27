@@ -121,14 +121,15 @@ This paper examines the impact of credit data sharing among competitive banks of
   </details>
 </div>
 
-<div style="margin-top:10px; font-style:italic; display:flex; justify-content:space-between; align-items:center;">
-  <div style="margin:0;">
-    Supported by Research Grant from <span style="color:#008cba;">Asian Institute of Digital Finance, NUS ($120,000)</span>
+<div style="margin-top:10px; font-style:italic; display:flex; justify-content:space-between; align-items:center; border-top:1px solid #ddd; padding-top:5px;">
+  <div>
+    Supported by Research Grant from 
+    <a href="https://adfin.nus.edu.sg" target="_blank" style="color:#008cba;">Asian Institute of Digital Finance, NUS</a> 
+    ($120,000, PI: Sumit Agarwal)
   </div>
-  <span>
-    <span class="muted">PI: Sumit Agarwal</span> 
-  </span>
 </div>
+
+
 
 
 <!-- <h2 style="margin-top:40px;">Research Grant</h2> -->
