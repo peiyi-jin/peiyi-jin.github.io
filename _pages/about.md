@@ -126,7 +126,7 @@ This paper examines the impact of credit data sharing among competitive banks of
     Supported by Research Grant from <span style="color:#008cba;">Asian Institute of Digital Finance, NUS ($120,000)</span>
   </div>
   <span>
-    <span class="muted">PI: Sumit Agarwal</span> | 2023 – 2025
+    <span class="muted">PI: Sumit Agarwal</span> 
   </span>
 </div>
 
