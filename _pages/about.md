@@ -37,11 +37,11 @@ redirect_from:
 <h2>Job Market Paper</h2>
 
 <div class="row">
-  <a href="#">GovTech for Energy Conservation: Effects on Consumer Behaviour</a>
+  <a href="#">Digital Salience and Consumption Elasticity: Evidence from a Real-Time Feedback Intervention</a>
   <span style="float:right;"><em>solo, draft available upon request</em></span>
 </div>
 <p><strong>Abstract:</strong><br>
-GovTech, the suite of digital infrastructure developed by governments, is playing an increasingly important role in shaping citizen behavior. This paper evaluates the impact of a GovTech intervention: an app-based, real-time energy feedback system on consumer behavior. Leveraging proprietary banking transaction data and a staggered rollout for quasi-experimental identification, I find that treated residents reduce monthly utility usage by about $21 per person. This effect is driven not by financial savings, but by heightened attentiveness enabled through real-time usage visibility. The intervention also generates spillovers across behavioral domains, including greater substitution of digital for paper-based products, lower consumption of carbon-intensive foods, and reduced taxi usage, suggesting that salient digital signals can activate pro-environmental identities. In addition, I document significant geographic spillovers among untreated residents living near treated areas or along shared transit routes.
+This paper studies how digital technologies alter household responsiveness to income shocks by increasing the salience of consumption. I evaluate a government-led intervention in Singapore that provides real-time energy usage feedback through a mobile app. Using proprietary banking transaction data and a staggered rollout design, I find that treated households reduce utility payments by approximately $21 per month. This reduction is not driven by price changes or liquidity constraints but by increased cognitive attention to consumption. The intervention also produces behavioral spillovers: households reduce spending on paper goods, carbon-intensive foods, and taxi rides. Untreated residents living near treated areas exhibit similar changes, suggesting that salience effects diffuse spatially. These findings challenge the Permanent Income Hypothesis by showing that visibility increases short-run consumption elasticity. The results have implications for monetary and fiscal policy design. Digital salience can raise marginal propensities to consume, especially among liquidity-constrained households, and may strengthen policy transmission in heterogeneous-agent macroeconomic models.
 </p>
 
 <div class="img-center">
