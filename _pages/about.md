@@ -48,6 +48,15 @@ This paper studies how digital technologies alter household responsiveness to in
   <img src="/images/app.png" alt="Consumption Not Less but Greener">
 </div>
 
+<div style="margin-top:10px; font-style:italic;">
+  <details>
+    <summary>Selected conferences and talks</summary>
+    <p>
+      AFA PhD Session (2025)
+    </p>
+  </details>
+</div>
+
 <h2 style="margin-top:40px;">Working Papers</h2>
 
 <h3 style="color:#000; margin-top:20px;">I. Blockchain</h3>
@@ -93,6 +102,15 @@ This paper investigates whether cryptocurrencies have become a new conduit for l
 
 <div class="img-center">
   <img src="/images/agg20.png" alt="Crypto Capture">
+</div>
+
+<div style="margin-top:10px; font-style:italic;">
+  <details>
+    <summary>Selected conferences and talks</summary>
+    <p>
+    7th Sydney Market Microstructure and Digital Finance meeting (2025)
+    </p>
+  </details>
 </div>
 
 <h3 style="color:#000; margin-top:40px;">II. Fintech Lending</h3>
