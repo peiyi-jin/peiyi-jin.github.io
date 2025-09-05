@@ -52,8 +52,7 @@ This paper studies how digital technologies alter household responsiveness to in
   <details>
     <summary>Selected conferences and talks</summary>
     <p>
-      38th Australisian Fi-
-nance and Banking Conference PhD Forum (2025), AFA PhD Session (2026)
+      38th Australisian Finance and Banking Conference PhD Forum (2025), AFA PhD Session (2026)
     </p>
   </details>
 </div>
