@@ -79,7 +79,7 @@ This paper investigates how tax-planning strategies affect market liquidity and 
   <details>
     <summary>Selected conferences and talks</summary>
     <p>
-      ABR-Fudan Conference (2025); IMF Workshop in Digital Money and Taxation (2025)*; Hawai’i Accounting Research Conference (2025)*;
+      AFA PhD Session (2026); ABR-Fudan Conference (2025); IMF Workshop in Digital Money and Taxation (2025)*; Hawai’i Accounting Research Conference (2025)*;
       Tokenomics Conference (2024)*; Waseda University Workshop on the Economics of Technology and Decentralization*;
       NUS; Cornell–Tsinghua Summer Finance Institute*; IESE Barcelona Tax Conference*;
       IC3 Blockchain Camp at Cornell Tech*; Finance and Accounting Annual Research Symposium*;
