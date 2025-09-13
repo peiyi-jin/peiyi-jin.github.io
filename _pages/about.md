@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-<!-- <style>
+<style>
   /* Override minimal-mistakes default container width */
   .page {
     max-width: 100% !important;
@@ -24,41 +24,7 @@ redirect_from:
   .row { overflow: auto; }
   .img-center { margin-top: 20px; text-align: center; }
   .img-center img { max-width: 450px; height: auto; }
-</style> -->
-
-<style>
-  /* Full-width override: remove all container constraints */
-  .page {
-    max-width: 100vw !important;
-    width: 100vw !important;
-    padding: 0 !important;
-    margin: 0 !important;
-  }
-
-  .page__inner-wrap {
-    padding: 0 !important;
-    margin: 0 !important;
-  }
-
-  main, article, section {
-    padding: 0 !important;
-    margin: 0 !important;
-  }
-
-  /* Optional: remove spacing between page elements */
-  .mt-16 { margin-top: 0 !important; }
-  .mb-24 { margin-bottom: 0 !important; }
-
-  /* Optional: override theme-wide container */
-  .layout--single {
-    padding: 0 !important;
-    margin: 0 !important;
-  }
-
-  /* Optional: center images manually if needed */
-  .img-center { text-align: center; }
 </style>
-
 
 <div class="mt-16"></div>
 
