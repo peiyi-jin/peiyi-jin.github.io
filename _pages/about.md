@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-<style>
+<!-- <style>
   /* Override minimal-mistakes default container width */
   .page {
     max-width: 100% !important;
@@ -24,7 +24,41 @@ redirect_from:
   .row { overflow: auto; }
   .img-center { margin-top: 20px; text-align: center; }
   .img-center img { max-width: 450px; height: auto; }
+</style> -->
+
+<style>
+  /* Full-width override: remove all container constraints */
+  .page {
+    max-width: 100vw !important;
+    width: 100vw !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  .page__inner-wrap {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  main, article, section {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  /* Optional: remove spacing between page elements */
+  .mt-16 { margin-top: 0 !important; }
+  .mb-24 { margin-bottom: 0 !important; }
+
+  /* Optional: override theme-wide container */
+  .layout--single {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  /* Optional: center images manually if needed */
+  .img-center { text-align: center; }
 </style>
+
 
 <div class="mt-16"></div>
 
@@ -53,12 +87,9 @@ This paper studies how digital technologies alter household responsiveness to in
 </div> -->
 
 <div style="margin-top:10px; font-style:italic;">
-  <details>
-    <summary>Selected conferences and talks</summary>
     <p>
-      38th Australisian Finance and Banking Conference PhD Forum (2025), AFA PhD Session (2026)
+      Conferences and talks: 38th Australisian Finance and Banking Conference PhD Forum (2025), AFA PhD Session (2026)
     </p>
-  </details>
 </div>
 
 <h2 style="margin-top:40px;">Working Papers</h2>
@@ -80,10 +111,8 @@ This paper investigates how tax-planning strategies affect market liquidity and 
 </div> -->
 
 <div style="margin-top:10px; font-style:italic;">
-  <details>
-    <summary>Selected conferences and talks</summary>
     <p>
-      AFA PhD Session (2026); ABR-Fudan Conference (2025); IMF Workshop in Digital Money and Taxation (2025)*; Hawai’i Accounting Research Conference (2025)*;
+      Conferences and talks: AFA PhD Session (2026); ABR-Fudan Conference (2025); IMF Workshop in Digital Money and Taxation (2025)*; Hawai’i Accounting Research Conference (2025)*;
       Tokenomics Conference (2024)*; Waseda University Workshop on the Economics of Technology and Decentralization*;
       NUS; Cornell–Tsinghua Summer Finance Institute*; IESE Barcelona Tax Conference*;
       IC3 Blockchain Camp at Cornell Tech*; Finance and Accounting Annual Research Symposium*;
@@ -93,7 +122,6 @@ This paper investigates how tax-planning strategies affect market liquidity and 
       FeAT International Conference on AI*; Tsinghua University (SEM and PBC, 2024);
       Singapore FinTech Festival*; 14th FMCG Conference*; AI Global Finance Research Conference (Ho Chi Minh City, 2023).
     </p>
-  </details>
 </div>
 
 <div class="row" style="margin-top:30px;">
@@ -109,12 +137,9 @@ This paper investigates whether cryptocurrencies have become a new conduit for l
 </div> -->
 
 <div style="margin-top:10px; font-style:italic;">
-  <details>
-    <summary>Selected conferences and talks</summary>
     <p>
-    7th Sydney Market Microstructure and Digital Finance meeting (2025)
+    Conferences and talks: 7th Sydney Market Microstructure and Digital Finance meeting (2025)
     </p>
-  </details>
 </div>
 
 <h3 style="color:#000; margin-top:40px;">II. Fintech Lending</h3>
@@ -134,13 +159,10 @@ This paper examines the impact of credit data sharing among competitive banks of
 </div> -->
 
 <div style="margin-top:10px; font-style:italic;">
-  <details>
-    <summary>Selected conferences and talks</summary>
     <p>
-      29th International Conference on Computing in Economics and Finance (CEF), Nice (2023);
+      Conferences and talks: 29th International Conference on Computing in Economics and Finance (CEF), Nice (2023);
       Asian Meeting of the Econometric Society, Tsinghua University, Beijing (2023); NUS Economics Brownbag.
     </p>
-  </details>
 </div>
 
 <div style="margin-top:10px; font-style:italic; display:flex; justify-content:space-between; align-items:center; border-top:1px solid #ddd; padding-top:5px;">
