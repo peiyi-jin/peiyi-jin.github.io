@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Peiyi Jin (金沛宜)"
+title: "Peiyi Jin"
 layout: single
 excerpt: ""
 author_profile: true
