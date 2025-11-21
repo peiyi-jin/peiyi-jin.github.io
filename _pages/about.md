@@ -46,7 +46,7 @@ redirect_from:
 </div>
 <p><strong>Abstract:</strong><br>
 This paper studies how digital technologies alter household responsiveness to income shocks by increasing the salience of consumption. I evaluate a government-led intervention in Singapore that provides real-time energy usage feedback through a mobile app. Using proprietary banking transaction data and a staggered rollout design, I find that treated households reduce utility payments by approximately $21 per month. This reduction is not driven by price changes or liquidity constraints but by increased cognitive attention to consumption. The intervention also produces behavioral spillovers: households reduce spending on paper goods, carbon-intensive foods, and taxi rides. Untreated residents living near treated areas exhibit similar changes, suggesting that salience effects diffuse spatially. These findings challenge the Permanent Income Hypothesis by showing that visibility increases short-run consumption elasticity. The results have implications for monetary and fiscal policy design. Digital salience can raise marginal propensities to consume, especially among liquidity-constrained households, and may strengthen policy transmission in heterogeneous-agent macroeconomic models.
-</p> -->
+</p> 
 
 <div style="margin-top:10px; font-style:italic;">
     <p>
@@ -113,7 +113,7 @@ This paper investigates whether cryptocurrencies have become a new conduit for l
 </div>
 <p><strong>Abstract:</strong><br>
 This paper studies how privacy regulation reshapes credit market equilibria by altering the balance between ex-ante screening and ex-post monitoring. Exploiting Google’s 2019 ban on FinTech lenders’ access to Indian borrowers’ call detail records (CDR) in a regression discontinuity design, we show that loan applications rose by 4%, consistent with borrowers valuing privacy. At the same time, approval rates fell by 25% with no change in default risk, as lenders substituted away from CDR-based monitoring toward stricter upfront screening. The resulting exclusion was concentrated among new-to-credit, lower-income, younger, and socially disadvantaged borrowers. Tracking rejected applicants in credit bureau data, we find their probability of accessing formal credit fell by 4–5 percentage points even four years later. For lenders, lost profits amounted to roughly 30% of potential earnings. Together, these findings reveal a central trade-off of digital privacy regulation: while enhancing consumer welfare on the demand side, it can unintentionally deepen financial exclusion and reduce lender profitability on the supply side.
-</p> -->
+</p> 
 
 
 <!-- <div class="row">
@@ -128,7 +128,7 @@ This paper examines the impact of credit data sharing among competitive banks of
 
 <!-- <div class="img-center">
   <img src="/images/bank.png" alt="Cooperative Lending">
-</div> -->
+</div> 
 
 <!-- <div style="margin-top:10px; font-style:italic;">
     <p>
@@ -143,12 +143,12 @@ This paper examines the impact of credit data sharing among competitive banks of
     <a href="https://www.aidf.nus.edu.sg/" target="_blank" style="color:#008cba;">Asian Institute of Digital Finance, NUS</a> 
     ($120,000, PI: Sumit Agarwal)
   </div>
-</div> --> -->
+</div> 
 
 
 
 
-<!-- <h2 style="margin-top:40px;">Research Grant</h2> -->
+<!-- <h2 style="margin-top:40px;">Research Grant</h2> 
 <!-- <div class="row" style="margin-top:6px;">
   <span>Project: Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors</span>
   <span style="float:right;" class="muted">PI: Sumit Agarwal</span>
@@ -157,4 +157,4 @@ This paper examines the impact of credit data sharing among competitive banks of
 <div class="row">
   <span style="color:#008cba;">Asian Institute of Digital Finance, NUS ($120,000)</span>
   <span style="float:right;">2023 – 2025</span>
-</div> -->
+</div> 
