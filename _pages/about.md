@@ -48,33 +48,29 @@ redirect_from:
 This paper studies how digital technologies alter household responsiveness to income shocks by increasing the salience of consumption. I evaluate a government-led intervention in Singapore that provides real-time energy usage feedback through a mobile app. Using proprietary banking transaction data and a staggered rollout design, I find that treated households reduce utility payments by approximately $21 per month. This reduction is not driven by price changes or liquidity constraints but by increased cognitive attention to consumption. The intervention also produces behavioral spillovers: households reduce spending on paper goods, carbon-intensive foods, and taxi rides. Untreated residents living near treated areas exhibit similar changes, suggesting that salience effects diffuse spatially. These findings challenge the Permanent Income Hypothesis by showing that visibility increases short-run consumption elasticity. The results have implications for monetary and fiscal policy design. Digital salience can raise marginal propensities to consume, especially among liquidity-constrained households, and may strengthen policy transmission in heterogeneous-agent macroeconomic models.
 </p> -->
 
-<!-- <div class="img-center">
-  <img src="/images/app.png" alt="Consumption Not Less but Greener">
-</div> -->
-
-<!-- <div style="margin-top:10px; font-style:italic;">
+<div style="margin-top:10px; font-style:italic;">
     <p>
-      Conferences and talks: 38th Australisian Finance and Banking Conference PhD Forum (2025), AFA PhD Session (2026)
+    Conferences and talks: 38th Australisian Finance and Banking Conference (2025), AEA PhD Session (2026)
     </p>
 </div>
 
-<h2 style="margin-top:40px;">Working Papers</h2>
 
-<h3 style="color:#000; margin-top:20px;">I. Blockchain</h3>
+
+<h2 style="margin-top:40px;">Working Papers</h2>
 
 <div class="row">
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764605" target="_blank" rel="noopener noreferrer">
     Tax Planning, Illiquidity, and Credit Risks: Evidence from DeFi Lending
   </a>
-  <span style="float:right;">with Lisa De Simone (UT Austin), Daniel Rabetti (NUS)</span>
+  <span style="float:right;">
+    with Lisa De Simone (UT Austin), Daniel Rabetti (NUS)
+  </span>
 </div>
+
 <p><strong>Abstract:</strong><br>
 This paper investigates how tax-planning strategies affect market liquidity and credit risks in Decentralized Finance (DeFi) lending. Using an exogenous tax shock on cryptocurrency gains and millions of transactions, we show that tax-motivated borrowing to defer capital gains taxes significantly reduces liquidity—particularly among stablecoin borrowers, high loan-to-value borrowers, and those holding assets long-term. Instrumental variable estimates indicate that tax-induced illiquidity more than doubles defaulted loan values. Robustness checks confirm these effects among highly tax-sensitive borrowers. The findings highlight implications for market stability, tax revenue forecasts, and the regulation of digital asset taxation.
 </p>
 
-<!-- <div class="img-center">
-  <img src="/images/blockchain1.png" alt="DeFi Lending">
-</div> -->
 
 <div style="margin-top:10px; font-style:italic;">
     <p>
@@ -90,6 +86,8 @@ This paper investigates how tax-planning strategies affect market liquidity and 
     </p>
 </div>
 
+
+
 <div class="row" style="margin-top:30px;">
   <a href="#">Crypto Capture of Foreign Aid</a>
   <span style="float:right;">with Sumit Agarwal (NUS), Eswar Prasad (Cornell), Daniel Rabetti (NUS) <em>draft available upon request</em></span>
@@ -98,17 +96,14 @@ This paper investigates how tax-planning strategies affect market liquidity and 
 This paper investigates whether cryptocurrencies have become a new conduit for laundering diverted foreign aid. Using World Bank aid disbursement data from 2018 to 2024, linked with forensically tagged on-chain Bitcoin transactions and off-chain exchange activity, we document systematic surges in crypto transactions for anonymous wallets after disbursements, especially on exchanges located in tax-haven jurisdictions. A one-standard-deviation increase in lagged aid is associated with a 0.51 log-point rise in anonymous transactions on tax-haven exchanges—approximately a 66% increase—concentrated in newly created wallets and fading within two quarters. Network analysis reveals a real-time laundering pattern: funds flow through regulated platforms, then through mixers and tax-haven exchanges, mirroring the classic placement, layering, and integration stages. Off-chain data confirm spikes in transactions on suspect, lightly regulated platforms. To address endogeneity in aid allocation, we use an IV strategy based on historical aid shares interacted with governance quality. Overall, our findings suggest that cryptocurrencies are increasingly used for offshore banking in concealing aid diversion. Our study shows how blockchain forensics can trace hidden financial flows and offers new tools for anti-corruption and crypto regulation.
 </p>
 
-<!-- <div class="img-center">
-  <img src="/images/agg20.png" alt="Crypto Capture">
-</div> -->
 
 <div style="margin-top:10px; font-style:italic;">
     <p>
-    Conferences and talks: 7th Sydney Market Microstructure and Digital Finance meeting (2025), 38th Australisian Finance and Banking Conference PhD Forum (2025)
+    Conferences and talks: 38th Australisian Finance and Banking Conference (2025)
     </p>
 </div>
 
-<h3 style="color:#000; margin-top:40px;">II. Fintech Lending</h3>
+<!-- <h3 style="color:#000; margin-top:40px;">II. Fintech Lending</h3>
 
 <div class="row">
   <a href="https://drive.google.com/file/d/1QY0Ba49V9RbYpTz1cms9vca-3N3dRO-u/view" target="_blank" rel="noopener noreferrer">
@@ -118,10 +113,10 @@ This paper investigates whether cryptocurrencies have become a new conduit for l
 </div>
 <p><strong>Abstract:</strong><br>
 This paper studies how privacy regulation reshapes credit market equilibria by altering the balance between ex-ante screening and ex-post monitoring. Exploiting Google’s 2019 ban on FinTech lenders’ access to Indian borrowers’ call detail records (CDR) in a regression discontinuity design, we show that loan applications rose by 4%, consistent with borrowers valuing privacy. At the same time, approval rates fell by 25% with no change in default risk, as lenders substituted away from CDR-based monitoring toward stricter upfront screening. The resulting exclusion was concentrated among new-to-credit, lower-income, younger, and socially disadvantaged borrowers. Tracking rejected applicants in credit bureau data, we find their probability of accessing formal credit fell by 4–5 percentage points even four years later. For lenders, lost profits amounted to roughly 30% of potential earnings. Together, these findings reveal a central trade-off of digital privacy regulation: while enhancing consumer welfare on the demand side, it can unintentionally deepen financial exclusion and reduce lender profitability on the supply side.
-</p>
+</p> -->
 
 
-<div class="row">
+<!-- <div class="row">
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4463473" target="_blank" rel="noopener noreferrer">
     Credit Network and Data Sharing: An Evaluation of Cooperative Lending
   </a>
@@ -135,7 +130,7 @@ This paper examines the impact of credit data sharing among competitive banks of
   <img src="/images/bank.png" alt="Cooperative Lending">
 </div> -->
 
-<div style="margin-top:10px; font-style:italic;">
+<!-- <div style="margin-top:10px; font-style:italic;">
     <p>
       Conferences and talks: 29th International Conference on Computing in Economics and Finance (CEF), Nice (2023);
       Asian Meeting of the Econometric Society, Tsinghua University, Beijing (2023); NUS Economics Brownbag.
@@ -148,7 +143,7 @@ This paper examines the impact of credit data sharing among competitive banks of
     <a href="https://www.aidf.nus.edu.sg/" target="_blank" style="color:#008cba;">Asian Institute of Digital Finance, NUS</a> 
     ($120,000, PI: Sumit Agarwal)
   </div>
-</div>
+</div> --> -->
 
 
 
