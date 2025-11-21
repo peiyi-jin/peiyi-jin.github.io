@@ -1,0 +1,32 @@
+---
+layout: compress
+---
+
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    {{ content }}
+
+    <div class="page__footer">
+      <footer>
+        <a href='https://clustrmaps.com/site/1bv82'  title='Visit tracker' style="float: right;"><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=200&t=tt&d=qfrYhb0Ojh3iEd6nDjztt5hSqd_4Yk-4GBmUZeg80N4&co=2d78ad&ct=ffffff'/></a>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
+    </div>
+
+    {% include scripts.html %}
+
+  </body>
+</html>
