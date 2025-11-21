@@ -14,7 +14,8 @@ Research Grant
 
 <div class="row">
   <span style="color:#008cba;">Asian Institute of Digital Finance, NUS ($120,000)</span>
-  <span style="float:right;">2023 – 20
+  <span style="float:right;">2023 – 2025</span>
+</div>
 
 
 Teaching
