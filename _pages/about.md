@@ -34,7 +34,7 @@ redirect_from:
 I received my PhD from the Department of Economics at the National University of Singapore (NUS) in 2026. I will be joining DeCentre in Princeton University as a postdoc fellow.
 </p>
 
-<p class="mb-24"><strong>Research Interests:</strong> Decentralized market design and other topics related to technology in financial market.</p>
+<p class="mb-24"><strong>Research Interests:</strong> Decentralized market design and other technology-related topics in financial markets.</p>
 
 
 
@@ -101,7 +101,11 @@ borrowing of the same tokens to monetize their needs and defer tax payment. This
 This paper studies the consequences of privacy regulation by exploiting Google’s 2019 restriction on CDR access for a major Indian FinTech lender. We show that this intervention reflects a key policy trade-off in digital credit markets: strengthened privacy protections raise loan applications, consistent with higher demand, yet simultaneously induce tighter screening, reflecting an overall contraction in credit supply. This credit contraction disproportionately excludes economically and socially marginalized applicants. Linking to economy-wide credit bureau records, we quantify the "FinTech ladder effect" whereby initial digital credit access serves as a gateway to broader formal credit. Privacy-induced rejection reduces the probability of obtaining any formal credit by 13.7 percentage points even four years later. Using a structural model, we decompose the welfare effects of privacy regulation and show that the regulation generates a 0.53% increase in consumer surplus and reduces lender profits by 15%.
 </p>
 
-
+<div style="margin-top:10px; font-style:italic;">
+    <p>
+    Conferences and talks: MFA (2026)
+    </p>
+</div>
 
 
 
