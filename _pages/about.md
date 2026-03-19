@@ -111,7 +111,7 @@ This paper studies the consequences of privacy regulation by exploiting Googleâ€
 
 <div class="row">
   <a href="#">Digital Salience and Consumption Elasticity: Evidence from a Real-Time Feedback Intervention</a>
-  <span style="float:right;"><em>solo, draft available upon request</em></span>
+  <span style="float:right;"><em>draft available upon request</em></span>
 </div>
 <p><strong>Abstract:</strong><br>
 This paper studies how digital technologies alter household responsiveness to income shocks by increasing the salience of consumption. I evaluate a government-led intervention in Singapore that provides real-time energy usage feedback through a mobile app. Using proprietary banking transaction data and a staggered rollout design, I find that treated households reduce utility payments by approximately $21 per month. This reduction is not driven by price changes or liquidity constraints but by increased cognitive attention to consumption. The intervention also produces behavioral spillovers: households reduce spending on paper goods, carbon-intensive foods, and taxi rides. Untreated residents living near treated areas exhibit similar changes, suggesting that salience effects diffuse spatially. These findings challenge the Permanent Income Hypothesis by showing that visibility increases short-run consumption elasticity. The results have implications for monetary and fiscal policy design. Digital salience can raise marginal propensities to consume, especially among liquidity-constrained households, and may strengthen policy transmission in heterogeneous-agent macroeconomic models.
