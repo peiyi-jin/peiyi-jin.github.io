@@ -31,36 +31,35 @@ redirect_from:
 <p>Welcome to my website!</p>
 
 <p>
-  I'm a Ph.D. candidate in the Department of Economics at National University of Singapore (NUS),
-  currently on the 2025/26 academic job market. I'm supervised by
-  Prof. <a href="https://www.ushakrisna.com/" target="_blank" rel="noopener noreferrer">Sumit Agarwal</a>.
+I received my PhD from the Department of Economics at the National University of Singapore (NUS) in 2026. I will be joining DeCentre in Princeton University as a postdoc fellow.
 </p>
 
-<p class="mb-24"><strong>Research Interests:</strong> Fintech, Digital Economy, and Household Finance.</p>
-
-<h2>Job Market Paper</h2>
-
-<div class="row">
-  <a href="#">Digital Salience and Consumption Elasticity: Evidence from a Real-Time Feedback Intervention</a>
-  <span style="float:right;"><em>solo, draft available upon request</em></span>
-</div>
-<p><strong>Abstract:</strong><br>
-This paper studies how digital technologies alter household responsiveness to income shocks by increasing the salience of consumption. I evaluate a government-led intervention in Singapore that provides real-time energy usage feedback through a mobile app. Using proprietary banking transaction data and a staggered rollout design, I find that treated households reduce utility payments by approximately $21 per month. This reduction is not driven by price changes or liquidity constraints but by increased cognitive attention to consumption. The intervention also produces behavioral spillovers: households reduce spending on paper goods, carbon-intensive foods, and taxi rides. Untreated residents living near treated areas exhibit similar changes, suggesting that salience effects diffuse spatially. These findings challenge the Permanent Income Hypothesis by showing that visibility increases short-run consumption elasticity. The results have implications for monetary and fiscal policy design. Digital salience can raise marginal propensities to consume, especially among liquidity-constrained households, and may strengthen policy transmission in heterogeneous-agent macroeconomic models.
-</p> 
-
-<div style="margin-top:10px; font-style:italic;">
-    <p>
-    Conferences and talks: 38th Australisian Finance and Banking Conference (2025), AEA PhD Session (2026)
-    </p>
-</div>
+<p class="mb-24"><strong>Research Interests:</strong> Decentralized market design and other topics related to technology in financial market.</p>
 
 
 
 <h2 style="margin-top:40px;">Working Papers</h2>
 
+
+<div class="row" style="margin-top:30px;">
+  <a href="#">Crypto Capture of Foreign Aid</a>
+  <span style="float:right;">with Sumit Agarwal (NUS), Eswar Prasad (Cornell), Daniel Rabetti (NUS) <em>draft available upon request</em></span>
+</div>
+<p><strong>Abstract:</strong><br>
+This paper investigates whether cryptocurrencies have become a new conduit for laundering diverted foreign aid. Using World Bank aid disbursement data from 2018 to 2024, linked with forensically tagged on-chain Bitcoin transactions and off-chain exchange activity, we document systematic surges in crypto transactions for anonymous wallets after disbursements, especially on exchanges located in tax-haven jurisdictions. A one-standard-deviation increase in lagged aid is associated with a 0.51 log-point rise in anonymous transactions on tax-haven exchanges—approximately a 66% increase—concentrated in newly created wallets and fading within two quarters. Network analysis reveals a real-time laundering pattern: funds flow through regulated platforms, then through mixers and tax-haven exchanges, mirroring the classic placement, layering, and integration stages. Off-chain data confirm spikes in transactions on suspect, lightly regulated platforms. To address endogeneity in aid allocation, we use an IV strategy based on historical aid shares interacted with governance quality. Overall, our findings suggest that cryptocurrencies are increasingly used for offshore banking in concealing aid diversion. Our study shows how blockchain forensics can trace hidden financial flows and offers new tools for anti-corruption and crypto regulation.
+</p>
+
+
+<div style="margin-top:10px; font-style:italic;">
+    <p>
+    Conferences and talks: ABFER (scheduled, 2026), MFA (2026), 38th Australisian Finance and Banking Conference (2025)
+    </p>
+</div>
+
+
 <div class="row">
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764605" target="_blank" rel="noopener noreferrer">
-    Tax Planning, Illiquidity, and Credit Risks: Evidence from DeFi Lending
+    Tax-Motivated Borrowing and Default Risk in Decentralized Lending
   </a>
   <span style="float:right;">
     with Lisa De Simone (UT Austin), Daniel Rabetti (NUS)
@@ -68,7 +67,9 @@ This paper studies how digital technologies alter household responsiveness to in
 </div>
 
 <p><strong>Abstract:</strong><br>
-This paper investigates how tax-planning strategies affect market liquidity and credit risks in Decentralized Finance (DeFi) lending. Using an exogenous tax shock on cryptocurrency gains and millions of transactions, we show that tax-motivated borrowing to defer capital gains taxes significantly reduces liquidity—particularly among stablecoin borrowers, high loan-to-value borrowers, and those holding assets long-term. Instrumental variable estimates indicate that tax-induced illiquidity more than doubles defaulted loan values. Robustness checks confirm these effects among highly tax-sensitive borrowers. The findings highlight implications for market stability, tax revenue forecasts, and the regulation of digital asset taxation.
+Exploiting an exogenous tax reporting shock imposed on cryptocurrency gains and millions of DeFi transactions,
+we identify a borrow up, trade down strategy whereby U.S. traders reduce taxable trading and increase
+borrowing of the same tokens to monetize their needs and defer tax payment. This substitution effect is particularly pronounced among borrowers with higher loan-to-value ratios and higher returns. We show that when adopted at scale, tax considerations reduce trading activity and market depth, generating what we term tax-planning-induced illiquidity. We establish a causal link between this illiquidity and heightened credit risk. A one-standard-deviation increase in tax-induced illiquidity more than doubles the value of defaulted loans, with broader implications for financial stability in decentralized lending markets. Results are robust to multiple checks, including highly taxsensitive borrowers, validation against tax-awareness periods, and alternative proxies for U.S. traders.
 </p>
 
 
@@ -87,18 +88,33 @@ This paper investigates how tax-planning strategies affect market liquidity and 
 </div>
 
 
-
-<div class="row" style="margin-top:30px;">
-  <a href="#">Crypto Capture of Foreign Aid</a>
-  <span style="float:right;">with Sumit Agarwal (NUS), Eswar Prasad (Cornell), Daniel Rabetti (NUS) <em>draft available upon request</em></span>
+<div class="row">
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6435099" target="_blank" rel="noopener noreferrer">
+    When Privacy Protects but Excludes: The Costs and Benefits of Privacy Regulation in Credit Markets
+  </a>
+  <span style="float:right;">
+    Sumit Agarwal (NUS), Pulak Ghosh (IIM Bangalore), Peiyi Jin (NUS), Shohini Kundu (UCLA), Nishant Vats (WashU), Xinbo Wang (NUS), Yingze Xu (WashU)
+  </span>
 </div>
+
 <p><strong>Abstract:</strong><br>
-This paper investigates whether cryptocurrencies have become a new conduit for laundering diverted foreign aid. Using World Bank aid disbursement data from 2018 to 2024, linked with forensically tagged on-chain Bitcoin transactions and off-chain exchange activity, we document systematic surges in crypto transactions for anonymous wallets after disbursements, especially on exchanges located in tax-haven jurisdictions. A one-standard-deviation increase in lagged aid is associated with a 0.51 log-point rise in anonymous transactions on tax-haven exchanges—approximately a 66% increase—concentrated in newly created wallets and fading within two quarters. Network analysis reveals a real-time laundering pattern: funds flow through regulated platforms, then through mixers and tax-haven exchanges, mirroring the classic placement, layering, and integration stages. Off-chain data confirm spikes in transactions on suspect, lightly regulated platforms. To address endogeneity in aid allocation, we use an IV strategy based on historical aid shares interacted with governance quality. Overall, our findings suggest that cryptocurrencies are increasingly used for offshore banking in concealing aid diversion. Our study shows how blockchain forensics can trace hidden financial flows and offers new tools for anti-corruption and crypto regulation.
+This paper studies the consequences of privacy regulation by exploiting Google’s 2019 restriction on CDR access for a major Indian FinTech lender. We show that this intervention reflects a key policy trade-off in digital credit markets: strengthened privacy protections raise loan applications, consistent with higher demand, yet simultaneously induce tighter screening, reflecting an overall contraction in credit supply. This credit contraction disproportionately excludes economically and socially marginalized applicants. Linking to economy-wide credit bureau records, we quantify the "FinTech ladder effect" whereby initial digital credit access serves as a gateway to broader formal credit. Privacy-induced rejection reduces the probability of obtaining any formal credit by 13.7 percentage points even four years later. Using a structural model, we decompose the welfare effects of privacy regulation and show that the regulation generates a 0.53% increase in consumer surplus and reduces lender profits by 15%.
 </p>
 
 
+
+
+
+<div class="row">
+  <a href="#">Digital Salience and Consumption Elasticity: Evidence from a Real-Time Feedback Intervention</a>
+  <span style="float:right;"><em>solo, draft available upon request</em></span>
+</div>
+<p><strong>Abstract:</strong><br>
+This paper studies how digital technologies alter household responsiveness to income shocks by increasing the salience of consumption. I evaluate a government-led intervention in Singapore that provides real-time energy usage feedback through a mobile app. Using proprietary banking transaction data and a staggered rollout design, I find that treated households reduce utility payments by approximately $21 per month. This reduction is not driven by price changes or liquidity constraints but by increased cognitive attention to consumption. The intervention also produces behavioral spillovers: households reduce spending on paper goods, carbon-intensive foods, and taxi rides. Untreated residents living near treated areas exhibit similar changes, suggesting that salience effects diffuse spatially. These findings challenge the Permanent Income Hypothesis by showing that visibility increases short-run consumption elasticity. The results have implications for monetary and fiscal policy design. Digital salience can raise marginal propensities to consume, especially among liquidity-constrained households, and may strengthen policy transmission in heterogeneous-agent macroeconomic models.
+</p> 
+
 <div style="margin-top:10px; font-style:italic;">
     <p>
-    Conferences and talks: 38th Australisian Finance and Banking Conference (2025)
+    Conferences and talks: AEA PhD Session (2026), 38th Australisian Finance and Banking Conference (2025)
     </p>
 </div>
