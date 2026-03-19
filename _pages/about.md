@@ -31,10 +31,9 @@ redirect_from:
 <p>Welcome to my website!</p>
 
 <p>
-I received my PhD from the Department of Economics at the National University of Singapore (NUS) in 2026. I will be joining DeCentre in Princeton University as a postdoc fellow.
+My research focuses on decentralized market design and other technology-related topics in financial markets. I received my PhD in Economics from the National University of Singapore (NUS) in 2026, and I will be joining DeCentre at Princeton University as a postdoctoral fellow.
 </p>
 
-<p class="mb-24"><strong>Research Interests:</strong> Decentralized market design and other technology-related topics in financial markets.</p>
 
 
 
