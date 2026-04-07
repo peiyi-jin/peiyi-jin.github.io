@@ -92,7 +92,7 @@ redirect_from:
 <p>Welcome to my website!</p>
 
 <p>
-My research focuses on decentralized market design and other technology-related topics in financial markets. I will be joining DeCentre at Princeton University as a postdoctoral research fellow.
+My research focuses on decentralized market design and other technology-related topics in financial markets. I will be joining DeCenter at Princeton University as a postdoctoral research fellow.
 </p>
 
 <p>
