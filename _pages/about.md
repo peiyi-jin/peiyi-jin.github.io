@@ -105,7 +105,7 @@ I received my PhD in Economics from the National University of Singapore (NUS) i
   <div class="row">
         <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5869682" target="_blank" rel="noopener noreferrer" class="paper-title">
     Crypto Capture of Foreign Aid</a>
-    <span class="paper-coauthors">with Sumit Agarwal (NUS), Eswar Prasad (Cornell), Daniel Rabetti (NUS) <em>draft available upon request</em></span>
+    <span class="paper-coauthors">with Sumit Agarwal, Eswar Prasad, Daniel Rabetti <em>draft available upon request</em></span>
   </div>
 
   <details class="paper-details">
@@ -128,7 +128,7 @@ I received my PhD in Economics from the National University of Singapore (NUS) i
       Tax-Motivated Borrowing and Default Risk in Decentralized Lending
     </a>
     <span class="paper-coauthors">
-      with Lisa De Simone (UT Austin), Daniel Rabetti (NUS)
+      with Lisa De Simone, Daniel Rabetti
     </span>
   </div>
 
@@ -152,7 +152,7 @@ I received my PhD in Economics from the National University of Singapore (NUS) i
       When Privacy Protects but Excludes: The Costs and Benefits of Privacy Regulation in Credit Markets
     </a>
     <span class="paper-coauthors">
-      with Sumit Agarwal (NUS), Pulak Ghosh (IIM Bangalore), Shohini Kundu (UCLA), Nishant Vats (WashU), Xinbo Wang (NUS), Yingze Xu (WashU)
+      with Sumit Agarwal, Pulak Ghosh, Shohini Kundu, Nishant Vats, Xinbo Wang, Yingze Xu
     </span>
   </div>
 
