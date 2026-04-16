@@ -103,7 +103,8 @@ I received my PhD in Economics from the National University of Singapore (NUS) i
 
 <div class="paper-item">
   <div class="row">
-    <a href="#" class="paper-title">Crypto Capture of Foreign Aid</a>
+        <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5869682" target="_blank" rel="noopener noreferrer" class="paper-title">
+    Crypto Capture of Foreign Aid</a>
     <span class="paper-coauthors">with Sumit Agarwal (NUS), Eswar Prasad (Cornell), Daniel Rabetti (NUS) <em>draft available upon request</em></span>
   </div>
 
@@ -172,7 +173,7 @@ I received my PhD in Economics from the National University of Singapore (NUS) i
 <div class="paper-item">
   <div class="row">
     <a href="#" class="paper-title">Digital Salience and Consumption Elasticity: Evidence from a Real-Time Feedback Intervention</a>
-    <span class="paper-coauthors"><em>draft available upon request</em></span>
+    <span class="paper-coauthors"><em>solo, slides available upon request</em></span>
   </div>
 
   <details class="paper-details">
