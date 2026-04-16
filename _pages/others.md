@@ -55,9 +55,9 @@ Teaching
 
 
 
-<div style="margin-top: 30px; text-align: center;">
+<!-- <div style="margin-top: 30px; text-align: center;">
   <img src="/images/ja.png" alt="JA Workshop" style="max-width: 450px; height: auto;">
-</div>
+</div> -->
 
 
   <div style="margin-top:40px;"></div>
