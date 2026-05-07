@@ -35,6 +35,13 @@ redirect_from:
     font-size: 0.95em;
   }
 
+  .request-note {
+    margin-left: auto;
+    white-space: nowrap;
+    font-size: 0.95em;
+    font-style: italic;
+  }
+
   .paper-item {
     margin-top: 28px;
     margin-bottom: 28px;
@@ -174,7 +181,7 @@ I received my PhD in Economics from the National University of Singapore (NUS) i
 <div class="paper-item">
   <div class="row">
     <a href="#" class="paper-title">Digital Salience and Consumption Elasticity: Evidence from a Real-Time Feedback Intervention</a>
-    <span class="paper-coauthors"><em>solo, slides available upon request</em></span>
+    <span class="request-note">solo, slides available upon request</span>
   </div>
 
   <details class="paper-details">
@@ -195,7 +202,8 @@ I received my PhD in Economics from the National University of Singapore (NUS) i
 <div class="paper-item">
   <div class="row">
     <a href="#" class="paper-title">Non-cognitive Development and Peer Effects: Experimental Evidence from Chinese Rural Boarding School Students</a>
-    <span class="paper-coauthors">with Yue Li <em>slides available upon request</em></span>
+    <span class="paper-coauthors">with Yue Li</span>
+    <span class="request-note">slides available upon request</span>
   </div>
 
   <details class="paper-details">
