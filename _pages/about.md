@@ -53,7 +53,7 @@ redirect_from:
     border: 1px solid #ddd;
     border-radius: 8px;
     padding: 14px;
-    background: #fff;
+    background: #f6f6f6;
   }
 
   .paper-details {
@@ -80,7 +80,7 @@ redirect_from:
 
   .paper-details-content {
     padding: 14px;
-    background: #fff;
+    background: transparent;
   }
 
   .paper-details-content p {
