@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 # Site Settings
 locale                   : "en-US"
-title: "Peiyi Jin - Economics"
+title: "Research - Peiyi Jin"
 title_separator: ""
 name: ""
 description: "Ph.D. Candidate in Economics, National University of Singapore (NUS). On the 2025/26 academic job market."
@@ -78,7 +78,7 @@ author:
   avatar           : "portrait_biz.jpg"
   bio              : " Econ Ph.D. (NUS)"
   location         : "Singapore"
-  employer         : "National University of Singapore"
+  # employer         : "National University of Singapore"
     
     
   
