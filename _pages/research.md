@@ -129,8 +129,6 @@ author_profile: true
   }
 </style>
 
-<h2 style="margin-top:24px;">Working Papers</h2>
-
 <div class="paper-item">
   <div class="row">
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5869682" target="_blank" rel="noopener noreferrer" class="paper-title">
