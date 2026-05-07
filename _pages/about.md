@@ -40,6 +40,12 @@ redirect_from:
     text-align: right;
   }
 
+  .paper-coauthors--left {
+    margin-left: 0;
+    text-align: left;
+    flex-basis: 100%;
+  }
+
   .request-note {
     margin-left: auto;
     white-space: nowrap;
@@ -70,12 +76,12 @@ redirect_from:
     padding: 10px 14px;
     font-weight: 600;
     list-style: revert;
-    background: #f7f7f7;
-    border-radius: 6px;
+    background: transparent;
+    border-radius: 0;
   }
 
   .paper-details summary:hover {
-    background: #ececec;
+    background: transparent;
   }
 
   .paper-details-content {
@@ -212,7 +218,7 @@ I received my PhD in Economics from the National University of Singapore (NUS) i
 <div class="paper-item">
   <div class="row">
     <a href="#" class="paper-title">Non-cognitive Development and Peer Effects: Experimental Evidence from Chinese Rural Boarding School Students</a>
-    <span class="paper-coauthors">with Yue Li, slides available upon request</span>
+    <span class="paper-coauthors paper-coauthors--left">with Yue Li, slides available upon request</span>
   </div>
 
   <details class="paper-details">
