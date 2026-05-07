@@ -25,6 +25,14 @@
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
+      {% if author.institution %}
+        <li>
+          <img src="{{ base_path }}/images/institution-icon.png"
+               alt=""
+               style="width: 1.25em; height: 1.25em; vertical-align: middle; margin-right: 0.4em;">
+          {{ author.institution }}
+        </li>
+      {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}

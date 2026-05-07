@@ -2,7 +2,7 @@
 
 <!-- begin SEO -->
 {% if site.url %}
-  {% assign seo_url = site.url | append: site.baseurl %}
+{% assign _seo_site_title = site.title | default: site.author.name | default: site.name %}
 {% endif %}
 {% assign seo_url = seo_url | default: site.github.url %}
 {% assign _seo_site_title = site.author.name | default: site.name | default: site.title %}
