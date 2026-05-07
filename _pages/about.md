@@ -60,7 +60,7 @@ redirect_from:
     border: 1px solid #ddd;
     border-radius: 8px;
     padding: 14px;
-    background: #f6f6f6;
+    background: #fbfbfb;
   }
 
   .paper-details {
