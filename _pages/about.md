@@ -161,11 +161,3 @@ My research focuses on decentralized market design, household finance, and techn
 <p>
 I received my PhD in Economics from the National University of Singapore (NUS) in 2026. Prior to that, I obtained my Bachelor's degree in Financial Engineering from the Southwestern University of Finance and Economics in 2020.
 </p>
-
-<p>
-You can find my CV here (<a href="/files/PeiyiJin_NUS_2026.pdf" target="_blank" rel="noopener noreferrer">click CV to download my CV pdf</a>).
-</p>
-
-<p>
-Working papers are available on the <a href="/research/">Research page</a>.
-</p>
