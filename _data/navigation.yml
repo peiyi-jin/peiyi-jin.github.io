@@ -17,10 +17,13 @@ main:
     
   - title: "CV"
     url: /files/PeiyiJin_NUS_2026.pdf
+
+  - title: "Research"
+    url: /research/
     
 #   - title: "Guide"
 #     url: /markdown/
     
   - title: "Others"
-    url: "/others/"
+    url: "/teaching-service/"
 
