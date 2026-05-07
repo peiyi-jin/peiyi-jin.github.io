@@ -105,7 +105,7 @@ I received my PhD in Economics from the National University of Singapore (NUS) i
   <div class="row">
         <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5869682" target="_blank" rel="noopener noreferrer" class="paper-title">
     Crypto Capture of Foreign Aid</a>
-    <span class="paper-coauthors">with Sumit Agarwal, Eswar Prasad, Daniel Rabetti <em>draft available upon request</em></span>
+    <span class="paper-coauthors">with Sumit Agarwal, Eswar Prasad, Daniel Rabetti</span>
   </div>
 
   <details class="paper-details">
@@ -116,11 +116,12 @@ I received my PhD in Economics from the National University of Singapore (NUS) i
       </p>
 
       <p class="conference-info">
-      Conferences and talks: ABFER (scheduled, 2026), MFA (2026), 38th Australasian Finance and Banking Conference (2025)
+      ABFER (2026), MFA (2026), 38th Australasian Finance and Banking Conference (2025)
       </p>
     </div>
   </details>
 </div>
+
 
 <div class="paper-item">
   <div class="row">
@@ -140,7 +141,7 @@ I received my PhD in Economics from the National University of Singapore (NUS) i
       </p>
 
       <p class="conference-info">
-      Conferences and talks: AFA PhD Session (2026); ABR-Fudan Conference (2025); IMF Workshop in Digital Money and Taxation (2025)*; Hawai’i Accounting Research Conference (2025)*; Tokenomics Conference (2024)*; Waseda University Workshop on the Economics of Technology and Decentralization*; NUS; Cornell–Tsinghua Summer Finance Institute*; IESE Barcelona Tax Conference*; IC3 Blockchain Camp at Cornell Tech*; Finance and Accounting Annual Research Symposium*; Research Symposium on Finance and Economics*; Bank of Finland; European Systemic Risk Board*; Swiss National Bank Conference on Cryptoassets and Financial Innovation*; Euroasia Conference*; Hong Kong University Summer Conference*; Bank of Japan*; FeAT International Conference on AI*; Tsinghua University (SEM and PBC, 2024); Singapore FinTech Festival*; 14th FMCG Conference*; AI Global Finance Research Conference (Ho Chi Minh City, 2023).
+      AFA PhD Session (2026); ABR-Fudan Conference (2025); IMF Workshop in Digital Money and Taxation (2025)*; Hawai’i Accounting Research Conference (2025)*; Tokenomics Conference (2024)*; Waseda University Workshop on the Economics of Technology and Decentralization*; NUS; Cornell–Tsinghua Summer Finance Institute*; IESE Barcelona Tax Conference*; IC3 Blockchain Camp at Cornell Tech*; Finance and Accounting Annual Research Symposium*; Research Symposium on Finance and Economics*; Bank of Finland; European Systemic Risk Board*; Swiss National Bank Conference on Cryptoassets and Financial Innovation*; Euroasia Conference*; Hong Kong University Summer Conference*; Bank of Japan*; FeAT International Conference on AI*; Tsinghua University (SEM and PBC, 2024); Singapore FinTech Festival*; 14th FMCG Conference*; AI Global Finance Research Conference (Ho Chi Minh City, 2023).
       </p>
     </div>
   </details>
@@ -164,7 +165,7 @@ I received my PhD in Economics from the National University of Singapore (NUS) i
       </p>
 
       <p class="conference-info">
-      Conferences and talks: MFA (2026)
+      EFA (2026 scheduled), WEFIDEV-RFS-CEPR (2026)*, MFA (2026)*
       </p>
     </div>
   </details>
@@ -184,7 +185,28 @@ I received my PhD in Economics from the National University of Singapore (NUS) i
       </p>
 
       <p class="conference-info">
-      Conferences and talks: AEA PhD Session (2026), 38th Australasian Finance and Banking Conference (2025)
+      CAERE (2026), AEA PhD Session (2026), 38th Australasian Finance and Banking Conference (2025)
+      </p>
+    </div>
+  </details>
+</div>
+
+
+<div class="paper-item">
+  <div class="row">
+    <a href="#" class="paper-title">Non-cognitive Development and Peer Effects: Experimental Evidence from Chinese Rural Boarding School Students</a>
+    <span class="paper-coauthors">with Yue Li <em>slides available upon request</em></span>
+  </div>
+
+  <details class="paper-details">
+    <summary>Abstract and conferences</summary>
+    <div class="paper-details-content">
+      <p><strong>Abstract:</strong><br>
+      This paper evaluates the direct and spillover effects of a low-cost, scalable intervention—audio bedtime stories—on non-cognitive skill development among rural boarding school students in China. Using a randomized controlled trial (RCT), we analyze data from 63 schools, where boarding students were exposed to bedtime stories broadcast through dormitory speakers. This design isolates treated students from untreated day students in the same classroom, allowing for robust identification of peer effects in non-cognitive skill transmission. The results show significant positive effects on treated students, with larger gains for those with day-student friends and larger friendship networks. Spillover effects on untreated day students were primarily driven by those with boarding friends, highlighting the critical role of peer networks in the transmission of non-cognitive skills. We use the characteristics of peers’ peers but not direct peers to instrument peer resilience and self-esteem. Interacting with the treatment in the human capital production function, we will know how peers’ outcomes affect one’s own outcome and how the treatment changes the production function.
+      </p>
+
+      <p class="conference-info">
+      RES 2025 (Birmingham)*, Janeway Institute PhD Workshop 2025 (Cambridge)*, SOLE 2024 (Oregon)*, EAYE 2024 (Paris)*
       </p>
     </div>
   </details>
