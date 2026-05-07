@@ -50,15 +50,19 @@ redirect_from:
   .paper-item {
     margin-top: 28px;
     margin-bottom: 28px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 14px;
+    background: #fff;
   }
 
   .paper-details {
     margin-top: 10px;
-    border: 1px solid #ddd;
-    border-radius: 6px;
+    border: 0;
+    border-radius: 0;
     padding: 0;
     overflow: hidden;
-    background: #fafafa;
+    background: transparent;
   }
 
   .paper-details summary {
@@ -66,7 +70,8 @@ redirect_from:
     padding: 10px 14px;
     font-weight: 600;
     list-style: revert;
-    background: #f3f3f3;
+    background: #f7f7f7;
+    border-radius: 6px;
   }
 
   .paper-details summary:hover {
