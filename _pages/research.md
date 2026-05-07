@@ -89,6 +89,19 @@ author_profile: true
     margin-bottom: 0;
   }
 
+  .theme-heading {
+    margin-top: 28px;
+    margin-bottom: 6px;
+    color: #1F2D5C;
+    font-weight: 700;
+  }
+
+  .theme-note {
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: #444;
+  }
+
   @media (max-width: 768px) {
     .page {
       padding-left: 1rem !important;
@@ -128,6 +141,9 @@ author_profile: true
     }
   }
 </style>
+
+<h3 class="theme-heading">Theme 1: Crypto and Decentralized Finance</h3>
+<p class="theme-note">crypto, illicit flows, anti-corruption; DeFi, taxation, credit risk</p>
 
 <div class="paper-item">
   <div class="row">
@@ -175,6 +191,9 @@ author_profile: true
   </details>
 </div>
 
+<h3 class="theme-heading">Theme 2: Digital Markets and Household Behavior</h3>
+<p class="theme-note">FinTech, privacy regulation, credit access; household finance, behavioral, digital intervention</p>
+
 <div class="paper-item">
   <div class="row">
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6435099" target="_blank" rel="noopener noreferrer" class="paper-title">
@@ -218,6 +237,9 @@ author_profile: true
     </div>
   </details>
 </div>
+
+<h3 class="theme-heading">Theme 3: Education and Development</h3>
+<p class="theme-note">non-cognitive development, peer effects, education intervention</p>
 
 <div class="paper-item">
   <div class="row">
