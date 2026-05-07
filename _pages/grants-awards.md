@@ -13,7 +13,7 @@ Research Grant
 </div>
 
 <div class="row">
-  <span style="color:#0033A0;">Asian Institute of Digital Finance, NUS ($120,000)</span>
+  <span style="color:#1F2D5C;">Asian Institute of Digital Finance, NUS ($120,000)</span>
   <span style="float:right;">2023 – 2025</span>
 </div>
 
@@ -23,7 +23,7 @@ Awards
 ======
 
 <div style="overflow:auto;">
-  <span style="color:#0033A0;">Research Scholarship</span>
+  <span style="color:#1F2D5C;">Research Scholarship</span>
   <div style="float:right; text-align:right;">
     Department of Economics, NUS<br>
     2024 – 2025
@@ -31,7 +31,7 @@ Awards
 </div>
 
 <div style="overflow:auto;">
-  <span style="color:#0033A0;">Research Scholarship</span>
+  <span style="color:#1F2D5C;">Research Scholarship</span>
   <div style="float:right; text-align:right;">
     Ministry of Education (MOE), Singapore<br>
     2020 – 2024
@@ -39,7 +39,7 @@ Awards
 </div>
 
 <div style="overflow:auto;">
-  <span style="color:#0033A0;">Undergraduate Exchange Scholarship</span>
+  <span style="color:#1F2D5C;">Undergraduate Exchange Scholarship</span>
   <div style="float:right; text-align:right;">
     SWUFE<br>
     2020
@@ -47,7 +47,7 @@ Awards
 </div>
 
 <div style="overflow:auto;">
-  <span style="color:#0033A0;">Outstanding Undergraduate Exchange Student</span>
+  <span style="color:#1F2D5C;">Outstanding Undergraduate Exchange Student</span>
   <div style="float:right; text-align:right;">
     China Scholarship Council (CSC)<br>
     2018 – 2019
@@ -55,7 +55,7 @@ Awards
 </div>
 
 <div style="overflow:auto;">
-  <span style="color:#0033A0;">Academic Scholarship</span>
+  <span style="color:#1F2D5C;">Academic Scholarship</span>
   <div style="float:right; text-align:right;">
     SWUFE<br>
     2017 – 2018
