@@ -57,6 +57,21 @@
     background: #fff;
   }
 
+  .author__avatar,
+  .author__avatar img {
+    border-radius: 0 !important;
+  }
+
+  .author__avatar {
+    max-width: 260px;
+  }
+
+  .author__avatar img {
+    width: 260px;
+    max-width: 100%;
+    height: auto;
+  }
+
   @media (max-width: 768px) {
     .page {
       padding-left: 1rem !important;
@@ -75,6 +90,14 @@
 
     .author__urls li {
       line-height: 1.5;
+    }
+
+    .author__avatar {
+      max-width: 220px;
+    }
+
+    .author__avatar img {
+      width: 220px;
     }
 
     .page__content div[style*="overflow:auto"] {

@@ -29,6 +29,13 @@ redirect_from:
 
   .paper-title {
     font-weight: 600;
+    color: #000 !important;
+  }
+
+  .paper-title:visited,
+  .paper-title:hover,
+  .paper-title:active {
+    color: #000 !important;
   }
 
   .paper-coauthors {
