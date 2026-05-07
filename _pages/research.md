@@ -96,12 +96,6 @@ author_profile: true
     font-weight: 700;
   }
 
-  .theme-note {
-    margin-top: 0;
-    margin-bottom: 10px;
-    color: #444;
-  }
-
   @media (max-width: 768px) {
     .page {
       padding-left: 1rem !important;
@@ -143,7 +137,6 @@ author_profile: true
 </style>
 
 <h3 class="theme-heading">Theme 1: Crypto and Decentralized Finance</h3>
-<p class="theme-note">crypto, illicit flows, anti-corruption; DeFi, taxation, credit risk</p>
 
 <div class="paper-item">
   <div class="row">
@@ -192,7 +185,6 @@ author_profile: true
 </div>
 
 <h3 class="theme-heading">Theme 2: Digital Markets and Household Behavior</h3>
-<p class="theme-note">FinTech, privacy regulation, credit access; household finance, behavioral, digital intervention</p>
 
 <div class="paper-item">
   <div class="row">
@@ -239,7 +231,6 @@ author_profile: true
 </div>
 
 <h3 class="theme-heading">Theme 3: Education and Development</h3>
-<p class="theme-note">non-cognitive development, peer effects, education intervention</p>
 
 <div class="paper-item">
   <div class="row">
