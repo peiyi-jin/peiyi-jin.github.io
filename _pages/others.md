@@ -5,22 +5,6 @@ layout: single
 author_profile: true
 ---
 
-Research Grant
-======
-<div class="row" style="margin-top:6px;">
-  <span>Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors</span>
-  <span style="float:right;" class="muted">PI: Sumit Agarwal</span>
-</div>
-
-<div class="row">
-  <span style="color:#008cba;">Asian Institute of Digital Finance, NUS ($120,000)</span>
-  <span style="float:right;">2023 – 2025</span>
-</div>
-
-
-  <div style="margin-top:40px;"></div>
-
-
 Teaching
 ======
 
@@ -79,49 +63,3 @@ Media Coverage
 *Sichuan Daily, August 1, 2025, page 10.* 
 
   <div style="margin-top:40px;"></div>
-
-Awards
-======
-
-
-
-
-<div style="overflow:auto;">
-  <span style="color:#008cba;">Research Scholarship</span>
-  <div style="float:right; text-align:right;">
-    Department of Economics, NUS<br>
-    Aug 2024 – Aug 2025
-  </div>
-</div>
-
-<div style="overflow:auto;">
-  <span style="color:#008cba;">Research Scholarship</span>
-  <div style="float:right; text-align:right;">
-    Ministry of Education (MOE), Singapore<br>
-    Aug 2020 – Aug 2024
-  </div>
-</div>
-
-<div style="overflow:auto;">
-  <span style="color:#008cba;">Undergraduate Exchange Scholarship</span>
-  <div style="float:right; text-align:right;">
-    SWUFE<br>
-    Jan 2020 – May 2020
-  </div>
-</div>
-
-<div style="overflow:auto;">
-  <span style="color:#008cba;">Outstanding Undergraduate Exchange Student</span>
-  <div style="float:right; text-align:right;">
-    China Scholarship Council (CSC)<br>
-    Aug 2018 – May 2019
-  </div>
-</div>
-
-<div style="overflow:auto;">
-  <span style="color:#008cba;">Academic Scholarship</span>
-  <div style="float:right; text-align:right;">
-    SWUFE<br>
-    Sep 2017 – Jun 2018
-  </div>
-</div>
