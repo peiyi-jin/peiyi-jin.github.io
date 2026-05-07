@@ -207,8 +207,7 @@ I received my PhD in Economics from the National University of Singapore (NUS) i
 <div class="paper-item">
   <div class="row">
     <a href="#" class="paper-title">Non-cognitive Development and Peer Effects: Experimental Evidence from Chinese Rural Boarding School Students</a>
-    <span class="paper-coauthors">with Yue Li</span>
-    <span class="request-note">slides available upon request</span>
+    <span class="paper-coauthors">with Yue Li, slides available upon request</span>
   </div>
 
   <details class="paper-details">
