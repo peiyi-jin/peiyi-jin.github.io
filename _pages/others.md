@@ -1,6 +1,6 @@
 ---
-title: ""
-permalink: /others/
+title: "Teaching&Service"
+permalink: /teaching-service/
 layout: single
 author_profile: true
 ---
