@@ -102,6 +102,45 @@ redirect_from:
     max-width: 450px;
     height: auto;
   }
+
+  @media (max-width: 768px) {
+    .page {
+      padding-left: 1rem !important;
+      padding-right: 1rem !important;
+    }
+
+    .row {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 6px;
+    }
+
+    .paper-item {
+      padding: 12px;
+      margin-top: 18px;
+      margin-bottom: 18px;
+    }
+
+    .paper-title {
+      display: block;
+      width: 100%;
+    }
+
+    .paper-coauthors--right,
+    .request-note {
+      margin-left: 0;
+      text-align: left;
+      white-space: normal;
+    }
+
+    .paper-details summary {
+      padding: 8px 0;
+    }
+
+    .paper-details-content {
+      padding: 10px 0 0 0;
+    }
+  }
 </style>
 
 <div class="mt-16"></div>
