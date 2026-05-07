@@ -1,5 +1,5 @@
 ---
-title: "Research Grants & Awards"
+title: ""
 permalink: /grants-awards/
 layout: single
 author_profile: true
