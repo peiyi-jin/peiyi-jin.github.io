@@ -1,5 +1,5 @@
 ---
-title: "Teaching&Service"
+title: "Teaching & Service"
 permalink: /teaching-service/
 layout: single
 author_profile: true
