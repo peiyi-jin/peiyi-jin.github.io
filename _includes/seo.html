@@ -5,14 +5,15 @@
   {% assign seo_url = site.url | append: site.baseurl %}
 {% endif %}
 {% assign seo_url = seo_url | default: site.github.url %}
+{% assign _seo_site_title = site.author.name | default: site.name | default: site.title %}
 
 {% if page.title %}
   {% assign _page_title_cmp = page.title | strip %}
-  {% assign _site_title_cmp = site.title | strip %}
+  {% assign _site_title_cmp = _seo_site_title | strip %}
   {% if _page_title_cmp == _site_title_cmp %}
-    {% assign seo_title = site.title %}
+    {% assign seo_title = _seo_site_title %}
   {% else %}
-    {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
+    {% assign seo_title = page.title | append: " - " | append: _seo_site_title %}
   {% endif %}
 {% endif %}
 
@@ -24,7 +25,7 @@
   {% assign canonical_url = page.url | replace: "index.html", "" | prepend: site.url %}
 {% endif %}
 
-<title>{{ seo_title | default: site.title }}{% if paginator %}{% unless paginator.page == 1 %} {{ site.title_separator }} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}{% endif %}</title>
+<title>{{ seo_title | default: _seo_site_title }}{% if paginator %}{% unless paginator.page == 1 %} - {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}{% endif %}</title>
 
 {% assign seo_description = page.description | default: page.excerpt | default: site.description %}
 {% if seo_description %}

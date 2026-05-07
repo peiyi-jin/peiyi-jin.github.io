@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Peiyi Jin"
+title: "Research"
 layout: single
 excerpt: ""
 author_profile: true
@@ -33,6 +33,11 @@ redirect_from:
 
   .paper-coauthors {
     font-size: 0.95em;
+  }
+
+  .paper-coauthors--right {
+    margin-left: auto;
+    text-align: right;
   }
 
   .request-note {
@@ -135,7 +140,7 @@ I received my PhD in Economics from the National University of Singapore (NUS) i
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764605" target="_blank" rel="noopener noreferrer" class="paper-title">
       Tax-Motivated Borrowing and Default Risk in Decentralized Lending
     </a>
-    <span class="paper-coauthors">
+    <span class="paper-coauthors paper-coauthors--right">
       with Lisa De Simone, Daniel Rabetti
     </span>
   </div>
@@ -159,7 +164,7 @@ I received my PhD in Economics from the National University of Singapore (NUS) i
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6435099" target="_blank" rel="noopener noreferrer" class="paper-title">
       When Privacy Protects but Excludes: The Costs and Benefits of Privacy Regulation in Credit Markets
     </a>
-    <span class="paper-coauthors">
+    <span class="paper-coauthors paper-coauthors--right">
       with Sumit Agarwal, Pulak Ghosh, Shohini Kundu, Nishant Vats, Xinbo Wang, Yingze Xu
     </span>
   </div>
