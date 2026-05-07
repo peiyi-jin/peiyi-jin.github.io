@@ -165,7 +165,7 @@ I received my PhD in Economics from the National University of Singapore (NUS) i
       When Privacy Protects but Excludes: The Costs and Benefits of Privacy Regulation in Credit Markets
     </a>
     <span class="paper-coauthors paper-coauthors--right">
-      with Sumit Agarwal, Pulak Ghosh, Shohini Kundu, Nishant Vats, Xinbo Wang, Yingze Xu
+      with S. Agarwal, P. Ghosh, S. Kundu, N. Vats, X. Wang, Y. Xu
     </span>
   </div>
 
