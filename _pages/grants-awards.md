@@ -24,7 +24,7 @@ Awards
 
 <div style="overflow:auto;">
   <span style="color:#1F2D5C;">Research Scholarship</span>
-  <div style="float:right; text-align:right;">
+  <div style="text-align:left;">
     Department of Economics, NUS<br>
     2024 – 2025
   </div>
@@ -32,7 +32,7 @@ Awards
 
 <div style="overflow:auto;">
   <span style="color:#1F2D5C;">Research Scholarship</span>
-  <div style="float:right; text-align:right;">
+  <div style="text-align:left;">
     Ministry of Education (MOE), Singapore<br>
     2020 – 2024
   </div>
@@ -40,7 +40,7 @@ Awards
 
 <div style="overflow:auto;">
   <span style="color:#1F2D5C;">Undergraduate Exchange Scholarship</span>
-  <div style="float:right; text-align:right;">
+  <div style="text-align:left;">
     SWUFE<br>
     2020
   </div>
@@ -48,7 +48,7 @@ Awards
 
 <div style="overflow:auto;">
   <span style="color:#1F2D5C;">Outstanding Undergraduate Exchange Student</span>
-  <div style="float:right; text-align:right;">
+  <div style="text-align:left;">
     China Scholarship Council (CSC)<br>
     2018 – 2019
   </div>
@@ -56,7 +56,7 @@ Awards
 
 <div style="overflow:auto;">
   <span style="color:#1F2D5C;">Academic Scholarship</span>
-  <div style="float:right; text-align:right;">
+  <div style="text-align:left;">
     SWUFE<br>
     2017 – 2018
   </div>
