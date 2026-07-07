@@ -22,7 +22,7 @@ Research Grant
 Awards
 ======
 
-<div style="overflow:auto;">
+<div style="overflow:auto; margin-bottom:18px;">
   <span style="color:#1F2D5C;">Research Scholarship</span>
   <div style="text-align:left;">
     Department of Economics, NUS&nbsp;&nbsp;&nbsp;
@@ -30,7 +30,7 @@ Awards
   </div>
 </div>
 
-<div style="overflow:auto;">
+<div style="overflow:auto; margin-bottom:18px;">
   <span style="color:#1F2D5C;">Research Scholarship</span>
   <div style="text-align:left;">
     Ministry of Education (MOE), Singapore&nbsp;&nbsp;&nbsp;
@@ -38,7 +38,7 @@ Awards
   </div>
 </div>
 
-<div style="overflow:auto;">
+<div style="overflow:auto; margin-bottom:18px;">
   <span style="color:#1F2D5C;">Undergraduate Exchange Scholarship</span>
   <div style="text-align:left;">
     SWUFE&nbsp;&nbsp;&nbsp;
@@ -46,7 +46,7 @@ Awards
   </div>
 </div>
 
-<div style="overflow:auto;">
+<div style="overflow:auto; margin-bottom:18px;">
   <span style="color:#1F2D5C;">Outstanding Undergraduate Exchange Student</span>
   <div style="text-align:left;">
     China Scholarship Council (CSC)&nbsp;&nbsp;&nbsp;
@@ -54,7 +54,7 @@ Awards
   </div>
 </div>
 
-<div style="overflow:auto;">
+<div style="overflow:auto; margin-bottom:18px;">
   <span style="color:#1F2D5C;">Academic Scholarship</span>
   <div style="text-align:left;">
     SWUFE&nbsp;&nbsp;&nbsp;
