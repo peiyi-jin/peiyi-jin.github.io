@@ -8,12 +8,12 @@ author_profile: true
 Research Grant
 ======
 <div class="row" style="margin-top:6px;">
-  <span>Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors</span>
+  <span style="color:#1F2D5C;">Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors</span>
   <span style="float:right;" class="muted">PI: Sumit Agarwal</span>
 </div>
 
 <div class="row">
-  <span style="color:#1F2D5C;">Asian Institute of Digital Finance, NUS ($120,000)</span>
+  <span>Asian Institute of Digital Finance, NUS ($120,000)</span>
   <span style="float:right;">2023 – 2025</span>
 </div>
 
