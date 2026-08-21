@@ -155,7 +155,7 @@ redirect_from:
 <p>Welcome to my website!</p>
 
 <p>
-My research focuses on decentralized market design, household finance, and technology in financial markets. I will be joining DeCenter at Princeton University as a postdoctoral research fellow.
+I am a postdoctoral research fellow at the DeCenter at Princeton University. My research examines decentralization, digital platforms, and the role of technology in financial markets.
 </p>
 
 <p>
