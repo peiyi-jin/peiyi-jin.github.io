@@ -68,7 +68,7 @@ Media Coverage
 
 <div style="margin-top: -20px;"></div>
 
-*CEPR VoxEU, 2026.* 
+*CEPR VoxEU, April 2026.* 
 
 <div style="margin-top: 24px;"></div>
 
