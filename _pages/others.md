@@ -56,6 +56,22 @@ Reviewer for [Review of Corporate Finance](https://www.nowpublishers.com/rcf), [
 Media Coverage
 ======
 
+[Crypto Capture of Foreign Aid](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)  
+
+<div style="margin-top: -20px;"></div>
+
+*Financial Times, August 2026.* 
+
+<div style="margin-top: 24px;"></div>
+
+[When privacy protects but excludes: The hidden costs of data restrictions in digital lending](https://cepr.org/voxeu/columns/when-privacy-protects-excludes-hidden-costs-data-restrictions-digital-lending)  
+
+<div style="margin-top: -20px;"></div>
+
+*CEPR VoxEU, 2026.* 
+
+<div style="margin-top: 24px;"></div>
+
 [What Are the Features and Challenges of Emerging Occupations? Strengthening the Development of New Professions to Stimulate Job Growth](https://drive.google.com/file/d/1Jk7IWf55R5rMGWje0CDyQueAgcFpd644/view?usp=sharing)  
 
 <div style="margin-top: -20px;"></div>

@@ -229,6 +229,11 @@ author_profile: true
     </span>
   </div>
 
+  <div class="paper-media">
+    <span class="paper-media-label">Media:</span>
+    <a href="https://cepr.org/voxeu/columns/when-privacy-protects-excludes-hidden-costs-data-restrictions-digital-lending" target="_blank" rel="noopener noreferrer">CEPR VoxEU</a>
+  </div>
+
   <details class="paper-details">
     <summary>Read more</summary>
     <div class="paper-details-content">
