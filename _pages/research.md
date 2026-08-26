@@ -83,6 +83,8 @@ author_profile: true
   .paper-details-content {
     padding: 14px;
     background: transparent;
+    font-size: 0.92em;
+    line-height: 1.55;
   }
 
   .paper-details-content p {
@@ -235,11 +237,6 @@ author_profile: true
     <div class="paper-details-content">
       <p><strong>Abstract:</strong><br>
       This paper studies the consequences of privacy regulation by exploiting Google's 2019 restriction on CDR access for a major Indian FinTech lender. We show that this intervention reflects a key policy trade-off in digital credit markets: strengthened privacy protections raise loan applications, consistent with higher demand, yet simultaneously induce tighter screening, reflecting an overall contraction in credit supply. This credit contraction disproportionately excludes economically and socially marginalized applicants. Linking to economy-wide credit bureau records, we quantify the "FinTech ladder effect" whereby initial digital credit access serves as a gateway to broader formal credit. Privacy-induced rejection reduces the probability of obtaining any formal credit by 13.7 percentage points even four years later. Using a structural model, we decompose the welfare effects of privacy regulation and show that the regulation generates a 0.53% increase in consumer surplus and reduces lender profits by 15%.
-      </p>
-
-      <p class="paper-media">
-      <span class="paper-media-label">Media:</span>
-      <a href="https://cepr.org/voxeu/columns/when-privacy-protects-excludes-hidden-costs-data-restrictions-digital-lending" target="_blank" rel="noopener noreferrer">CEPR VoxEU</a>
       </p>
 
       <p class="conference-info">
