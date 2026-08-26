@@ -96,9 +96,10 @@ author_profile: true
   }
 
   .paper-media {
-    margin-top: 6px;
     font-size: 0.9em;
     color: #4A4A4A;
+    margin-top: 0;
+    margin-bottom: 12px;
   }
 
   .paper-media .paper-media-label {
@@ -169,25 +170,25 @@ author_profile: true
 <div class="paper-item">
   <div class="row">
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5869682" target="_blank" rel="noopener noreferrer" class="paper-title">
-      Crypto Capture of Foreign Aid
+      Crypto Capture of Foreign Aid <span class="paper-status">(NBER Working Paper No. w35655)</span>
     </a>
     <span class="paper-coauthors">with Sumit Agarwal, Eswar Prasad, Daniel Rabetti</span>
-  </div>
-
-  <div class="paper-media">
-    <span class="paper-media-label">Media:</span>
-    <a href="https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb" target="_blank" rel="noopener noreferrer">Financial Times</a>
   </div>
 
   <details class="paper-details">
     <summary>Read more</summary>
     <div class="paper-details-content">
       <p><strong>Abstract:</strong><br>
-      This paper investigates whether cryptocurrencies have become a new conduit for laundering diverted foreign aid. Using World Bank aid disbursement data from 2018 to 2024, linked with forensically tagged on-chain Bitcoin transactions and off-chain exchange activity, we document systematic surges in crypto transactions for anonymous wallets after disbursements, especially on exchanges located in tax-haven jurisdictions. A one-standard-deviation increase in lagged aid is associated with a 0.51 log-point rise in anonymous transactions on tax-haven exchanges--approximately a 66% increase--concentrated in newly created wallets and fading within two quarters. Network analysis reveals a real-time laundering pattern: funds flow through regulated platforms, then through mixers and tax-haven exchanges, mirroring the classic placement, layering, and integration stages. Off-chain data confirm spikes in transactions on suspect, lightly regulated platforms. To address endogeneity in aid allocation, we use an IV strategy based on historical aid shares interacted with governance quality. Overall, our findings suggest that cryptocurrencies are increasingly used for offshore banking in concealing aid diversion. Our study shows how blockchain forensics can trace hidden financial flows and offers new tools for anti-corruption and crypto regulation.
+      The 2016 Panama Papers leak tightened regulatory enforcement around money laundering and offshore banking. We investigate whether the diversion of foreign aid in developing countries led to a shift to cryptocurrency as an alternative laundering platform. We develop a disbursement-timed forensic measure of cryptocurrency activity, combining on-chain Bitcoin transactions and wallet creation, off-chain exchange records, and IP-linked web traffic, and apply it to World Bank aid disbursements covering $238 billion across the 93 recipient countries in our estimation sample during 2018-2024. Exploiting the administrative timing of aid tranche arrivals, we find sharp, short-lived surges of crypto activity at the disbursement month, driven mainly by anonymous and newly created wallets on both tax-haven and mainstream exchanges. Blockchain forensics reveal patterns consistent with the placement, layering, and integration sequence of conventional money laundering. We estimate an implied leakage of 2 to 6 cents per aid dollar, which amounts to roughly 1.7 to 4.3 billion dollars of aid diversion across the tranche arrivals we study. Capture carries no funding penalty: the four sectors where we detect it, Transport, Water and Sanitation, Social Protection, and Governance, still absorb half of subsequent World Bank funding. Cryptocurrency facilitates aid diversion, but its transparent ledgers also leave forensic traces that may help detect and recover diverted funds.
+      </p>
+
+      <p class="paper-media">
+      <span class="paper-media-label">Media:</span>
+      <a href="https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb" target="_blank" rel="noopener noreferrer">Financial Times</a>
       </p>
 
       <p class="conference-info">
-      ABFER (2026), MFA (2026), 38th Australasian Finance and Banking Conference (2025)
+      AFA (2027), ABFER (2026), MFA (2026), FMA (2026), 38th Australasian Finance and Banking Conference (2025)
       </p>
     </div>
   </details>
@@ -229,16 +230,16 @@ author_profile: true
     </span>
   </div>
 
-  <div class="paper-media">
-    <span class="paper-media-label">Media:</span>
-    <a href="https://cepr.org/voxeu/columns/when-privacy-protects-excludes-hidden-costs-data-restrictions-digital-lending" target="_blank" rel="noopener noreferrer">CEPR VoxEU</a>
-  </div>
-
   <details class="paper-details">
     <summary>Read more</summary>
     <div class="paper-details-content">
       <p><strong>Abstract:</strong><br>
       This paper studies the consequences of privacy regulation by exploiting Google's 2019 restriction on CDR access for a major Indian FinTech lender. We show that this intervention reflects a key policy trade-off in digital credit markets: strengthened privacy protections raise loan applications, consistent with higher demand, yet simultaneously induce tighter screening, reflecting an overall contraction in credit supply. This credit contraction disproportionately excludes economically and socially marginalized applicants. Linking to economy-wide credit bureau records, we quantify the "FinTech ladder effect" whereby initial digital credit access serves as a gateway to broader formal credit. Privacy-induced rejection reduces the probability of obtaining any formal credit by 13.7 percentage points even four years later. Using a structural model, we decompose the welfare effects of privacy regulation and show that the regulation generates a 0.53% increase in consumer surplus and reduces lender profits by 15%.
+      </p>
+
+      <p class="paper-media">
+      <span class="paper-media-label">Media:</span>
+      <a href="https://cepr.org/voxeu/columns/when-privacy-protects-excludes-hidden-costs-data-restrictions-digital-lending" target="_blank" rel="noopener noreferrer">CEPR VoxEU</a>
       </p>
 
       <p class="conference-info">
