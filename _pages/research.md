@@ -243,7 +243,7 @@ author_profile: true
       </p>
 
       <p class="conference-info">
-      EFA (2026 scheduled), WEFIDEV-RFS-CEPR (2026)*, MFA (2026)*
+      EFA (2026), WEFIDEV-RFS-CEPR (2026)*, MFA (2026)*
       </p>
     </div>
   </details>
