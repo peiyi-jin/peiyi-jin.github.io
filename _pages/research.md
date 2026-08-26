@@ -31,6 +31,12 @@ author_profile: true
     color: #1F2D5C !important;
   }
 
+  .paper-status {
+    color: #000;
+    font-size: 0.82em;
+    font-weight: 400;
+  }
+
   .paper-coauthors {
     font-size: 0.95em;
   }
@@ -89,6 +95,22 @@ author_profile: true
     margin-bottom: 0;
   }
 
+  .paper-media {
+    margin-top: 6px;
+    font-size: 0.9em;
+    color: #4A4A4A;
+  }
+
+  .paper-media .paper-media-label {
+    font-weight: 600;
+    color: #1F2D5C;
+  }
+
+  .paper-media a {
+    color: #1F2D5C;
+    text-decoration: underline;
+  }
+
   .theme-heading {
     margin-top: 28px;
     margin-bottom: 6px;
@@ -119,6 +141,12 @@ author_profile: true
       width: 100%;
     }
 
+    .paper-status {
+      display: inline-block;
+      margin-top: 2px;
+      line-height: 1.35;
+    }
+
     .paper-coauthors--right,
     .request-note {
       margin-left: 0;
@@ -144,6 +172,11 @@ author_profile: true
       Crypto Capture of Foreign Aid
     </a>
     <span class="paper-coauthors">with Sumit Agarwal, Eswar Prasad, Daniel Rabetti</span>
+  </div>
+
+  <div class="paper-media">
+    <span class="paper-media-label">Media:</span>
+    <a href="https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb" target="_blank" rel="noopener noreferrer">Financial Times</a>
   </div>
 
   <details class="paper-details">
@@ -189,7 +222,7 @@ author_profile: true
 <div class="paper-item">
   <div class="row">
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6435099" target="_blank" rel="noopener noreferrer" class="paper-title">
-      When Privacy Protects but Excludes: The Costs and Benefits of Privacy Regulation in Credit Markets
+      When Privacy Protects but Excludes: The Costs and Benefits of Privacy Regulation in Credit Markets <span class="paper-status">(R&amp;R at Review of Financial Studies)</span>
     </a>
     <span class="paper-coauthors paper-coauthors--right">
       with S. Agarwal, P. Ghosh, S. Kundu, N. Vats, X. Wang, Y. Xu
