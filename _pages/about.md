@@ -155,7 +155,7 @@ redirect_from:
 <p>Welcome to my website!</p>
 
 <p>
-I am a postdoctoral research fellow at the DeCenter at Princeton University. My research is in empirical finance and development economics, and it asks how digital technology reshapes financial markets and the households and institutions that depend on them. Recent work spans blockchain and decentralized finance, data privacy and access to credit, digital platforms and consumer behavior, and human capital formation in developing economies. I work with large administrative datasets, blockchain forensics, and field experiments.
+I am a postdoctoral research fellow at the DeCenter at Princeton University. My research examines decentralization, digital platforms, and the role of technology in financial markets.
 </p>
 
 <p>
