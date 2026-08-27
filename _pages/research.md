@@ -96,8 +96,8 @@ author_profile: true
   .paper-media {
     font-size: 0.9em;
     color: #4A4A4A;
-    margin-top: 0;
-    margin-bottom: 12px;
+    margin-top: 8px;
+    margin-bottom: 0;
   }
 
   .paper-media .paper-media-label {
@@ -166,16 +166,16 @@ author_profile: true
     <span class="paper-coauthors">with Sumit Agarwal, Eswar Prasad, Daniel Rabetti</span>
   </div>
 
+  <p class="paper-media">
+    <span class="paper-media-label">Media:</span>
+    <a href="https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb" target="_blank" rel="noopener noreferrer">Financial Times</a>, August 2026.
+  </p>
+
   <details class="paper-details">
     <summary>Read more</summary>
     <div class="paper-details-content">
       <p><strong>Abstract:</strong><br>
       The 2016 Panama Papers leak tightened regulatory enforcement around money laundering and offshore banking. We investigate whether the diversion of foreign aid in developing countries led to a shift to cryptocurrency as an alternative laundering platform. We develop a disbursement-timed forensic measure of cryptocurrency activity, combining on-chain Bitcoin transactions and wallet creation, off-chain exchange records, and IP-linked web traffic, and apply it to World Bank aid disbursements covering $238 billion across the 93 recipient countries in our estimation sample during 2018-2024. Exploiting the administrative timing of aid tranche arrivals, we find sharp, short-lived surges of crypto activity at the disbursement month, driven mainly by anonymous and newly created wallets on both tax-haven and mainstream exchanges. Blockchain forensics reveal patterns consistent with the placement, layering, and integration sequence of conventional money laundering. We estimate an implied leakage of 2 to 6 cents per aid dollar, which amounts to roughly 1.7 to 4.3 billion dollars of aid diversion across the tranche arrivals we study. Capture carries no funding penalty: the four sectors where we detect it, Transport, Water and Sanitation, Social Protection, and Governance, still absorb half of subsequent World Bank funding. Cryptocurrency facilitates aid diversion, but its transparent ledgers also leave forensic traces that may help detect and recover diverted funds.
-      </p>
-
-      <p class="paper-media">
-      <span class="paper-media-label">Media:</span>
-      <a href="https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb" target="_blank" rel="noopener noreferrer">Financial Times</a>
       </p>
 
       <p class="conference-info">
@@ -221,6 +221,11 @@ author_profile: true
     </span>
   </div>
 
+  <p class="paper-media">
+    <span class="paper-media-label">Media:</span>
+    <a href="https://cepr.org/voxeu/columns/when-privacy-protects-excludes-hidden-costs-data-restrictions-digital-lending" target="_blank" rel="noopener noreferrer">When privacy protects but excludes: The hidden costs of data restrictions in digital lending</a>, CEPR VoxEU, April 2026.
+  </p>
+
   <details class="paper-details">
     <summary>Read more</summary>
     <div class="paper-details-content">
@@ -238,7 +243,7 @@ author_profile: true
 <div class="paper-item">
   <div class="row">
     <a href="#" class="paper-title">Digital Salience and Consumption Elasticity: Evidence from a Real-Time Feedback Intervention</a>
-    <span class="request-note">solo, slides available upon request</span>
+    <span class="paper-coauthors">solo</span>
   </div>
 
   <details class="paper-details">
@@ -260,18 +265,18 @@ author_profile: true
 <div class="paper-item">
   <div class="row">
     <a href="#" class="paper-title">Non-cognitive Development and Peer Effects: Experimental Evidence from Chinese Rural Boarding School Students</a>
-    <span class="paper-coauthors">with Yue Li, slides available upon request</span>
+    <span class="paper-coauthors">with Yue Li</span>
   </div>
 
   <details class="paper-details">
     <summary>Read more</summary>
     <div class="paper-details-content">
       <p><strong>Abstract:</strong><br>
-      This paper evaluates the direct and spillover effects of a low-cost, scalable intervention--audio bedtime stories--on non-cognitive skill development among rural boarding school students in China. Using a randomized controlled trial (RCT), we analyze data from 63 schools, where boarding students were exposed to bedtime stories broadcast through dormitory speakers. This design isolates treated students from untreated day students in the same classroom, allowing for robust identification of peer effects in non-cognitive skill transmission. The results show significant positive effects on treated students, with larger gains for those with day-student friends and larger friendship networks. Spillover effects on untreated day students were primarily driven by those with boarding friends, highlighting the critical role of peer networks in the transmission of non-cognitive skills. We use the characteristics of peers' peers but not direct peers to instrument peer resilience and self-esteem. Interacting with the treatment in the human capital production function, we will know how peers' outcomes affect one's own outcome and how the treatment changes the production function.
+      We study the direct and spillover effects of a low-cost socio-emotional intervention: 15-minute audio bedtime stories broadcast in the dormitories of 63 randomly assigned rural Chinese primary schools. Only boarders are directly exposed; day students share their classrooms. Treated boarders show modest noncognitive gains, while untreated day students gain more, including 0.16 standard deviations in self-esteem by 2017. The spillover concentrates among left-behind children of migrant parents and does not require a pre-existing friendship with a treated boarder. It is accompanied by shifts in friendship composition and by improvements in peer climate, school belonging, and perceived teacher support.
       </p>
 
       <p class="conference-info">
-      RES 2025 (Birmingham)*, Janeway Institute PhD Workshop 2025 (Cambridge)*, SOLE 2024 (Oregon)*, EAYE 2024 (Paris)*
+      Chinese Economist Society 2026 (Chengdu)*, RES 2025 (Birmingham)*, Janeway Institute PhD Workshop 2025 (Cambridge)*, SOLE 2024 (Oregon)*, EAYE 2024 (Paris)*
       </p>
     </div>
   </details>
