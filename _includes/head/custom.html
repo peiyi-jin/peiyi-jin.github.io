@@ -57,6 +57,26 @@
     background: #fff;
   }
 
+  /* the overflow menu inherits the masthead's white link colour, so give it
+     the masthead's background too instead of the theme's default white */
+  .greedy-nav .hidden-links {
+    background: #1F2D5C;
+    border-color: #1F2D5C;
+  }
+
+  .greedy-nav .hidden-links:before {
+    border-color: #1F2D5C transparent;
+  }
+
+  .greedy-nav .hidden-links a {
+    color: #fff !important;
+  }
+
+  .greedy-nav .hidden-links a:hover {
+    color: #fff !important;
+    background: rgba(255, 255, 255, 0.14);
+  }
+
   a,
   a:visited,
   .page__content a,

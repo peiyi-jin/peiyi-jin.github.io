@@ -39,16 +39,12 @@ author_profile: true
 
   .paper-coauthors {
     font-size: 0.95em;
+    flex-basis: 100%;
   }
 
-  .paper-coauthors--right {
-    margin-left: auto;
-    text-align: right;
-  }
 
   .request-note {
-    margin-left: auto;
-    white-space: nowrap;
+    flex-basis: 100%;
     font-size: 0.95em;
     font-style: italic;
   }
@@ -150,13 +146,6 @@ author_profile: true
       line-height: 1.35;
     }
 
-    .paper-coauthors--right,
-    .request-note {
-      margin-left: 0;
-      text-align: left;
-      white-space: normal;
-    }
-
     .paper-details summary {
       padding: 8px 0;
     }
@@ -201,7 +190,7 @@ author_profile: true
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4764605" target="_blank" rel="noopener noreferrer" class="paper-title">
       Tax-Motivated Borrowing and Default Risk in Decentralized Lending
     </a>
-    <span class="paper-coauthors paper-coauthors--right">
+    <span class="paper-coauthors">
       with Lisa De Simone, Daniel Rabetti
     </span>
   </div>
@@ -227,7 +216,7 @@ author_profile: true
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6435099" target="_blank" rel="noopener noreferrer" class="paper-title">
       When Privacy Protects but Excludes: The Costs and Benefits of Privacy Regulation in Credit Markets <span class="paper-status">(R&amp;R at Review of Financial Studies)</span>
     </a>
-    <span class="paper-coauthors paper-coauthors--right">
+    <span class="paper-coauthors">
       with S. Agarwal, P. Ghosh, S. Kundu, N. Vats, X. Wang, Y. Xu
     </span>
   </div>
@@ -271,7 +260,7 @@ author_profile: true
 <div class="paper-item">
   <div class="row">
     <a href="#" class="paper-title">Non-cognitive Development and Peer Effects: Experimental Evidence from Chinese Rural Boarding School Students</a>
-    <span class="paper-coauthors paper-coauthors--right">with Yue Li, slides available upon request</span>
+    <span class="paper-coauthors">with Yue Li, slides available upon request</span>
   </div>
 
   <details class="paper-details">

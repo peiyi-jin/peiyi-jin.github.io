@@ -18,6 +18,29 @@
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
+      <script>
+        /* The theme's greedy nav keeps whichever links fit and pushes the rest
+           into the overflow menu, so on a phone the masthead always showed the
+           first link rather than the page you are on. Promote the current
+           page's link to the front. This runs inline, before main.min.js
+           initialises the greedy nav, so the nav collapses from this order. */
+        (function () {
+          var list = document.querySelector('#site-nav .visible-links');
+          if (!list) return;
+          var here = window.location.pathname.replace(/\/+$/, '');
+          if (!here) return;
+          var items = list.querySelectorAll('li:not(.masthead__menu-item--lg)');
+          if (!items.length) return;
+          for (var i = 0; i < items.length; i++) {
+            var a = items[i].querySelector('a');
+            if (!a) continue;
+            if (a.pathname.replace(/\/+$/, '') === here) {
+              if (items[i] !== items[0]) list.insertBefore(items[i], items[0]);
+              return;
+            }
+          }
+        })();
+      </script>
     </div>
   </div>
 </div>
