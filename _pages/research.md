@@ -42,6 +42,17 @@ author_profile: true
     flex-basis: 100%;
   }
 
+  .paper-title-wrap {
+    flex-basis: 100%;
+  }
+
+  .paper-byline-inline {
+    font-size: 0.95em;
+    font-weight: 400;
+    margin-left: 6px;
+    white-space: nowrap;
+  }
+
 
   .request-note {
     flex-basis: 100%;
@@ -135,7 +146,7 @@ author_profile: true
       margin-bottom: 18px;
     }
 
-    .paper-title {
+    .paper-title:not(.has-inline-byline) {
       display: block;
       width: 100%;
     }
@@ -242,8 +253,7 @@ author_profile: true
 
 <div class="paper-item">
   <div class="row">
-    <a href="#" class="paper-title">Digital Salience and Consumption Elasticity: Evidence from a Real-Time Feedback Intervention</a>
-    <span class="paper-coauthors">solo</span>
+    <span class="paper-title-wrap"><a href="#" class="paper-title has-inline-byline">Digital Salience and Consumption Elasticity: Evidence from a Real-Time Feedback Intervention</a><span class="paper-byline-inline">solo</span></span>
   </div>
 
   <details class="paper-details">
