@@ -167,7 +167,7 @@ author_profile: true
   </div>
 
   <p class="paper-media">
-    <span class="paper-media-label">Media:</span>
+    <span class="paper-media-label">Coverage:</span>
     <a href="https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb" target="_blank" rel="noopener noreferrer">Financial Times</a>, August 2026.
   </p>
 
@@ -222,8 +222,8 @@ author_profile: true
   </div>
 
   <p class="paper-media">
-    <span class="paper-media-label">Media:</span>
-    <a href="https://cepr.org/voxeu/columns/when-privacy-protects-excludes-hidden-costs-data-restrictions-digital-lending" target="_blank" rel="noopener noreferrer">When privacy protects but excludes: The hidden costs of data restrictions in digital lending</a>, CEPR VoxEU, April 2026.
+    <span class="paper-media-label">Coverage:</span>
+    <a href="https://cepr.org/voxeu/columns/when-privacy-protects-excludes-hidden-costs-data-restrictions-digital-lending" target="_blank" rel="noopener noreferrer">CEPR VoxEU</a>, April 2026.
   </p>
 
   <details class="paper-details">
