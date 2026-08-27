@@ -1,5 +1,15 @@
 {% include base_path %}
 
+{% comment %}
+  Work out which nav entry corresponds to the page being rendered. That entry is
+  shown in the banner as plain text and is dropped from the link list, so the
+  overflow menu never offers the page you are already on.
+{% endcomment %}
+{% assign current_title = '' %}
+{% for link in site.data.navigation.main %}
+  {% if link.url == page.url %}{% assign current_title = link.title %}{% endif %}
+{% endfor %}
+
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
@@ -7,38 +17,32 @@
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
+          {% if current_title != '' %}
+            <li class="masthead__menu-item masthead__menu-item--current"><span>{{ current_title }}</span></li>
+          {% endif %}
           {% for link in site.data.navigation.main %}
-            {% if link.url contains 'http' %}
-              {% assign domain = '' %}
-              {% else %}
-              {% assign domain = base_path %}
-            {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            {% unless link.url == page.url %}
+              {% if link.url contains 'http' %}
+                {% assign domain = '' %}
+                {% else %}
+                {% assign domain = base_path %}
+              {% endif %}
+              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            {% endunless %}
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
       <script>
-        /* The theme's greedy nav keeps whichever links fit and pushes the rest
-           into the overflow menu, so on a phone the masthead always showed the
-           first link rather than the page you are on. Promote the current
-           page's link to the front. This runs inline, before main.min.js
-           initialises the greedy nav, so the nav collapses from this order. */
+        /* The theme's greedy nav measures link widths as soon as main.min.js
+           runs, which is before the webfont has swapped in. The links then grow
+           and the last one is left clipped under the menu button. Re-run its
+           resize handler once the fonts have settled so it measures for real. */
         (function () {
-          var list = document.querySelector('#site-nav .visible-links');
-          if (!list) return;
-          var here = window.location.pathname.replace(/\/+$/, '');
-          if (!here) return;
-          var items = list.querySelectorAll('li:not(.masthead__menu-item--lg)');
-          if (!items.length) return;
-          for (var i = 0; i < items.length; i++) {
-            var a = items[i].querySelector('a');
-            if (!a) continue;
-            if (a.pathname.replace(/\/+$/, '') === here) {
-              if (items[i] !== items[0]) list.insertBefore(items[i], items[0]);
-              return;
-            }
-          }
+          if (!document.fonts || !document.fonts.ready) return;
+          document.fonts.ready.then(function () {
+            window.dispatchEvent(new Event('resize'));
+          });
         })();
       </script>
     </div>

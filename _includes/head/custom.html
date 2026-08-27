@@ -77,6 +77,37 @@
     background: rgba(255, 255, 255, 0.14);
   }
 
+  /* the page you are on, shown as plain text next to the site title */
+  .greedy-nav .masthead__menu-item--current span {
+    display: block;
+    margin: 0 0.7rem;
+    padding: 0.5rem 0;
+    color: #fff;
+    font-size: 0.8em;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+    /* bounded so the greedy nav can always fit it beside the site title */
+    max-width: 42vw;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  @media (max-width: 480px) {
+    .greedy-nav .masthead__menu-item--lg a {
+      margin-right: 0.4rem;
+    }
+
+    .greedy-nav .masthead__menu-item--current span {
+      margin: 0 0.4rem;
+    }
+  }
+
+  /* belt and braces: never let it surface inside the overflow menu */
+  .greedy-nav .hidden-links .masthead__menu-item--current {
+    display: none;
+  }
+
   a,
   a:visited,
   .page__content a,
