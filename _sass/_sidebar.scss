@@ -14,7 +14,7 @@
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    @include span(2 of 12);
+    @include span(3 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -94,7 +94,7 @@
 // }
 
 .author__avatar img {
-  max-width: 250px;   // Increase from 175px to 250px (or any size you prefer)
+  max-width: 300px;   // portrait size cap (sidebar column is 3 of 12)
   border-radius: 50%;
 
   @include breakpoint($large) {
