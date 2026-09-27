@@ -167,7 +167,34 @@ author_profile: true
   }
 </style>
 
-<h3 class="theme-heading">Theme 1: Crypto and Decentralized Finance</h3>
+<div class="paper-item">
+  <div class="row">
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6435099" target="_blank" rel="noopener noreferrer" class="paper-title">
+      When Privacy Protects but Excludes: The Costs and Benefits of Privacy Regulation in Credit Markets <span class="paper-status">(R&amp;R at Review of Financial Studies)</span>
+    </a>
+    <span class="paper-coauthors">
+      with S. Agarwal, P. Ghosh, S. Kundu, N. Vats, X. Wang, Y. Xu
+    </span>
+  </div>
+
+  <p class="paper-media">
+    <span class="paper-media-label">Coverage:</span>
+    <a href="https://cepr.org/voxeu/columns/when-privacy-protects-excludes-hidden-costs-data-restrictions-digital-lending" target="_blank" rel="noopener noreferrer">CEPR VoxEU</a>, April 2026.
+  </p>
+
+  <details class="paper-details">
+    <summary>Read more</summary>
+    <div class="paper-details-content">
+      <p><strong>Abstract:</strong><br>
+      This paper studies the consequences of privacy regulation by exploiting Google's 2019 data-access restriction for a major Indian FinTech lender. We document a key trade-off of privacy regulation in digital credit markets: strengthened privacy protections raise loan applications, consistent with higher demand, yet induce tighter screening, reflecting an overall contraction in credit supply. This credit contraction disproportionately excludes economically and socially marginalized applicants. Linking to economy-wide credit bureau records, we quantify the "FinTech ladder effect" whereby initial digital credit access serves as a gateway to broader formal credit. Privacy-induced rejection reduces the probability of obtaining any formal credit by 13.7 percentage points even four years later. Using a structural model, we decompose the welfare effects of privacy regulation and show that the regulation generates a 0.23-0.60% increase in consumer surplus while reducing lender profits by 20-23%.
+      </p>
+
+      <p class="conference-info">
+      EFA (2026), WEFIDEV-RFS-CEPR (2026)*, MFA (2026)*
+      </p>
+    </div>
+  </details>
+</div>
 
 <div class="paper-item">
   <div class="row">
@@ -220,37 +247,6 @@ author_profile: true
   </details>
 </div>
 
-<h3 class="theme-heading">Theme 2: Digital Markets and Household Behavior</h3>
-
-<div class="paper-item">
-  <div class="row">
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6435099" target="_blank" rel="noopener noreferrer" class="paper-title">
-      When Privacy Protects but Excludes: The Costs and Benefits of Privacy Regulation in Credit Markets <span class="paper-status">(R&amp;R at Review of Financial Studies)</span>
-    </a>
-    <span class="paper-coauthors">
-      with S. Agarwal, P. Ghosh, S. Kundu, N. Vats, X. Wang, Y. Xu
-    </span>
-  </div>
-
-  <p class="paper-media">
-    <span class="paper-media-label">Coverage:</span>
-    <a href="https://cepr.org/voxeu/columns/when-privacy-protects-excludes-hidden-costs-data-restrictions-digital-lending" target="_blank" rel="noopener noreferrer">CEPR VoxEU</a>, April 2026.
-  </p>
-
-  <details class="paper-details">
-    <summary>Read more</summary>
-    <div class="paper-details-content">
-      <p><strong>Abstract:</strong><br>
-      This paper studies the consequences of privacy regulation by exploiting Google's 2019 data-access restriction for a major Indian FinTech lender. We document a key trade-off of privacy regulation in digital credit markets: strengthened privacy protections raise loan applications, consistent with higher demand, yet induce tighter screening, reflecting an overall contraction in credit supply. This credit contraction disproportionately excludes economically and socially marginalized applicants. Linking to economy-wide credit bureau records, we quantify the "FinTech ladder effect" whereby initial digital credit access serves as a gateway to broader formal credit. Privacy-induced rejection reduces the probability of obtaining any formal credit by 13.7 percentage points even four years later. Using a structural model, we decompose the welfare effects of privacy regulation and show that the regulation generates a 0.23-0.60% increase in consumer surplus while reducing lender profits by 20-23%.
-      </p>
-
-      <p class="conference-info">
-      EFA (2026), WEFIDEV-RFS-CEPR (2026)*, MFA (2026)*
-      </p>
-    </div>
-  </details>
-</div>
-
 <div class="paper-item">
   <div class="row">
     <span class="paper-title-wrap"><a href="#" class="paper-title has-inline-byline">Digital Salience and Consumption Elasticity: Evidence from a Real-Time Feedback Intervention</a><span class="paper-byline-inline">solo</span></span>
@@ -269,8 +265,6 @@ author_profile: true
     </div>
   </details>
 </div>
-
-<h3 class="theme-heading">Theme 3: Education and Development</h3>
 
 <div class="paper-item">
   <div class="row">
