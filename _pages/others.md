@@ -67,13 +67,6 @@ Awards
 
 <div style="margin-top:40px;"></div>
 
-Academic Service
-======
-Reviewer for [Review of Corporate Finance](https://www.nowpublishers.com/rcf), [Hawaii Accounting Research Conference](https://manoa.hawaii.edu/harc/)
-
-  <div style="margin-top:40px;"></div>
-
-
 Media Coverage
 ======
 
@@ -98,5 +91,11 @@ Media Coverage
 <div style="margin-top: -20px;"></div>
 
 *Sichuan Daily, August 1, 2025, page 10.* 
+
+  <div style="margin-top:40px;"></div>
+
+Academic Service
+======
+Reviewer for [Review of Corporate Finance](https://www.nowpublishers.com/rcf), [Hawaii Accounting Research Conference](https://manoa.hawaii.edu/harc/)
 
   <div style="margin-top:40px;"></div>
