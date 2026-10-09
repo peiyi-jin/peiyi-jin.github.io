@@ -95,12 +95,10 @@
 
 .author__avatar img {
   max-width: 300px;   // portrait size cap (sidebar column is 3 of 12)
-  border-radius: 50%;
-
-  @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
-  }
+  aspect-ratio: 360 / 430;   // rectangular portrait
+  object-fit: cover;
+  object-position: 50% 25%;
+  border-radius: 6px;
 }
 
 
