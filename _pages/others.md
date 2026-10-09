@@ -8,61 +8,46 @@ layout: single
 author_profile: true
 ---
 
+<style>
+  .hon-item { margin-bottom: 14px; }
+  .hon-row { display: flex; justify-content: space-between; align-items: baseline; gap: 16px; }
+  .hon-title { color: #1F2D5C; }
+  .hon-year { flex: 0 0 auto; color: #555; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .hon-org { color: #666; font-size: 0.92em; margin-top: 1px; }
+</style>
+
 Research Grant
 ======
-<div class="row" style="margin-top:6px;">
-  <span style="color:#1F2D5C;">Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors</span>
-  <span style="float:right;" class="muted">PI: Sumit Agarwal</span>
+
+<div class="hon-item">
+  <div class="hon-row"><span class="hon-title">Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors</span><span class="hon-year">2023 – 2025</span></div>
+  <div class="hon-org">Asian Institute of Digital Finance, NUS ($120,000) &nbsp;·&nbsp; PI: Sumit Agarwal</div>
 </div>
 
-<div class="row">
-  <span>Asian Institute of Digital Finance, NUS ($120,000)</span>
-  <span style="float:right;">2023 – 2025</span>
-</div>
-
-<div style="margin-top:40px;"></div>
+<div style="margin-top:28px;"></div>
 
 Awards
 ======
 
-<div style="overflow:auto; margin-bottom:18px;">
-  <span style="color:#1F2D5C;">Research Scholarship</span>
-  <div style="text-align:left;">
-    Department of Economics, NUS&nbsp;&nbsp;&nbsp;
-    2024 – 2025
-  </div>
+<div class="hon-item">
+  <div class="hon-row"><span class="hon-title">Research Scholarship</span><span class="hon-year">2024 – 2025</span></div>
+  <div class="hon-org">Department of Economics, NUS</div>
 </div>
-
-<div style="overflow:auto; margin-bottom:18px;">
-  <span style="color:#1F2D5C;">Research Scholarship</span>
-  <div style="text-align:left;">
-    Ministry of Education (MOE), Singapore&nbsp;&nbsp;&nbsp;
-    2020 – 2024
-  </div>
+<div class="hon-item">
+  <div class="hon-row"><span class="hon-title">Research Scholarship</span><span class="hon-year">2020 – 2024</span></div>
+  <div class="hon-org">Ministry of Education (MOE), Singapore</div>
 </div>
-
-<div style="overflow:auto; margin-bottom:18px;">
-  <span style="color:#1F2D5C;">Undergraduate Exchange Scholarship</span>
-  <div style="text-align:left;">
-    SWUFE&nbsp;&nbsp;&nbsp;
-    2020
-  </div>
+<div class="hon-item">
+  <div class="hon-row"><span class="hon-title">Undergraduate Exchange Scholarship</span><span class="hon-year">2020</span></div>
+  <div class="hon-org">SWUFE</div>
 </div>
-
-<div style="overflow:auto; margin-bottom:18px;">
-  <span style="color:#1F2D5C;">Outstanding Undergraduate Exchange Student</span>
-  <div style="text-align:left;">
-    China Scholarship Council (CSC)&nbsp;&nbsp;&nbsp;
-    2018 – 2019
-  </div>
+<div class="hon-item">
+  <div class="hon-row"><span class="hon-title">Outstanding Undergraduate Exchange Student</span><span class="hon-year">2018 – 2019</span></div>
+  <div class="hon-org">China Scholarship Council (CSC)</div>
 </div>
-
-<div style="overflow:auto; margin-bottom:18px;">
-  <span style="color:#1F2D5C;">Academic Scholarship</span>
-  <div style="text-align:left;">
-    SWUFE&nbsp;&nbsp;&nbsp;
-    2017 – 2018
-  </div>
+<div class="hon-item">
+  <div class="hon-row"><span class="hon-title">Academic Scholarship</span><span class="hon-year">2017 – 2018</span></div>
+  <div class="hon-org">SWUFE</div>
 </div>
 
 <div style="margin-top:40px;"></div>
