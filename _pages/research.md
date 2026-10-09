@@ -268,7 +268,7 @@ author_profile: true
 
 <div class="paper-item">
   <div class="row">
-    <a href="#" class="paper-title">Non-cognitive Development and Peer Effects: Experimental Evidence from Chinese Rural Boarding School Students</a>
+    <a href="#" class="paper-title">Bedtime Stories, Daytime Effects: Classroom Spillovers in Rural China</a>
     <span class="paper-coauthors">with Yue Li</span>
   </div>
 
@@ -276,10 +276,7 @@ author_profile: true
     <summary>Read more</summary>
     <div class="paper-details-content">
       <p><strong>Abstract:</strong><br>
-      We study the direct and spillover effects of a low-cost socio-emotional intervention: 15-minute audio bedtime stories broadcast in the dormitories of 63 randomly assigned rural Chinese primary schools. Only boarders are directly exposed; day students share their classrooms. Treated boarders show modest noncognitive gains, while untreated day students gain more, including 0.16 standard deviations in self-esteem by 2017. The spillover concentrates among left-behind children of migrant parents and does not require a pre-existing friendship with a treated boarder. It is accompanied by shifts in friendship composition and by improvements in peer climate, school belonging, and perceived teacher support.
-      </p>
-
-      <p class="conference-info">
+      We study the direct and spillover effectCan a school intervention benefit classmates outside its formal delivery group? We study a randomised socio-emotional program in 63 rural Chinese primary schools. In treated schools, fifteen-minute audio stories were broadcast nightly in school dormitories. The broadcasts formally targeted boarders; day students had returned home, although both groups shared classrooms and teachers during the school day. After fourteen months, day students in treated schools reported self-esteem 0.15 standard deviations higher and depressive symptoms 0.12 standard deviations lower than day students in control schools. The self-esteem gain extends to children with no pre-existing friendship with a boarder, suggesting that spillovers need not follow direct friendship ties. The pattern of estimates also varies with parental presence. These findings show that socio-emotional programs can affect children beyond their formal recipients and that recipient-only evaluations may understate their reach and total benefits.info">
       Chinese Economist Society 2026 (Chengdu)*, RES 2025 (Birmingham)*, Janeway Institute PhD Workshop 2025 (Cambridge)*, SOLE 2024 (Oregon)*, EAYE 2024 (Paris)*
       </p>
     </div>
