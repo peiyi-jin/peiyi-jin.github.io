@@ -1,50 +1,71 @@
 ---
 title: ""
-permalink: /teaching-service/
+permalink: /others/
+redirect_from:
+  - /teaching-service/
+  - /grants-awards/
 layout: single
 author_profile: true
 ---
 
-Teaching
+Research Grant
+======
+<div class="row" style="margin-top:6px;">
+  <span style="color:#1F2D5C;">Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors</span>
+  <span style="float:right;" class="muted">PI: Sumit Agarwal</span>
+</div>
+
+<div class="row">
+  <span>Asian Institute of Digital Finance, NUS ($120,000)</span>
+  <span style="float:right;">2023 – 2025</span>
+</div>
+
+<div style="margin-top:40px;"></div>
+
+Awards
 ======
 
-<div style="overflow:auto;">
-  <a href="https://nusmods.com/modules/EC3332/money-and-banking-i">NUS, TA, EC3332 Money and Banking I</a>
-  <span style="float:right;">2022</span>
+<div style="overflow:auto; margin-bottom:18px;">
+  <span style="color:#1F2D5C;">Research Scholarship</span>
+  <div style="text-align:left;">
+    Department of Economics, NUS&nbsp;&nbsp;&nbsp;
+    2024 – 2025
+  </div>
 </div>
 
-<div style="overflow:auto;">
-  <a href="https://nusmods.com/modules/EC3332/money-and-banking-i">NUS, TA, EC3332 Money and Banking I</a>
-  <span style="float:right;">2023</span>
+<div style="overflow:auto; margin-bottom:18px;">
+  <span style="color:#1F2D5C;">Research Scholarship</span>
+  <div style="text-align:left;">
+    Ministry of Education (MOE), Singapore&nbsp;&nbsp;&nbsp;
+    2020 – 2024
+  </div>
 </div>
 
-<div style="overflow:auto;">
-  <a href="https://jausa.ja.org/programs/ja-economics">SWUFE, Instructor, Junior Achievement Economics Workshop</a>
-  <span style="float:right;">2017</span>
+<div style="overflow:auto; margin-bottom:18px;">
+  <span style="color:#1F2D5C;">Undergraduate Exchange Scholarship</span>
+  <div style="text-align:left;">
+    SWUFE&nbsp;&nbsp;&nbsp;
+    2020
+  </div>
 </div>
 
-<div style="margin-top: 10px;"></div>
-
-
-<h3 style="margin-bottom: 5px; font-size: 1.25em;">Selected Student Feedback</h3>
-<!-- <div style="margin-top:-20px;"></div> -->
-<div style="margin-top: 10px; font-style: italic;">
-<p style="margin: 0;">
-  "Engaging and explains content well." </p>
-<p style="margin: 0;">
-  "Kind, friendly, and punctual." </p>
-<p style="margin: 0;">
-  "Peiyi's always very willing to answer students’ questions and explain material further to ensure everyone understands the course content." </p>
+<div style="overflow:auto; margin-bottom:18px;">
+  <span style="color:#1F2D5C;">Outstanding Undergraduate Exchange Student</span>
+  <div style="text-align:left;">
+    China Scholarship Council (CSC)&nbsp;&nbsp;&nbsp;
+    2018 – 2019
+  </div>
 </div>
 
+<div style="overflow:auto; margin-bottom:18px;">
+  <span style="color:#1F2D5C;">Academic Scholarship</span>
+  <div style="text-align:left;">
+    SWUFE&nbsp;&nbsp;&nbsp;
+    2017 – 2018
+  </div>
+</div>
 
-
-<!-- <div style="margin-top: 30px; text-align: center;">
-  <img src="/images/ja.png" alt="JA Workshop" style="max-width: 450px; height: auto;">
-</div> -->
-
-
-  <div style="margin-top:40px;"></div>
+<div style="margin-top:40px;"></div>
 
 Academic Service
 ======
