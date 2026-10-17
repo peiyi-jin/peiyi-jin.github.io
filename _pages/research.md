@@ -37,6 +37,24 @@ author_profile: true
     font-weight: 400;
   }
 
+  .paper-status-highlight {
+    display: inline-block;
+    margin-left: 6px;
+    padding: 1px 9px;
+    border: 1px solid #C9D2E6;
+    border-radius: 4px;
+    background: #EEF2F9;
+    color: #1F2D5C;
+    font-size: 0.85em;
+    font-weight: 400;
+    line-height: 1.5;
+    white-space: nowrap;
+  }
+
+  .paper-status-highlight strong {
+    font-weight: 600;
+  }
+
   .paper-coauthors {
     font-size: 0.95em;
     flex-basis: 100%;
@@ -169,9 +187,10 @@ author_profile: true
 
 <div class="paper-item">
   <div class="row">
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6435099" target="_blank" rel="noopener noreferrer" class="paper-title">
-      When Privacy Protects but Excludes: The Costs and Benefits of Privacy Regulation in Credit Markets <span class="paper-status">(R&amp;R at Review of Financial Studies)</span>
-    </a>
+    <span class="paper-title-wrap">
+      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6435099" target="_blank" rel="noopener noreferrer" class="paper-title">When Privacy Protects but Excludes: The Costs and Benefits of Privacy Regulation in Credit Markets</a>
+      <span class="paper-status-highlight"><strong>R&amp;R</strong>, <em>Review of Financial Studies</em></span>
+    </span>
     <span class="paper-coauthors">
       with S. Agarwal, P. Ghosh, S. Kundu, N. Vats, X. Wang, Y. Xu
     </span>
