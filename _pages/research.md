@@ -185,6 +185,8 @@ author_profile: true
   }
 </style>
 
+<p>I study how access to information shapes credit allocation, financial accountability, and user choice in digital markets. My current research asks how decentralization changes who controls information and how these systems are governed.</p>
+
 <div class="paper-item">
   <div class="row">
     <span class="paper-title-wrap">
