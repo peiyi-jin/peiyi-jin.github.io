@@ -185,7 +185,7 @@ author_profile: true
   }
 </style>
 
-<p>I study how access to information shapes credit allocation, financial accountability, and user choice in digital markets. My current research asks how decentralization changes who controls information and how these systems are governed.</p>
+<p>I study how digital technologies change the role of intermediaries in overcoming information frictions. My current research asks when technologies such as blockchain can build trust and enable exchange with less reliance on centralized institutions, and what this means for privacy, transparency, and market governance.</p>
 
 <div class="paper-item">
   <div class="row">
