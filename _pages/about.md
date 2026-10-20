@@ -155,7 +155,7 @@ redirect_from:
 <p>Welcome to my website!</p>
 
 <p>
-I am a postdoctoral research fellow at the DeCenter at Princeton University. I study how digital technologies change the role of intermediaries in overcoming information frictions.
+I am a postdoctoral research fellow at the DeCenter at Princeton University. I study how digital technologies reshape financial intermediation and platform governance.
 </p>
 
 <p>
