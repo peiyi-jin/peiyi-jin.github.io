@@ -155,7 +155,7 @@ redirect_from:
 <p>Welcome to my website!</p>
 
 <p>
-I am a postdoctoral research fellow at the DeCenter at Princeton University. My research examines decentralization, digital platforms, and the role of technology in financial markets.
+I am a postdoctoral research fellow at the DeCenter at Princeton University. I study how digital technologies change the role of intermediaries in overcoming information frictions.
 </p>
 
 <p>
