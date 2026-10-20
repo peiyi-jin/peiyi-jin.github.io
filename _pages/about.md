@@ -155,7 +155,7 @@ redirect_from:
 <p>Welcome to my website!</p>
 
 <p>
-I am a postdoctoral research fellow at the DeCenter at Princeton University. I study how digital technologies reshape financial intermediation and platform governance.
+I am a postdoctoral research fellow at the DeCenter at Princeton University. I study how digital technologies reshape platform governance, financial intermediation, and policymaking.
 </p>
 
 <p>
