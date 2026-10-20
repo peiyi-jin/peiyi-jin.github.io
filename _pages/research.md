@@ -185,7 +185,7 @@ author_profile: true
   }
 </style>
 
-<p>I study how digital technologies change the role of intermediaries in overcoming information frictions. My current research asks when technologies such as blockchain can build trust and enable exchange with less reliance on centralized institutions, and what this means for privacy, transparency, and market governance.</p>
+<p>Across digital lending, blockchain-based financial infrastructure, online platforms, and GovTech, I examine how these systems organize information, establish trust, and distribute control. My research explores how information access and institutional design influence economic behavior, with particular attention to privacy, user autonomy, welfare, and financial inclusion.</p>
 
 <div class="paper-item">
   <div class="row">
