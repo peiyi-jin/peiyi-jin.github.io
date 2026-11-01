@@ -55,19 +55,19 @@ Awards
 Media Coverage
 ======
 
-[Crypto Capture of Foreign Aid](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)  
-
-<div style="margin-top: -20px;"></div>
-
-*Financial Times, August 2026.* 
-
-<div style="margin-top: 24px;"></div>
-
 [Crypto capture of foreign aid](https://cepr.org/voxeu/columns/crypto-capture-foreign-aid)
 
 <div style="margin-top: -20px;"></div>
 
 *CEPR VoxEU, October 23, 2026.*
+
+<div style="margin-top: 24px;"></div>
+
+[Crypto Capture of Foreign Aid](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
+
+<div style="margin-top: -20px;"></div>
+
+*Financial Times, August 2026.*
 
 <div style="margin-top: 24px;"></div>
 
