@@ -125,6 +125,26 @@ redirect_from:
       height: auto;
     }
 
+    .sidebar .author__content {
+      display: block;
+      padding: 0;
+      margin-top: 8px;
+      text-align: center;
+    }
+
+    .sidebar .author__urls-wrapper {
+      display: block;
+      margin-top: 8px;
+      text-align: center;
+    }
+
+    .sidebar .author__urls {
+      left: 50%;
+      right: auto;
+      transform: translateX(-50%);
+      text-align: left;
+    }
+
     .page {
       padding-left: 1rem !important;
       padding-right: 1rem !important;
