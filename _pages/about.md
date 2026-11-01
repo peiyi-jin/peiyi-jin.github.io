@@ -111,40 +111,6 @@ redirect_from:
   }
 
   @media (max-width: 768px) {
-    .sidebar .author__avatar {
-      max-width: 180px;
-    }
-
-    .sidebar div.author__avatar {
-      margin-left: auto;
-      margin-right: auto;
-    }
-
-    .sidebar .author__avatar img {
-      width: 180px;
-      height: auto;
-    }
-
-    .sidebar .author__content {
-      display: block;
-      padding: 0;
-      margin-top: 8px;
-      text-align: center;
-    }
-
-    .sidebar .author__urls-wrapper {
-      display: block;
-      margin-top: 8px;
-      text-align: center;
-    }
-
-    .sidebar .author__urls {
-      left: 50%;
-      right: auto;
-      transform: translateX(-50%);
-      text-align: left;
-    }
-
     .page {
       padding-left: 1rem !important;
       padding-right: 1rem !important;
