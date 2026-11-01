@@ -111,6 +111,15 @@ redirect_from:
   }
 
   @media (max-width: 768px) {
+    .sidebar .author__avatar {
+      max-width: 180px;
+    }
+
+    .sidebar .author__avatar img {
+      width: 180px;
+      height: auto;
+    }
+
     .page {
       padding-left: 1rem !important;
       padding-right: 1rem !important;
