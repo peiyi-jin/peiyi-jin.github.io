@@ -227,7 +227,8 @@ author_profile: true
 
   <p class="paper-media">
     <span class="paper-media-label">Coverage:</span>
-    <a href="https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb" target="_blank" rel="noopener noreferrer">Financial Times</a>, August 2026.
+    <a href="https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb" target="_blank" rel="noopener noreferrer">Financial Times</a>, August 2026;
+    <a href="https://cepr.org/voxeu/columns/crypto-capture-foreign-aid" target="_blank" rel="noopener noreferrer">CEPR VoxEU</a>, October 2026.
   </p>
 
   <details class="paper-details">

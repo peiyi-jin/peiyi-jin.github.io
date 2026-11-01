@@ -63,6 +63,14 @@ Media Coverage
 
 <div style="margin-top: 24px;"></div>
 
+[Crypto capture of foreign aid](https://cepr.org/voxeu/columns/crypto-capture-foreign-aid)
+
+<div style="margin-top: -20px;"></div>
+
+*CEPR VoxEU, October 23, 2026.*
+
+<div style="margin-top: 24px;"></div>
+
 [When privacy protects but excludes: The hidden costs of data restrictions in digital lending](https://cepr.org/voxeu/columns/when-privacy-protects-excludes-hidden-costs-data-restrictions-digital-lending)  
 
 <div style="margin-top: -20px;"></div>
