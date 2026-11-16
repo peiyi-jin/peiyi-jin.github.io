@@ -12,6 +12,16 @@ author_profile: true
     padding-right: 2rem;
   }
 
+  .page__content .research-intro {
+    max-width: 72ch;
+    margin: 0 0 2rem;
+    color: #28334A;
+    font-size: 1.25rem;
+    font-weight: 400;
+    line-height: 1.7;
+    text-wrap: pretty;
+  }
+
   .row {
     display: flex;
     justify-content: space-between;
@@ -147,6 +157,12 @@ author_profile: true
   }
 
   @media (max-width: 768px) {
+    .page__content .research-intro {
+      margin-bottom: 1.5rem;
+      font-size: 1.125rem;
+      line-height: 1.65;
+    }
+
     .page {
       padding-left: 1rem !important;
       padding-right: 1rem !important;
@@ -185,7 +201,7 @@ author_profile: true
   }
 </style>
 
-<p>Across digital lending, blockchain-based financial infrastructure, online platforms, and GovTech, I examine how these systems organize information, establish trust, and distribute control. My research explores how information access and institutional design influence economic behavior, with particular attention to privacy, user autonomy, welfare, and financial inclusion.</p>
+<p class="research-intro">Across digital lending, blockchain-based financial infrastructure, online platforms, and GovTech, I examine how these systems organize information, establish trust, and distribute control. My research explores how information access and institutional design influence economic behavior, with particular attention to privacy, user autonomy, welfare, and financial inclusion.</p>
 
 <div class="paper-item">
   <div class="row">
