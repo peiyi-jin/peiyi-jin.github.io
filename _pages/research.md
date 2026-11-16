@@ -159,7 +159,7 @@ author_profile: true
   @media (max-width: 768px) {
     .page__content .research-intro {
       margin-bottom: 1.5rem;
-      font-size: 1.125rem;
+      font-size: 1.3rem;
       line-height: 1.65;
     }
 
