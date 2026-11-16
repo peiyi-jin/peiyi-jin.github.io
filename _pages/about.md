@@ -16,6 +16,16 @@ redirect_from:
     padding-right: 2rem;
   }
 
+  .page__content .home-intro {
+    max-width: 72ch;
+    margin: 0 0 2rem;
+    color: #28334A;
+    font-size: 1.25rem;
+    font-weight: 400;
+    line-height: 1.7;
+    text-wrap: pretty;
+  }
+
   .mt-16 { margin-top: 16px; }
   .mb-24 { margin-bottom: 24px; }
 
@@ -111,6 +121,12 @@ redirect_from:
   }
 
   @media (max-width: 768px) {
+    .page__content .home-intro {
+      margin-bottom: 1.5rem;
+      font-size: 1.3rem;
+      line-height: 1.65;
+    }
+
     .page {
       padding-left: 1rem !important;
       padding-right: 1rem !important;
@@ -152,16 +168,16 @@ redirect_from:
 
 <div class="mt-16"></div>
 
-<p>Welcome to my website!</p>
+<p class="home-intro">Welcome to my website!</p>
 
-<p>
+<p class="home-intro">
 I am a postdoctoral research fellow at the DeCenter at Princeton University. I study how digital technologies reshape platform governance, financial intermediation, and policymaking.
 </p>
 
-<p>
+<p class="home-intro">
 I received my PhD in Economics from the National University of Singapore (NUS) in 2026. Prior to that, I obtained my Bachelor's degree in Financial Engineering from the Southwestern University of Finance and Economics in 2020.
 </p>
 
-<p>
+<p class="home-intro">
 You can download my CV <a href="/files/PeiyiJin_NUS_2026.pdf" target="_blank" rel="noopener noreferrer">here</a>.
 </p>
