@@ -20,6 +20,11 @@ Research Grant
 ======
 
 <div class="hon-item">
+  <div class="hon-row"><span class="hon-title">AI² AI Research Tools Grant</span><span class="hon-year">2026</span></div>
+  <div class="hon-org">AI for Accelerating Invention (AI²), Princeton University</div>
+</div>
+
+<div class="hon-item">
   <div class="hon-row"><span class="hon-title">Examining the Effects of Digital Private Information Exposure on Fintech Lender and Borrower Behaviors</span><span class="hon-year">2023 – 2025</span></div>
   <div class="hon-org">Asian Institute of Digital Finance, NUS ($120,000) &nbsp;·&nbsp; PI: Sumit Agarwal</div>
 </div>
@@ -89,6 +94,6 @@ Media Coverage
 
 Academic Service
 ======
-Reviewer for [Review of Corporate Finance](https://www.nowpublishers.com/rcf), [Hawaii Accounting Research Conference](https://manoa.hawaii.edu/harc/)
+Reviewer for [Review of Corporate Finance](https://www.nowpublishers.com/rcf), [Hawaii Accounting Research Conference](https://manoa.hawaii.edu/harc/), [Swiss Society for Financial Market Research (SGF) Conference](https://fmpm.ch/sgf-conference)
 
   <div style="margin-top:40px;"></div>
