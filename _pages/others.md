@@ -14,7 +14,8 @@ author_profile: true
   .page__content a:visited,
   .page__content a:hover { color: #000; }
   .page__content h1,
-  .page__content h2 { color: #005C96; font-family: "Lora", Georgia, serif; }
+  .page__content h2,
+  .page__content h3 { color: #005C96; font-family: "Lora", Georgia, serif; }
 
   .hon-item { margin-bottom: 14px; }
   .hon-row { display: flex; justify-content: space-between; align-items: baseline; gap: 16px; }
@@ -64,8 +65,18 @@ Awards
 
 <div style="margin-top:40px;"></div>
 
-Media Coverage
+Academic Service
 ======
+
+### Refereeing
+
+<div class="hon-item"><div class="hon-row"><a class="hon-title" href="https://fmpm.ch/sgf-conference">Swiss Society for Financial Market Research (SGF) Conference</a><span class="hon-year">2026</span></div></div>
+
+<div class="hon-item"><div class="hon-row"><a class="hon-title" href="https://manoa.hawaii.edu/harc/">Hawaii Accounting Research Conference</a><span class="hon-year">2025, 2026</span></div></div>
+
+<div class="hon-item"><div class="hon-row"><a class="hon-title" href="https://www.nowpublishers.com/rcf">Review of Corporate Finance</a><span class="hon-year">2025</span></div></div>
+
+### Media Coverage
 
 [Crypto capture of foreign aid](https://cepr.org/voxeu/columns/crypto-capture-foreign-aid)
 
@@ -95,12 +106,4 @@ Media Coverage
 
 <div style="margin-top: -20px;"></div>
 
-*Sichuan Daily, August 1, 2025, page 10.* 
-
-  <div style="margin-top:40px;"></div>
-
-Academic Service
-======
-Reviewer for [Review of Corporate Finance](https://www.nowpublishers.com/rcf), [Hawaii Accounting Research Conference](https://manoa.hawaii.edu/harc/), [Swiss Society for Financial Market Research (SGF) Conference](https://fmpm.ch/sgf-conference)
-
-  <div style="margin-top:40px;"></div>
+*Sichuan Daily, August 1, 2025, page 10.*
