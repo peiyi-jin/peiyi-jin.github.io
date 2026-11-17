@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Peiyi Jin"
 layout: single
 excerpt: ""
 author_profile: true
@@ -14,6 +14,19 @@ redirect_from:
     max-width: 100% !important;
     padding-left: 2rem;
     padding-right: 2rem;
+  }
+
+  .page .page__title {
+    margin: 0 0 1.5rem;
+    color: #1F2D5C;
+    font-size: 2.75rem;
+    font-weight: 700;
+    line-height: 1.15;
+    text-wrap: balance;
+  }
+
+  .home-research-focus {
+    color: #1F2D5C;
   }
 
   .page__content .home-intro {
@@ -121,6 +134,11 @@ redirect_from:
   }
 
   @media (max-width: 768px) {
+    .page .page__title {
+      margin-bottom: 1.25rem;
+      font-size: 2.5rem;
+    }
+
     .page__content .home-intro {
       margin-bottom: 1.5rem;
       font-size: 1.3rem;
@@ -171,11 +189,11 @@ redirect_from:
 <p class="home-intro">Welcome to my website!</p>
 
 <p class="home-intro">
-I am a postdoctoral research fellow at the DeCenter at Princeton University. I study how digital technologies reshape platform governance, financial intermediation, and policymaking.
+I am a postdoctoral research fellow at the DeCenter at Princeton University. <span class="home-research-focus">I study how digital technologies reshape platform governance, financial intermediation, and policymaking.</span>
 </p>
 
 <p class="home-intro">
-I received my PhD in Economics from the National University of Singapore (NUS) in 2026. Prior to that, I obtained my Bachelor's degree in Financial Engineering from the Southwestern University of Finance and Economics in 2020.
+I received my PhD in Economics from the National University of Singapore (NUS). Prior to that, I obtained my Bachelor's degree in Financial Engineering from the Southwestern University of Finance and Economics.
 </p>
 
 <p class="home-intro">
