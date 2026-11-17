@@ -324,9 +324,3 @@ author_profile: true
     </div>
   </details>
 </div>
-
-<h2 class="theme-heading">Work in Progress</h2>
-
-<div class="paper-item"><span class="paper-title">1. Decentralization, Interoperability, and User Welfare: The Case of Bluesky</span></div>
-
-<div class="paper-item"><span class="paper-title">2. Blockchain and the Design of Cash Transfers for Refugees</span></div>
