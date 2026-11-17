@@ -88,6 +88,33 @@
 
   .site-navigation__links a[aria-current="page"] { font-weight: 600; }
 
+  .university-brand {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex: 0 0 166px;
+    margin-left: auto;
+    min-height: 44px;
+    text-decoration: none;
+  }
+
+  .university-brand img {
+    display: block;
+    width: 166px;
+    height: auto;
+  }
+
+  @media (max-width: 640px) {
+    .site-navigation { flex-wrap: wrap; row-gap: 0; }
+    .university-brand {
+      order: -1;
+      flex-basis: 100%;
+      margin-left: 0;
+      padding-top: 0.5rem;
+    }
+    .university-brand img { width: 128px; }
+  }
+
   .site-search-toggle,
   .site-search-close {
     display: inline-flex;
