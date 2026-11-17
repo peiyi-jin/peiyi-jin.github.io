@@ -13,7 +13,8 @@ author_profile: true
   }
 
   .page__content .research-intro {
-    max-width: 72ch;
+    width: 100%;
+    max-width: none;
     margin: 0 0 2rem;
     color: #28334A;
     font-size: 1.25rem;
