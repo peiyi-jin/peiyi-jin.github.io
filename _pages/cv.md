@@ -16,8 +16,8 @@ author_profile: false
   }
 </style>
 
-<p class="cv-actions"><a href="{{ base_path }}/files/PeiyiJin_CV_20261117_numbered.pdf" target="_blank" rel="noopener noreferrer">Open PDF in a new tab</a></p>
+<p class="cv-actions"><a href="{{ base_path }}/files/PeiyiJin_CV_20261117_spacing.pdf" target="_blank" rel="noopener noreferrer">Open PDF in a new tab</a></p>
 <div class="cv-pages" aria-label="Peiyi Jin's curriculum vitae, two pages">
-  <img src="{{ base_path }}/assets/images/cv/20261117-numbered/page-1.webp" alt="Peiyi Jin's curriculum vitae, page 1 of 2" width="1697" height="2400">
-  <img src="{{ base_path }}/assets/images/cv/20261117-numbered/page-2.webp" alt="Peiyi Jin's curriculum vitae, page 2 of 2" width="1697" height="2400" loading="lazy">
+  <img src="{{ base_path }}/assets/images/cv/20261117-spacing/page-1.webp" alt="Peiyi Jin's curriculum vitae, page 1 of 2" width="1697" height="2400">
+  <img src="{{ base_path }}/assets/images/cv/20261117-spacing/page-2.webp" alt="Peiyi Jin's curriculum vitae, page 2 of 2" width="1697" height="2400" loading="lazy">
 </div>
