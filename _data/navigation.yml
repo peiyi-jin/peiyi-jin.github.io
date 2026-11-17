@@ -1,9 +1,9 @@
 main:
   - title: "Home"
     url: /
-  - title: "CV"
-    url: /cv/
   - title: "Research"
     url: /research/
   - title: "Others"
     url: /others/
+  - title: "CV"
+    url: /cv/
