@@ -189,7 +189,7 @@ redirect_from:
 <p class="home-intro">Welcome to my website!</p>
 
 <p class="home-intro">
-I am a postdoctoral research fellow at the DeCenter at Princeton University. <span class="home-research-focus">I study how digital technologies reshape platform governance, financial intermediation, and policymaking.</span>
+I am a postdoctoral research fellow at the DeCenter at Princeton University. <span class="home-research-focus">I study how digital technologies reshape platform governance, financial intermediation, and policymaking.</span> I am also affiliated with the Initiative for Cryptocurrencies and Contracts (<a href="https://ic3research.org/" target="_blank" rel="noopener noreferrer">IC3</a>).
 </p>
 
 <p class="home-intro">
