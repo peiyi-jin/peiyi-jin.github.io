@@ -78,32 +78,11 @@ Academic Service
 
 ### Media Coverage
 
-[Crypto capture of foreign aid](https://cepr.org/voxeu/columns/crypto-capture-foreign-aid)
+<div class="hon-item"><a href="https://cepr.org/voxeu/columns/crypto-capture-foreign-aid">Crypto capture of foreign aid</a><div class="hon-row"><em>CEPR VoxEU</em><span class="hon-year">October 23, 2026</span></div></div>
 
-<div style="margin-top: -20px;"></div>
+<div class="hon-item"><a href="https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb">Crypto Capture of Foreign Aid</a><div class="hon-row"><em>Financial Times</em><span class="hon-year">August 2026</span></div></div>
 
-*CEPR VoxEU, October 23, 2026.*
+<div class="hon-item"><a href="https://cepr.org/voxeu/columns/when-privacy-protects-excludes-hidden-costs-data-restrictions-digital-lending">When privacy protects but excludes: The hidden costs of data restrictions in digital lending</a><div class="hon-row"><em>CEPR VoxEU</em><span class="hon-year">April 2026</span></div></div>
 
-<div style="margin-top: 24px;"></div>
+<div class="hon-item"><a href="https://drive.google.com/file/d/1Jk7IWf55R5rMGWje0CDyQueAgcFpd644/view?usp=sharing">What Are the Features and Challenges of Emerging Occupations? Strengthening the Development of New Professions to Stimulate Job Growth</a><div class="hon-row"><em>Sichuan Daily (page 10)</em><span class="hon-year">August 1, 2025</span></div></div>
 
-[Crypto Capture of Foreign Aid](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
-
-<div style="margin-top: -20px;"></div>
-
-*Financial Times, August 2026.*
-
-<div style="margin-top: 24px;"></div>
-
-[When privacy protects but excludes: The hidden costs of data restrictions in digital lending](https://cepr.org/voxeu/columns/when-privacy-protects-excludes-hidden-costs-data-restrictions-digital-lending)  
-
-<div style="margin-top: -20px;"></div>
-
-*CEPR VoxEU, April 2026.* 
-
-<div style="margin-top: 24px;"></div>
-
-[What Are the Features and Challenges of Emerging Occupations? Strengthening the Development of New Professions to Stimulate Job Growth](https://drive.google.com/file/d/1Jk7IWf55R5rMGWje0CDyQueAgcFpd644/view?usp=sharing)  
-
-<div style="margin-top: -20px;"></div>
-
-*Sichuan Daily, August 1, 2025, page 10.*
