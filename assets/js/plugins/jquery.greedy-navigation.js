@@ -13,6 +13,9 @@ var $hlinks = $('#site-nav .hidden-links');
 var breaks = [];
 
 function updateNav() {
+  // Custom navigation pages do not include the legacy greedy-nav elements.
+  // Exit before measuring empty jQuery collections or recursing.
+  if (!$nav.length || !$btn.length || !$vlinks.length || !$hlinks.length) return;
 
   var availableSpace = $btn.hasClass('hidden') ? $nav.width() : $nav.width() - $btn.width() - 30;
 
