@@ -22,6 +22,17 @@
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
+      {% if author.institution %}
+        <li>
+          <img src="{{ base_path }}/assets/images/princeton-shield.svg"
+               alt=""
+               style="width: 1.25em; height: 1.5em; object-fit: contain; vertical-align: middle; margin-right: 0.4em;">
+          {{ author.institution }}
+        </li>
+      {% endif %}
+      {% if author.location %}
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
+      {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
@@ -105,17 +116,6 @@
       {% endif %}
       {% if author.vine %}
         <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fab fa-fw fa-vine" aria-hidden="true"></i> Vine</a></li>
-      {% endif %}
-      {% if author.institution %}
-        <li>
-          <img src="{{ base_path }}/images/institution-icon.png"
-               alt=""
-               style="width: 1.25em; height: 1.25em; vertical-align: middle; margin-right: 0.4em;">
-          {{ author.institution }}
-        </li>
-      {% endif %}
-      {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
