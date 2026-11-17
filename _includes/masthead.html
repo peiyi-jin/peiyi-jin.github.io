@@ -1,50 +1,25 @@
 {% include base_path %}
-
-{% comment %}
-  Work out which nav entry corresponds to the page being rendered. That entry is
-  shown in the banner as plain text and is dropped from the link list, so the
-  overflow menu never offers the page you are already on.
-{% endcomment %}
-{% assign current_title = '' %}
-{% for link in site.data.navigation.main %}
-  {% if link.url == page.url %}{% assign current_title = link.title %}{% endif %}
-{% endfor %}
-
 <div class="masthead">
   <div class="masthead__inner-wrap">
-    <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
-        <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
-          {% if current_title != '' %}
-            <li class="masthead__menu-item masthead__menu-item--current"><span>{{ current_title }}</span></li>
-          {% endif %}
-          {% for link in site.data.navigation.main %}
-            {% unless link.url == page.url %}
-              {% if link.url contains 'http' %}
-                {% assign domain = '' %}
-                {% else %}
-                {% assign domain = base_path %}
-              {% endif %}
-              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-            {% endunless %}
-          {% endfor %}
-        </ul>
-        <ul class="hidden-links hidden"></ul>
-      </nav>
-      <script>
-        /* The theme's greedy nav measures link widths as soon as main.min.js
-           runs, which is before the webfont has swapped in. The links then grow
-           and the last one is left clipped under the menu button. Re-run its
-           resize handler once the fonts have settled so it measures for real. */
-        (function () {
-          if (!document.fonts || !document.fonts.ready) return;
-          document.fonts.ready.then(function () {
-            window.dispatchEvent(new Event('resize'));
-          });
-        })();
-      </script>
-    </div>
+    <nav class="site-navigation" aria-label="Main navigation">
+      <ul class="site-navigation__links">
+        {% for link in site.data.navigation.main %}
+        <li><a href="{{ base_path }}{{ link.url }}"{% if link.url == page.url %} aria-current="page"{% endif %}>{{ link.title }}</a></li>
+        {% endfor %}
+      </ul>
+      <button class="site-search-toggle" type="button" aria-label="Search this site" aria-haspopup="dialog" aria-controls="site-search">
+        <svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg>
+      </button>
+    </nav>
   </div>
 </div>
+<dialog id="site-search" class="site-search-dialog" aria-labelledby="site-search-title">
+  <div class="site-search-heading"><h2 id="site-search-title">Search this site</h2><button type="button" class="site-search-close" aria-label="Close search">×</button></div>
+  <form role="search" class="site-search-form">
+    <label for="site-search-input">Search Home, CV, Research and Others</label>
+    <input id="site-search-input" type="search" placeholder="Search papers, grants, research…" autocomplete="off" />
+  </form>
+  <p id="site-search-status" role="status">Enter a word or phrase to search.</p>
+  <ul id="site-search-results"></ul>
+</dialog>
+<script src="{{ base_path }}/assets/js/site-search.js" defer></script>

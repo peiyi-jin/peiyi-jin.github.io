@@ -24,88 +24,115 @@
 <meta name="theme-color" content="#ffffff">
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Gentium+Basic:ital,wght@0,400;0,700;1,400;1,700&amp;family=Lora:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
 <style>
+  body, input, textarea, select, button {
+    font-family: "Gentium Basic", Georgia, "Times New Roman", serif;
+  }
+  h1, h2, h3, h4, h5, h6, .page__title, .author__name {
+    font-family: "Lora", Georgia, serif;
+  }
+
   body,
   .initial-content,
   .page__content {
     background-color: #f6f6f6;
   }
 
-  .masthead,
-  .greedy-nav {
-    background-color: #1F2D5C;
-  }
-
   .masthead {
-    border-bottom: 0;
-  }
-
-  .greedy-nav a,
-  .greedy-nav .visible-links a,
-  .greedy-nav .site-title {
-    color: #fff !important;
-  }
-
-  .greedy-nav button {
-    color: #fff;
-    border-color: rgba(255, 255, 255, 0.65);
-  }
-
-  .greedy-nav .navicon,
-  .greedy-nav .navicon:before,
-  .greedy-nav .navicon:after {
     background: #fff;
+    border-bottom: 1px solid #E3E7EE;
   }
 
-  /* the overflow menu inherits the masthead's white link colour, so give it
-     the masthead's background too instead of the theme's default white */
-  .greedy-nav .hidden-links {
-    background: #1F2D5C;
-    border-color: #1F2D5C;
+  .site-navigation {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    min-height: 3.25rem;
+    font-family: "Lora", Georgia, serif;
   }
 
-  .greedy-nav .hidden-links:before {
-    border-color: #1F2D5C transparent;
+  .site-navigation__links {
+    display: flex;
+    align-items: center;
+    gap: 1.75rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
   }
 
-  .greedy-nav .hidden-links a {
-    color: #fff !important;
-  }
-
-  .greedy-nav .hidden-links a:hover {
-    color: #fff !important;
-    background: rgba(255, 255, 255, 0.14);
-  }
-
-  /* the page you are on, shown as plain text next to the site title */
-  .greedy-nav .masthead__menu-item--current span {
+  .site-navigation__links a,
+  .site-navigation__links a:visited {
     display: block;
-    margin: 0 0.7rem;
-    padding: 0.5rem 0;
-    color: #fff;
-    font-size: 0.8em;
-    font-weight: 600;
-    letter-spacing: 0.01em;
-    /* bounded so the greedy nav can always fit it beside the site title */
-    max-width: 42vw;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
+    padding: 0.75rem 0;
+    border-bottom: 2px solid transparent;
+    color: #3D4148;
+    font-size: 1rem;
+    text-decoration: none;
   }
+
+  .site-navigation__links a:hover,
+  .site-navigation__links a[aria-current="page"] {
+    color: #1F2D5C;
+    border-bottom-color: #1F2D5C;
+  }
+
+  .site-navigation__links a[aria-current="page"] { font-weight: 600; }
+
+  .site-search-toggle,
+  .site-search-close {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    flex: 0 0 44px;
+    width: 44px;
+    height: 44px;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    color: #1F2D5C;
+    cursor: pointer;
+  }
+
+  .site-search-toggle:hover,
+  .site-search-close:hover { background: #EEF2F9; }
+  .site-search-close { font-size: 1.75rem; }
+
+  .site-navigation a:focus-visible,
+  .site-navigation button:focus-visible,
+  .site-search-dialog :focus-visible {
+    outline: 2px solid #005C96;
+    outline-offset: 4px;
+  }
+
+  .site-search-dialog {
+    width: min(42rem, calc(100% - 2rem));
+    max-height: 85dvh;
+    margin: 10vh auto;
+    padding: 1.5rem;
+    border: 1px solid #D4DAE4;
+    border-radius: 8px;
+    color: #000;
+    background: #fff;
+    overflow-y: auto;
+  }
+
+  .site-search-dialog::backdrop { background: rgb(20 30 48 / 40%); }
+  .site-search-heading { display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
+  .site-search-heading h2 { margin: 0; color: #1F2D5C; font-size: 1.4rem; }
+  .site-search-form label { display: block; margin: 1rem 0 0.5rem; }
+  .site-search-form input { width: 100%; padding: 0.75rem; border: 1px solid #8994A5; background: #fff; color: #000; font: inherit; font-size: 1.125rem; }
+  #site-search-results { margin: 0; padding: 0; list-style: none; }
+  #site-search-results li { padding: 0.8rem 0; border-top: 1px solid #E3E7EE; }
+  #site-search-results a { font-weight: 700; }
+  #site-search-results p { margin: 0.4rem 0 0; line-height: 1.5; }
 
   @media (max-width: 480px) {
-    .greedy-nav .masthead__menu-item--lg a {
-      margin-right: 0.4rem;
-    }
-
-    .greedy-nav .masthead__menu-item--current span {
-      margin: 0 0.4rem;
-    }
-  }
-
-  /* belt and braces: never let it surface inside the overflow menu */
-  .greedy-nav .hidden-links .masthead__menu-item--current {
-    display: none;
+    .site-navigation { gap: 0.5rem; }
+    .site-navigation__links { gap: 0.9rem; }
+    .site-navigation__links a { font-size: 1.05rem; }
   }
 
   a,

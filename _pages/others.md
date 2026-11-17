@@ -9,11 +9,18 @@ author_profile: true
 ---
 
 <style>
+  .page__content,
+  .page__content a,
+  .page__content a:visited,
+  .page__content a:hover { color: #000; }
+  .page__content h1,
+  .page__content h2 { color: #005C96; font-family: "Lora", Georgia, serif; }
+
   .hon-item { margin-bottom: 14px; }
   .hon-row { display: flex; justify-content: space-between; align-items: baseline; gap: 16px; }
-  .hon-title { color: #1F2D5C; }
-  .hon-year { flex: 0 0 auto; color: #555; font-variant-numeric: tabular-nums; white-space: nowrap; }
-  .hon-org { color: #666; font-size: 0.92em; margin-top: 1px; }
+  .hon-title { color: #000; }
+  .hon-year { flex: 0 0 auto; color: #000; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .hon-org { color: #000; font-size: 0.92em; margin-top: 1px; }
 </style>
 
 Research Grant

@@ -1,0 +1,15 @@
+---
+layout: null
+permalink: /search.json
+---
+[
+{% assign search_paths = "/|/cv/|/research/|/others/" | split: "|" %}
+{% for path in search_paths %}
+  {% assign entry = site.pages | where: "url", path | first %}
+  {% assign label = "Home" %}
+  {% if path == "/cv/" %}{% assign label = "CV" %}{% endif %}
+  {% if path == "/research/" %}{% assign label = "Research" %}{% endif %}
+  {% if path == "/others/" %}{% assign label = "Others" %}{% endif %}
+  {"title": {{ label | jsonify }}, "url": {{ path | prepend: site.baseurl | jsonify }}, "text": {{ entry.content | split: "</style>" | last | markdownify | strip_html | normalize_whitespace | jsonify }}}{% unless forloop.last %},{% endunless %}
+{% endfor %}
+]

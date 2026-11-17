@@ -26,7 +26,7 @@ redirect_from:
   }
 
   .home-research-focus {
-    color: #1F2D5C;
+    color: #005C96;
   }
 
   .page__content .home-intro {
@@ -197,5 +197,5 @@ I received my PhD in Economics from the National University of Singapore (NUS). 
 </p>
 
 <p class="home-intro">
-You can download my CV <a href="/files/PeiyiJin_NUS_2026.pdf" target="_blank" rel="noopener noreferrer">here</a>.
+You can view my CV <a href="{{ base_path }}/cv/">here</a>.
 </p>
