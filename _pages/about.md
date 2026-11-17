@@ -18,7 +18,7 @@ redirect_from:
 
   .page .page__title {
     margin: 0 0 1.5rem;
-    color: #1F2D5C;
+    color: #005C96;
     font-size: 2.75rem;
     font-weight: 700;
     line-height: 1.15;
