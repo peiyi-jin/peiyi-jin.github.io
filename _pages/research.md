@@ -265,7 +265,7 @@ author_profile: true
 <div class="paper-item">
   <div class="row">
     <a href="#" class="paper-title">Bedtime Stories, Daytime Effects: Classroom Spillovers in Rural China</a>
-    <span class="paper-coauthors">with Yue Li</span>
+    <span class="paper-coauthors">with <a href="https://yueli-econ.github.io/" target="_blank" rel="noopener noreferrer">Yue Li</a></span>
   </div>
 
   <details class="paper-details">
